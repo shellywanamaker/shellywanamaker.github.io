@@ -19,6 +19,6 @@ We start off slow but sped up by the end of the day.
 
 Three tissues were taken for RNA (ctenidia, mantle, adductor) and snap frozen in liquid nitrogen. Additional ctenidia was stored in EtOH and the remaining body snap frozen. [Photos were taken of all oysters](https://github.com/RobertsLab/project-olympia.oyster-genomic/tree/master/data/100516-sampling-photos). Most were nicely tagged.
 
-![taggedoyster](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/data/100516-sampling-photos/IMG_5712.JPG?raw=true)
+![taggedoyster](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/data/100516-sampling-photos/IMG_5712.JPG?raw=true#w=100)
 
-Tubes were labelled 1-96 with number ids written down on data sheets (to be uploaded). Maturation status was also noted. 
+Tubes were labelled 1-96 with number ids [written down on data sheets](https://github.com/RobertsLab/project-olympia.oyster-genomic/blob/master/data/100516-data-sheets.pdf). Maturation status was also noted. 
