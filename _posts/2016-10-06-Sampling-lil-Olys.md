@@ -2,7 +2,7 @@
 layout: post
 title: Oly OA 48hr Sampling Event
 date: '2016-10-06'
-categories: Sample Processing
+categories: Sample-Processing
 tags: olympia oyster
 tags: shellfish
 tags: Manchester
