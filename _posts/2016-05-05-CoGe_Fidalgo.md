@@ -2,7 +2,7 @@
 layout: post
 title: CoGe on Fidalgo Sibs
 date: '2016-05-05'
-categories: Sample Processing
+categories: Sample-Processing
 tags: test
 tags: shellfish
 
