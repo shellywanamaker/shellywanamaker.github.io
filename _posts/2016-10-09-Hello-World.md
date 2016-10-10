@@ -5,4 +5,4 @@ title: You're up and running!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-World, this is laurahspencer. Let's play the shell game!!
+World, this is laurahspencer. Let's play the shell game!
