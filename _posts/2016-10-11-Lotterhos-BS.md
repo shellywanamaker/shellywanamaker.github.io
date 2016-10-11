@@ -15,7 +15,6 @@ Updating @
 
 
 
-# Analysis of two oyster samples where Lotterhos did methylRAD
 
 The M2 and M3 samples are here:
 
