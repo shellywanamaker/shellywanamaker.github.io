@@ -6,7 +6,6 @@ categories: Methylation
 tags: gigas
 tags: bsmap
 tags: oyster
-
 ---
 
 I started analysis of two gigas samples to eventually be compared with methylRAD. Below is a snapshot of the Jupyter notebook.
