@@ -11,10 +11,9 @@ tags: oyster
 
 I started analysis of two gigas samples to eventually be compared with methylRAD. Below is a snapshot of the Jupyter notebook.
 Updating @
-https://github.com/sr320/sr320.github.io/blob/master/jupyter/Cgigas/Lotterhos%20BS%20samples.ipynb
+<https://github.com/sr320/sr320.github.io/blob/master/jupyter/Cgigas/Lotterhos%20BS%20samples.ipynb>
 
 
----
 
 # Analysis of two oyster samples where Lotterhos did methylRAD
 
