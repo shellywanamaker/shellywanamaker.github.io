@@ -12,6 +12,7 @@ I started analysis of two gigas samples to eventually be compared with methylRAD
 Updating @
 <https://github.com/sr320/sr320.github.io/blob/master/jupyter/Cgigas/Lotterhos%20BS%20samples.ipynb>
 
+    
 The M2 and M3 samples are here:
 
 http://owl.fish.washington.edu/nightingales/C_gigas/9_GATCAG_L001_R1_001.fastq.gz
