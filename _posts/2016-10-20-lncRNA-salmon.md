@@ -14,3 +14,13 @@ I mapped the contigs to the genome `GCA_000233375.4_ICSASG_v2_genomic.fna`
 
 
 ![clc](https://github.com/sr320/sr320.github.io/blob/master/images/lncRNA-map.png?raw=true)
+
+
+--- 
+few more links
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Salmo_salar__ID_369__-_Genome_-_NCBI_and_journal_pone_0165231_g007_PNG_1DBAFCF6.png" alt="Salmo_salar__ID_369__-_Genome_-_NCBI_and_journal_pone_0165231_g007_PNG_1DBAFCF6.png"/>
+
+<https://www.ncbi.nlm.nih.gov/genome/?term=txid8030[orgn]>
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Salmo_salar__ID_369__-_Genome_-_NCBI_1DBAFD9C.png" alt="Salmo_salar__ID_369__-_Genome_-_NCBI_1DBAFD9C.png"/>
