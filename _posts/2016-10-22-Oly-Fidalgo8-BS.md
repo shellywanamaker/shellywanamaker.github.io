@@ -1,11 +1,10 @@
 
 ---
 layout: post
-title: Fidalgo 8 Oly BS
+title: Fidalgo 8 Oly Oyster BS
 date: '2016-10-22'
 categories: Ostrea
-tags: bs, bsmap, python, olympia, oyster, scaffold, 
-
+tags: bs, bsmap, python, olympia, oyster, scaffold
 ---
 
 
