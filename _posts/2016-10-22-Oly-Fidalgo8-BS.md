@@ -9,23 +9,7 @@ tags: bs, bsmap, python, olympia, oyster, scaffold
 
 Analysis of eight Fidalgo Olympia oysters
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-relay
-
+<br\>
 
 ```python
 ls analyses/2016-10-11
