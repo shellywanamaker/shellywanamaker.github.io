@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Fidalgo 8 Oly Oyster BS
@@ -8,7 +7,9 @@ tags: bs, bsmap, python, olympia, oyster, scaffold
 ---
 
 
+Analysis of eight Fidalgo Olympia oysters
 
+---
 
 
 ```python
