@@ -4,13 +4,13 @@ title: Draft Research Plan for Oyster Gonad Project
 ---
 
 
-###Oyster OA/Temp Gonad Project - Draft Research Plan
+### Oyster OA/Temp Gonad Project - Draft Research Plan
 
 This is a draft research plan for a project I could possibly execute winter 2016/2017. I invite any and all feedback. Thanks!
 
 _**Note**: The following plan is specific to O. lurida primarily due to my knowledge of culturing & my NSF proposal focused on this species.  However I am interested in opinions regarding possibly shifting to C. gigas in light of the following: I could leverage the already sequenced, aligned & annotated genome; this species does not brood, therefore I could collected/analyze quality of eggs/sperm & fertilization success rate. FYI: Overwintering temperature treatments would need to increase should we opt for C. gigas.  In terms of interest, I would happily research either species._ 
 
-####Research Concept: a quick look
+#### Research Concept: a quick look
 
 A rapidly broadening body of literature indicates that low pH negatively affects many marine invertebrates, much of which has focused on impacts of OA on invertebrate fertilization and larval stages of development, as they are thought to be most sensitive to changing ocean conditions, and therefore the population-level “bottleneck.”  However, Kurihara et al. showed that in sea urchins, adults exposed to six months of predicted high levels of CO2 displayed delayed gonad maturation and spawning. No such study has explored the gonadal development and overall larval production response of any bivalve to OA. Larval production, gametogenesis cycling, reproductive energy budgeting, and sex ratios may also respond to acidified waters.  
 
@@ -20,8 +20,9 @@ Perhaps most importantly, the oyster genome has been shown to be highly polympor
 
 In response to these data gaps, this proposal seeks to elucidate the interactive effects of elevated temperature and dissolved CO2 on gonad development, egg/sperm quality, larval production, and differential gene expression & transgenerational selection. 
 
+---
 
-####Experimental Plan Overview
+#### Experimental Plan Overview
 
 **Things to sample/measure:**  
 
@@ -53,7 +54,7 @@ In response to these data gaps, this proposal seeks to elucidate the interactive
   * Treatment #3: pH 7.7 (~1000pm) @ 18°C
   * Treatment #4:  pH 7.7 (~1000pm) @ 20°C
   
-<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/oyster-expir-sketch.JPG?raw=true" width=500>
+<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/oyster-expir-sketch.JPG?raw=true" width="500" />
 
 **Stage 1: Overwintering Conditioning:** _for up to 4 months (what is the appropriate length of time?) condition broodstock oysters in varying T & pH & induce spawn_
 
