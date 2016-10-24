@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A bit about me
 permalink: /about/
 ---
 
@@ -8,7 +8,7 @@ As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am 
 
 ### Fun-Fact
 
-I also work at a brewery called Mollusk. Come say "hi!" on a Friday night!
+I also work at a brewery called [Mollusk](http://www.molluskseattle.com/). Come say "hi!" on a Friday night and try an oyster stout, or the squid-ink black lager!
 
 ### Contact me
 
