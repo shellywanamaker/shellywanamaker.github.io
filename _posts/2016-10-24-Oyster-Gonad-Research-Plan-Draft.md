@@ -4,8 +4,6 @@ title: Draft Research Plan for Oyster Gonad Project
 ---
 
 
-### Oyster OA/Temp Gonad Project - Draft Research Plan
-
 This is a draft research plan for a project I could possibly execute winter 2016/2017. I invite any and all feedback. Thanks!
 
 _**Note**: The following plan is specific to O. lurida primarily due to my knowledge of culturing & my NSF proposal focused on this species.  However I am interested in opinions regarding possibly shifting to C. gigas in light of the following: I could leverage the already sequenced, aligned & annotated genome; this species does not brood, therefore I could collected/analyze quality of eggs/sperm & fertilization success rate. FYI: Overwintering temperature treatments would need to increase should we opt for C. gigas.  In terms of interest, I would happily research either species._ 
