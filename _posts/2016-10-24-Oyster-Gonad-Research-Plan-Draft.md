@@ -1,3 +1,9 @@
+---
+layout: post
+title: Draft Research Plan for Oyster Gonad Project
+---
+
+
 ###Oyster OA/Temp Gonad Project - Draft Research Plan
 
 This is a draft research plan for a project I could possibly execute winter 2016/2017. I invite any and all feedback. Thanks!
