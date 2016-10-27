@@ -37,6 +37,9 @@ printf "%s\n%s\n%s%s\n%s'%s\'\n%s\n" "$MD_LINE" "$LAYOUT" "$TITLE" "$PHRASE" "$D
 # Opens NEW_MD_FILE in nano text editor for editing.
 nano "$NEW_MD_FILE"
 
+# Make sure repo is ready for add
+#git push
+
 
 # Use git to stage, commit, and push NEW_MD_FILE to GitHub
 git add "$NEW_MD_FILE"
