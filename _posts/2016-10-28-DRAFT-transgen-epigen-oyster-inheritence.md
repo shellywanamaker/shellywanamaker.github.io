@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Facility Needs for Transgenerational epigenetic effects of climate stressors on oysters
+title: Transgenerational epigenetic effects of climate stressors on oysters
 ---
 
 
