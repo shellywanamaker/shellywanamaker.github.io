@@ -22,13 +22,13 @@ In response to these data gaps, this proposal seeks to elucidate the interactive
 #### Experimental Plan Overview
 
 **Timeline:**  
-*  Broodstock conditioning in treatment conditions: ~4 months, _December 2016-March 2017_
-*  Spawning & larval care in treatment conditions: 2-4 weeks, _April 2017_
-*  Setting and rearing in hatchery: ~2-4 weeks _May 2017_
-*  Housing seed off dock: ~10 months _June 2017-April 2018_
+*  Broodstock conditioning in treatment conditions: ~4 months, _December 2016-March 2017_  
+*  Spawning & larval care in treatment conditions: 2-4 weeks, _April 2017_  
+*  Setting and rearing in hatchery: ~2-4 weeks _May 2017_  
+*  Housing seed off dock: ~10 months _June 2017-April 2018_  
 
 **Animals:**  
-*  650 mature F1 _Ostrea lurida_ from same pooled 'family'
+*  650 mature F1 _Ostrea lurida_ from same pooled 'family'  
 *  650 mature _Crassostrea gigas_ from same genetic line
 
 **Experimental Treatments:**  
