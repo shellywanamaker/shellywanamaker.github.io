@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Myster blast fails
+title: Mystery blast fails
 date: '2016-10-27'
 categories: snippet
 ---
