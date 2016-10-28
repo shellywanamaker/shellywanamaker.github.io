@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ssalar Protein Annnoation Complete
+title: Ssalar Protein Annnotation Complete
 date: '2016-10-28'
 categories: snippet
 ---
