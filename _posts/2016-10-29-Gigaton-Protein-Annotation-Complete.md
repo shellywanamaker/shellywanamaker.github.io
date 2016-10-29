@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gigaton Protein Annoation Complete
+title: Gigaton Protein Annotation Complete
 date: '2016-10-29'
 categories: snippet
 ---
