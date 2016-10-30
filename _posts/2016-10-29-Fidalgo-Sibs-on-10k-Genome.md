@@ -9,3 +9,6 @@ Running BSMAP on version of _Ostrea lurida_ genome that is limited by 10k minimu
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/genefish_1DC572E1.png" alt="genefish_1DC572E1.png"/>
 
+---
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/genefish_1DC57645.png" alt="genefish_1DC57645.png"/>
