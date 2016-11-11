@@ -6,6 +6,6 @@ categories: snippet
 ---
 
 
-![repeat](https://github.com/sr320/sr320.github.io/blob/master/images/repeat.gif)
+![repeat](https://github.com/sr320/sr320.github.io/blob/master/images/repeat.gif?raw=true)
 
 
