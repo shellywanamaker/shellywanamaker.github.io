@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protein Extraction: day 1
+title: Protein Extraction, day 1
 ---
 
 ## DNR Geoduck OA overview
