@@ -13,7 +13,7 @@ The Pacific geoduck (Panopea generosa) is the largest clam native to the Pacific
 
 The gill proteome will be sequenced using tandem mass spectrometry to reveal expression pattern associated with local conditions. With these results we seek to examine how protein profiles might provide valuable information on local conditions including how environmental change can influence bivalve physiology. 
 
-For details more details, data, protocols, scripts see the [Github repo](https://github.com/RobertsLab/project-geoduck-oa)
+For more details, data, protocols, scripts see the [Github repo](https://github.com/RobertsLab/project-geoduck-oa)
 
 ---
 
@@ -21,7 +21,7 @@ For details more details, data, protocols, scripts see the [Github repo](https:/
 
 I am following the [Protein Preparation for MSMS protocol](https://github.com/sr320/LabDocs/blob/master/protocols/ProteinprepforMSMS.md), provided by [Emma Timmins-Schiffman](https://github.com/emmats), and updated by [Rhonda Elliott](https://github.com/Ellior2). 
 
-[Rhonda's lab notebook](https://ellior2.github.io/), particularly posts from 11/16/2016 - 12/6/2016 (e.g. ["First Lab Day"](https://ellior2.github.io/FirstLabDay/) from her recent extraction, is also very helpful.  
+[Rhonda's lab notebook](https://ellior2.github.io/), particularly posts from 11/16/2016 - 12/6/2016 (e.g. ["First Lab Day"](https://ellior2.github.io/FirstLabDay/)) from her recent extraction, is also very helpful.  
  
 ### Today's Tasks:
 * Select samples for this run: 
