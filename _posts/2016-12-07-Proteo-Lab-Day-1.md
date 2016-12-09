@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protein Extraction, day 1
+title: Lab day 1 - Make reagents, divide sample, prep
 ---
 
 ## DNR Geoduck OA overview
