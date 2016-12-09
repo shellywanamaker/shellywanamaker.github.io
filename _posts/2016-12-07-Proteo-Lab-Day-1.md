@@ -17,7 +17,7 @@ For more details, data, protocols, scripts see the [Github repo](https://github.
 
 ---
 
-## Lab day 1 tasks
+## Lab day 1
 
 I am following the [Protein Preparation for MSMS protocol](https://github.com/sr320/LabDocs/blob/master/protocols/ProteinprepforMSMS.md), provided by [Emma Timmins-Schiffman](https://github.com/emmats), and updated by [Rhonda Elliott](https://github.com/Ellior2). 
 
