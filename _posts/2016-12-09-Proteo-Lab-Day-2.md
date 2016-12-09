@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab day 2: Homogenization & Sonication
+title: Lab day 2 - Homogenization & Sonication
 ---
 
 ## Today's lab work involved homogenizing the tissue in solution, then sonicating to lyse the cells. 
