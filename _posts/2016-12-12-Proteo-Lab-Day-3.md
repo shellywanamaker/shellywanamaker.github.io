@@ -73,18 +73,6 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
   * Insert into spectrophotometer (plate reader), and read absorbance at 540nm; do multiple readings to ensure accuracy.
   * Download data. 
   
-Results:  
-|   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    | 11    | 12    |
-|---|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
-| A | 0.876 | 0.888 | 0.792 | 0.647 | 0.627 | 0.631 | 0.518 | 0.518 | 0.503 | 0.38  | 0.373 | 0.373 |
-| B | 0.26  | 0.232 | 0.234 | 0.149 | 0.146 | 0.158 | 0.082 | 0.083 | 0.082 | 0.071 | 0.072 | 0.072 |
-| C | 0.209 | 0.208 | 0.204 | 0.223 | 0.228 | 0.224 | 0.457 | 0.442 | 0.436 | 0.208 | 0.206 | 0.208 |
-| D | 0.59  | 0.569 | 0.559 | 0.381 | 0.375 | 0.362 | 0.411 | 0.405 | 0.407 | 0.147 | 0.147 | 0.146 |
-| E | 0.555 | 0.542 | 0.547 | 0.091 | 0.089 | 0.089 | 0.374 | 0.366 | 0.034 | 0.25  | 0.249 | 0.241 |
-| F | 0.241 | 0.249 | 0.245 | 0.178 | 0.175 | 0.172 | 0.215 | 0.217 | 0.22  | 0.637 | 0.699 | 0.669 |
-| G | 0.208 | 0.203 | 0.204 | 0.416 | 0.371 | 0.37  | 0.488 | 0.469 | 0.473 | 0.627 | 0.602 | 0.62  |
-| H | 0.107 | 0.112 | 0.109 | 0.085 | 0.088 | 0.089 |       |       |       |       |       |       |
-  
 ### **Step 6: Calculate standard concentration curve**
   * Take averages of all standard replicates
   * Subtract the average aborbance for the blank standard from other standard averages.
