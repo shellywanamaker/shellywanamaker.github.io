@@ -38,40 +38,80 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
     * **Vial H** (0.025ug/ml BSA concentration): Add 400ul of Lysis Buffer to 100ul Vial G dilution
     * **Vial I** (0.000ug/ml BSA concentration): Add 500ul of lysis buffer
 
-**Step 3: Pipette standards and samples into microplate** 
-Obtained 22 samples out of the -80C. Each sample has 11ul.
+### **Step 3: Prepare samples**  
+  * Get samples that had been aliquoted for this quantification out of the -80C and put on wet ice to thaw, but now warm.
+  * Add 22ul of 50mM NH4HCO3 to each sample; total volume is now 33ul. Vortex then centrifuge.
+  * Keep on wet ice throutout the process, until you've pipetted into microplate.
+  
+### **Step 4: Pipette standards and samples into microplate** 
+  * Pipette 10ul of each standard into the corresponding microplate wells (see table); three replicates per standard.
+  * Pipette 10ul of each sample into the corresponding microplate well; three replicates per standard.
+  * Using a multipipette, **add exactly 200ul of working reagent** to each well.
+  
+### Microplate arrangement: 
+  * Standards are labeled B through I, in replicates
+  * Samples begin @ C1; G=Geoduck O=Oyster, 
 
-2) Added 22ul of 50mM NH4HCO3 to each sample for a total volume of 33ul. Vortexed to mix. Then centrifuged down.
+|   | 1         | 2        | 3        | 4       | 5        | 6        | 7      | 8      | 9      | 10     | 11    | 12    |
+|---|-----------|----------|----------|---------|----------|----------|--------|--------|--------|--------|-------|-------|
+| A | B1        | B2       | B3       | C1      | C2       | C3       | D1     | D2     | D3     | E1     | E2    | E3    |
+| B | F1        | F2       | F3       | G1      | G2       | G3       | H1     | H2     | H3     | I1     | I2    | I3    |
+| C | G10       | G10      | G10      | G18     | G18      | G18      | G48    | G48    | G48    | G58    | G58   | G58   |
+| D | G68       | G68      | G68      | G77     | G77      | G77      | G92    | G92    | G92    | G97    | G97   | G97   |
+| E | G119      | G119     | G119     | G131    | G131     | G131     | O07    | O07    | O07    | O15    | O15   | O15   |
+| F | O37       | O37      | O37      | O47     | O47      | O47      | O55    | O55    | O55    | O77    | O77   | O77   |
+| G | O107      | O107     | O107     | O119    | O119     | O119     | O1271  | O127   | O127   | O142   | O142  | O142  |
+| H | GBlank    | GBlank   | GBlank   | OBlank  | OBlank   | OBlank   |  empty |  empty |  empty |  empty | empty | empty |
 
-3) Made three replicates for each BCA standard. Pipetted 10ul for each replicate into the corresponding microplate wells (see table).
-
-4) Created three replicates for each sample. Pipetted 10ul for each replicate into the correspondeing microplate wells (see table).
-
-5) Added 200ul of working reagent to each well.
-
-
-Microplate arrangement: Samples begin @ C1; G=Geoduck O=Oyster
-
-|   | 1          | 2         | 3         | 4        | 5         | 6         | 7       | 8       | 9       | 10      | 11     | 12     |
-|---|------------|-----------|-----------|----------|-----------|-----------|---------|---------|---------|---------|--------|--------|
-| A | B1         | B2        | B3        | C1       | C2        | C3        | D1      | D2      | D3      | E1      | E2     | E3     |
-| B | F1         | F2        | F3        | G1       | G2        | G3        | H1      | H2      | H3      | I1      | I2     | I3     |
-| C | G10 1      | G10 2     | G10 3     | G18 1    | G18 2     | G18 3     | G48 1   | G48 2   | G48 3   | G58 1   | G58 2  | G58 3  |
-| D | G68 1      | G68 2     | G68 3     | G77 1    | G77 2     | G77 3     | G92 1   | G92 2   | G92 3   | G97 1   | G97 2  | G97 3  |
-| E | G119 1     | G119 2    | G119 3    | G131 1   | G131 2    | G131 3    | O07 1   | O07 2   | O07 3   | O15 1   | O15 2  | O15 3  |
-| F | O37 1      | O37 2     | O37 3     | O47 1    | O47 2     | O47 3     | O55 1   | O55 2   | O55 3   | O77 1   | O77 2  | O77 3  |
-| G | O107 1     | O107 2    | O107 3    | O119 1   | O119 2    | O119 3    | O127 1  | O127 2  | O127 3  | O142 1  | O142 2 | O142 3 |
-| H | GBlank 1   | GBlank 2  | GBlank 3  | OBlank 1 | OBlank 2  | OBlank 3  |         |         |         |         |        |        |
-BCA assay microplate protocol:
-
-..... etc. 
-
-6) Covered plate and brought it over to the Genome Sciences building.
-
-
-
---- Inserted microplate into spectrophotometer; which measured the absorbance at 540nm.
-
-8) Subtracted the average absorbance for the Blank Standard Replicates from the average absorbances of all the other standards and sample replicates.
-
-9) Prepared standard curve by plotting average Blank-corrected 562nm measurements for each BSA standard vs. it’s concentration in ug/ml. Used standard curve to determine protein concentration of each unknown sample.
+### **Step 5: Read absorbance via plate reader**
+  * Cover plate (we used parafilm); and take to Genome Science Building for next step.
+  * Incubate @ 37degC for 30 minutes
+  * If not already, seal top of microplate with appropriate adhesive seal (so well contents don't splash out) 
+  * Vortex lightly to mix
+  * Centrifuge lightly (we got the centrifuge up to ~1700rpm for a moment).
+  * Wipe bottom of microplate with kimwipe to remove any fingerprints or smudges. Make sure there are not scratches.
+  * Insert into spectrophotometer (plate reader), and read absorbance at 540nm; do multiple readings to ensure accuracy.
+  * Download data. 
+  
+Results:  
+|   | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     | 10    | 11    | 12    |
+|---|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| A | 0.876 | 0.888 | 0.792 | 0.647 | 0.627 | 0.631 | 0.518 | 0.518 | 0.503 | 0.38  | 0.373 | 0.373 |
+| B | 0.26  | 0.232 | 0.234 | 0.149 | 0.146 | 0.158 | 0.082 | 0.083 | 0.082 | 0.071 | 0.072 | 0.072 |
+| C | 0.209 | 0.208 | 0.204 | 0.223 | 0.228 | 0.224 | 0.457 | 0.442 | 0.436 | 0.208 | 0.206 | 0.208 |
+| D | 0.59  | 0.569 | 0.559 | 0.381 | 0.375 | 0.362 | 0.411 | 0.405 | 0.407 | 0.147 | 0.147 | 0.146 |
+| E | 0.555 | 0.542 | 0.547 | 0.091 | 0.089 | 0.089 | 0.374 | 0.366 | 0.034 | 0.25  | 0.249 | 0.241 |
+| F | 0.241 | 0.249 | 0.245 | 0.178 | 0.175 | 0.172 | 0.215 | 0.217 | 0.22  | 0.637 | 0.699 | 0.669 |
+| G | 0.208 | 0.203 | 0.204 | 0.416 | 0.371 | 0.37  | 0.488 | 0.469 | 0.473 | 0.627 | 0.602 | 0.62  |
+| H | 0.107 | 0.112 | 0.109 | 0.085 | 0.088 | 0.089 |       |       |       |       |       |       |
+  
+### **Step 6: Calculate standard concentration curve**
+  * Take averages of all standard replicates
+  * Subtract the average aborbance for the blank standard from other standard averages.
+  * Prepare standard curve by plotting average blank-corrected standards' absorbances vs. the standards' concentrations in ug/ml. 
+  * Add trendline; I used the polynomial regression type in Excel.
+  
+  [Standard concentration curve](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-12_Standard-Curve.png?raw=true)
+  
+### Step 7: Calculate protein concentration of each unknown sample.
+  * Use trendline's equation to calculate concentrations (in ug/ul) of samples: 
+    - y = 0.6633x2 + 1.3975x + 0.0049, x=aborbance (nm); y=concentration (ug/ul)
+  * Make sure to multiply the sample concentrations by 3, since they were diluted at Step #3 of this protocol.
+ 
+### Results!:
+| Samples | Average absorbance @ 540nm | Blank-corr.    (X- 0.072) | Calculated concentration (ug/ul) | Vol sample needed for 30ug (in ul) (existing vol of sample) |
+|---------|----------------------------|---------------------------|----------------------------------|-------------------------------------------------------------|
+| G10     | 0.207                      | 0.135                     | 0.619                            | 48.502                                                      |
+| G18     | 0.225                      | 0.153                     | 0.704                            | 42.593                                                      |
+| G48     | 0.445                      | 0.373                     | 1.857                            | 16.153                                                      |
+| G58     | 0.2073                     | 0.136                     | 0.620                            | 48.379                                                      |
+| G68     | 0.5727                     | 0.501                     | 2.615                            | 11.474                                                      |
+| G77     | 0.3727                     | 0.301                     | 1.457                            | 20.591                                                      |
+| G92     | 0.4077                     | 0.336                     | 1.648                            | 18.204                                                      |
+| G97     | 0.1467                     | 0.075                     | 0.340                            | 88.150                                                      |
+| G119    | 0.5480                     | 0.476                     | 2.463                            | 12.179                                                      |
+| G131    | 0.0897                     | 0.018                     | 0.091                            | 330.361                                                     |
+| GBlank  | 0.109                      | 0.038                     | 0.175                            | 170.998                                                     |
+ 
+  
+  
