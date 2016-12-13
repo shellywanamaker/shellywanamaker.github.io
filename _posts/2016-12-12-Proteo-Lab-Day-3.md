@@ -8,6 +8,7 @@ title: Lab day 3 - Protein Quantification via BCA Assay
 Thanks to Rhonda Elliott for doing much of the heavy lifting to determine volumes needed for reagents!   
 
 ### **Step 1: make reagents:**   
+
 NOTE: Yaamini & I worked together, so the volumes of solutions outlined below are for 22 samples (11 per person)  
   * **BCA Working reagent**  
     - Volume needed: (8 standards + 22 samples)*(3 replicates each)*200ul of working reagent per well = 18,000ul = 18ml  
@@ -25,6 +26,7 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
      - **Add 4ml of the recently made 50mM NH4HCO3** to falcon tube. **Add 1.44g Urea** to make the 6M solution, Vortex to dissolve.   Add to graduated cylinder, **top off with nanopure to 6ml total**. Pour back in falcon tube, vortex.   
  
 ### **Step 2: Make BCA Standards**  
+
   - Label 8 1.5mL centrifuge tubes letters A-I  
   - Open a stock BSA (aka albumin standard) glass ampule by holding it with a kimwipe and breaking the top off.  
   - Beginning with Vials B & C mix the standards at the ratios outlined below.  
@@ -39,18 +41,22 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
     * **Vial I** (0.000ug/ml BSA): Add 500ul of lysis buffer
 
 ### **Step 3: Prepare samples**  
+
   * Get samples that had been aliquoted for this quantification out of the -80C and put on wet ice to thaw, but now warm.
   * Add 22ul of 50mM NH4HCO3 to each sample; total volume is now 33ul. Vortex then centrifuge.
   * Keep on wet ice throutout the process, until you've pipetted into microplate.
   
 ### **Step 4: Pipette standards and samples into microplate** 
+
   * Pipette 10ul of each standard into the corresponding microplate wells (see table); three replicates per standard.
   * Pipette 10ul of each sample into the corresponding microplate well; three replicates per standard.
   * Using a multipipette, **add exactly 200ul of working reagent** to each well.
   
 ### Microplate arrangement: 
+
   * Standards are labeled B through I, in replicates
-  * Samples begin @ C1; G=Geoduck O=Oyster, 
+  * Samples begin @ C1; G=Geoduck O=Oyster
+  
 
 |   | 1         | 2        | 3        | 4       | 5        | 6        | 7      | 8      | 9      | 10     | 11    | 12    |
 |---|-----------|----------|----------|---------|----------|----------|--------|--------|--------|--------|-------|-------|
@@ -64,6 +70,7 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
 | H | GBlank    | GBlank   | GBlank   | OBlank  | OBlank   | OBlank   |  empty |  empty |  empty |  empty | empty | empty |
 
 ### **Step 5: Read absorbance via plate reader**
+
   * Cover plate (we used parafilm); and take to Genome Science Building for next step.
   * Incubate @ 37degC for 30 minutes
   * If not already, seal top of microplate with appropriate adhesive seal (so well contents don't splash out) 
@@ -74,6 +81,7 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
   * Download data. 
   
 ### **Step 6: Calculate standard concentration curve**
+
   * Take averages of all standard replicates
   * Subtract the average aborbance for the blank standard from other standard averages.
   * Prepare standard curve by plotting average blank-corrected standards' absorbances vs. the standards' concentrations in ug/ml. 
@@ -82,11 +90,13 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
   ![Standard concentration curve](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-12_Standard-Curve.png?raw=true)
   
 ### Step 7: Calculate protein concentration of each unknown sample.
+
   * Use trendline's equation to calculate concentrations (in ug/ul) of samples: 
     - y = 0.6633x2 + 1.3975x + 0.0049, x=aborbance (nm); y=concentration (ug/ul)
   * Make sure to multiply the sample concentrations by 3, since they were diluted at Step #3 of this protocol.
  
 ### Results!:
+
 | Samples | Average absorbance @ 540nm | Blank-corr.    (X- 0.072) | Calculated concentration (ug/ul) | Vol sample needed for 30ug (in ul) (existing vol of sample) |
 |---------|----------------------------|---------------------------|----------------------------------|-------------------------------------------------------------|
 | G10     | 0.207                      | 0.135                     | 0.619                            | 48.502                                                      |
