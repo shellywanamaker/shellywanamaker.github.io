@@ -5,38 +5,38 @@ title: Lab day 3 - Protein Quantification via BCA Assay
 
 ## Today I determined the concentration of proteins in my samples. This was done via the [Thermo Scientific - 23225 - BCA PROTEIN ASSAY KIT](http://www.neobits.com/thermo_scientific_23225_bca_protein_assay_kit_p3603906.html?atc=gbp&gclid=Cj0KEQiAsrnCBRCTs7nqwrm6pcYBEiQAcQSznHtJg64JQ_2Yg0xR93tmvHoRrUJ9yZC9SsSKMQCGi3IaAiOJ8P8HAQ), following the [protein prep protocol](https://github.com/sr320/LabDocs/blob/master/protocols/ProteinprepforMSMS.md) and [Rhonda Elliott's recent lab notebook entry](https://ellior2.github.io/BCA-assay/). 
 
-Thanks to Rhonda Elliott for doing much of the heavy lifting to determine volumes needed for reagents! 
+Thanks to Rhonda Elliott for doing much of the heavy lifting to determine volumes needed for reagents!   
 
-### **Step 1: make reagents:** 
-NOTE: Yaamini & I worked together, so the volumes of solutions outlined below are for 22 samples (11 per person)
-  * **BCA Working reagent**
+### **Step 1: make reagents:**   
+NOTE: Yaamini & I worked together, so the volumes of solutions outlined below are for 22 samples (11 per person)  
+  * **BCA Working reagent**  
     - Volume needed: (8 standards + 22 samples)*(3 replicates each)*200ul of working reagent per well = 18,000ul = 18ml  
-    - Required ratio is 50:1  BCA reagent A:BCA reagent B respectively  
-    - To make: Use large pipette to **add 20ml of Reagent A** to a falcon tube, then add **400ul of Reagent B**. Vortex. Total volume made: 20.4ml
-  * **50mM NH4HCO3 (Ammonium Bicarbonate)**
-   - Volume needed: (22ul per sample)*(22 samples)  
-   - MW of NH4HCO3 is 79.06 g/mol, therefore:
-      * (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 10ml = need 0.03953g of NH4HCO3 in 10 ml.
-   - To make: **add 5ml nanopure** to falcon tube; **add 0.03953g of NH4HCO3** and vortex to dissolve. Add solution to graduated cylinder and **top off with nanopure to 10ml**. Pour back into falcon tube, vortex.
-  * **Lysis Buffer**
-     - Volume neded: 2.2 mL 
-     - MW: of Urea is 60.06g/ml, therefore: 
-       * (60.06g/mol)x(6mol/L)x(1L/1000ml)x 4ml = 1.44g Urea to add to 4 ml of 50mM NH4HCO3
-     - **Add 4ml of the recently made 50mM NH4HCO3** to falcon tube. **Add 1.44g Urea** to make the 6M solution, Vortex to dissolve. Add to graduated cylinder, **top off with nanopure to 6ml total**. Pour back in falcon tube, vortex. 
+    - Required ratio is 50:1  BCA reagent A:BCA reagent B respectively    
+    - To make: Use large pipette to **add 20ml of Reagent A** to a falcon tube, then add **400ul of Reagent B**. Vortex. Total volume made: 20.4ml  
+  * **50mM NH4HCO3 (Ammonium Bicarbonate)**  
+   - Volume needed: (22ul per sample)*(22 samples)    
+   - MW of NH4HCO3 is 79.06 g/mol, therefore:  
+      * (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 10ml = need 0.03953g of NH4HCO3 in 10 ml.  
+   - To make: **add 5ml nanopure** to falcon tube; **add 0.03953g of NH4HCO3** and vortex to dissolve. Add solution to graduated cylinder and **top off with nanopure to 10ml**. Pour back into falcon tube, vortex.  
+  * **Lysis Buffer**  
+     - Volume neded: 2.2 mL   
+     - MW: of Urea is 60.06g/ml, therefore:  
+       * (60.06g/mol)x(6mol/L)x(1L/1000ml)x 4ml = 1.44g Urea to add to 4 ml of 50mM NH4HCO3  
+     - **Add 4ml of the recently made 50mM NH4HCO3** to falcon tube. **Add 1.44g Urea** to make the 6M solution, Vortex to dissolve.   Add to graduated cylinder, **top off with nanopure to 6ml total**. Pour back in falcon tube, vortex.   
  
-### **Step 2: Make BCA Standards**
-  - Label 8 1.5mL centrifuge tubes letters A-I
-  - Open a stock BSA (aka albumin standard) glass ampule by holding it with a kimwipe and breaking the top off. 
-  - Beginning with Vials B & C mix the standards at the ratios outlined below. 
-  - Vortex each standard after making. 
-    * **Vial B** (1.5ug/ml BSA concentration): Add 125ul of Lysis Buffer to 375ul stock BSA
-    * **Vial C** (1.0ug/ml BSA concentration): Add 325ul of Lysis Buffer to 325ul stock BSA
-    * **Vial D** (0.75ug/ml BSA concentration): Add 175ul of Lysis Buffer to 175ul Vial B dilution
-    * **Vial E** (0.5ug/ml BSA concentration): Add 325ul of Lysis Buffer to 325ul Vial C dilution
-    * **Vial F** (0.25ug/ml BSA concentration): Add 325ul of Lysis Buffer to 325 Vial E dilution
-    * **Vial G** (0.125ug/ml BSA concentration): Add 325ul of Lysis Buffer to 325ul Vial F dilution
-    * **Vial H** (0.025ug/ml BSA concentration): Add 400ul of Lysis Buffer to 100ul Vial G dilution
-    * **Vial I** (0.000ug/ml BSA concentration): Add 500ul of lysis buffer
+### **Step 2: Make BCA Standards**  
+  - Label 8 1.5mL centrifuge tubes letters A-I  
+  - Open a stock BSA (aka albumin standard) glass ampule by holding it with a kimwipe and breaking the top off.  
+  - Beginning with Vials B & C mix the standards at the ratios outlined below.  
+  - Vortex each standard after making.  
+    * **Vial B** (1.5ug/ml BSA): Add 125ul of Lysis Buffer to 375ul stock BSA
+    * **Vial C** (1.0ug/ml BSA): Add 325ul of Lysis Buffer to 325ul stock BSA
+    * **Vial D** (0.75ug/ml BSA): Add 175ul of Lysis Buffer to 175ul Vial B dilution
+    * **Vial E** (0.5ug/ml BSA): Add 325ul of Lysis Buffer to 325ul Vial C dilution
+    * **Vial F** (0.25ug/ml BSA): Add 325ul of Lysis Buffer to 325 Vial E dilution
+    * **Vial G** (0.125ug/ml BSA): Add 325ul of Lysis Buffer to 325ul Vial F dilution
+    * **Vial H** (0.025ug/ml BSA): Add 400ul of Lysis Buffer to 100ul Vial G dilution
+    * **Vial I** (0.000ug/ml BSA): Add 500ul of lysis buffer
 
 ### **Step 3: Prepare samples**  
   * Get samples that had been aliquoted for this quantification out of the -80C and put on wet ice to thaw, but now warm.
@@ -79,7 +79,7 @@ NOTE: Yaamini & I worked together, so the volumes of solutions outlined below ar
   * Prepare standard curve by plotting average blank-corrected standards' absorbances vs. the standards' concentrations in ug/ml. 
   * Add trendline; I used the polynomial regression type in Excel.
   
-  [Standard concentration curve](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-12_Standard-Curve.png?raw=true)
+  ![Standard concentration curve](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-12_Standard-Curve.png?raw=true)
   
 ### Step 7: Calculate protein concentration of each unknown sample.
   * Use trendline's equation to calculate concentrations (in ug/ul) of samples: 
