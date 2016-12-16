@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desalting 
+title: Lab Day 6 - Desalting 
 ---
 
 ## The finale: a day of desalting
@@ -16,6 +16,8 @@ Other supplies needed:
   * Centrifuge tubes; 2 tubes per sample  
 
 **Procedure:**
+  * **Step 0:** Returned the GBlank sample to the speed-vac to evaporate to near dryness. Evaporated @ 4degC from 9:30am-2:00pm, at which point I got the sample caught up with the others via the below steps. 
+  
   * **Step 1:** Grabbed "G#-D" samples out of freezer, allowed to thaw. 
   
   * **Step 2:** Labeled 2 sets of macrospin columns and 2 sets of centrifuge tubes:
