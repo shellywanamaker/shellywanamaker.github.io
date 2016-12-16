@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab day 4 - Evaporation
+title: Lab day 5 - Evaporation
 ---
 
 # Evaporating - that's it!
