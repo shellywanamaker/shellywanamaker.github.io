@@ -202,7 +202,9 @@ Lots of fun stuff to see including
 With a [great readme](https://github.com/mfisher5/mf-fish546-PCod/blob/v1.0/README.md) to take you where you want to go
 
 
-_from said page_
+_from said page_    
+
+
  Class Objectives: 
  **(1) Become familiar with the `stacks` pipeline using Lane 1 sequence data**
  
@@ -265,23 +267,24 @@ And be sure to check out the Readme.md with [a nice reflection of the quarter](h
 Rhonda Elliott, mmiddleton, & laurahspencer. (2016). Ellior2/Fish-546-Bioinformatics: Characterization of Pacific oyster proteome- Final Draft [Data set]. Zenodo. http://doi.org/10.5281/zenodo.202894
 
 Goals (via [Readme.md](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/V3.0/README.md) ) 
-> 
-> My goals for this course:
-> 
-> 1) Identify proteins and their functions in C. gigas proteome
-> TAB file with protein names, GO terms, e-values, etc. [C. gigas GO terms](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_GOterms.tabular) 
-> JPG with visualization from Revigo based on GO terms. [C. gigas Revigo visualization](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_Revigo.JPG), [Revigo CSV](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_REVIGO.csv)
-> 
-> 2) Compare an oyster proteome to another bivalve- the geoduck
-> CSV file with table of proteins and GO terms that are shared between these two bivalve species [C. gigas and P. genorosa table](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Cgig_Pgen_table.xlsx)
-> TXT files with unique proteins specific to each organism [C. gigas](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput4.txt), [P. genorosa](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput_pgen.txt)
-> JPG that visualizes the data [Venn Diagram](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Venn_oyster_geoduck.JPG)
-> 
-> 3) Draw conclusions about differential protein expression in oysters reared at 23C and 29C from 2015 MS/MS data.
-> TAB files listing unique proteins, their functions, and expression levels (in this case peak area) for each sample. [23C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster1_23CDay5.tabular), [29C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster2_29CDay5.tabular), [23C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster13_23CDay8.tabular), [29C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster14_29CDay8.tabular)
-> JPGs that visualize differences in protein expression between these two treatments
 
+```
+ My goals for this course:
+ 
+ 1) Identify proteins and their functions in C. gigas proteome
+ TAB file with protein names, GO terms, e-values, etc. [C. gigas GO terms](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_GOterms.tabular) 
+ JPG with visualization from Revigo based on GO terms. [C. gigas Revigo visualization](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_Revigo.JPG), [Revigo CSV](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/C_gigas_REVIGO.csv)
+ 
+ 2) Compare an oyster proteome to another bivalve- the geoduck
+ CSV file with table of proteins and GO terms that are shared between these two bivalve species [C. gigas and P. genorosa table](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Cgig_Pgen_table.xlsx)
+ TXT files with unique proteins specific to each organism [C. gigas](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput4.txt), [P. genorosa](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/blastoutput_pgen.txt)
+ JPG that visualizes the data [Venn Diagram](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/gigas_prot/Venn_oyster_geoduck.JPG)
+ 
+ 3) Draw conclusions about differential protein expression in oysters reared at 23C and 29C from 2015 MS/MS data.
+ TAB files listing unique proteins, their functions, and expression levels (in this case peak area) for each sample. [23C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster1_23CDay5.tabular), [29C oysters at Day 5](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster2_29CDay5.tabular), [23C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster13_23CDay8.tabular), [29C oysters at Day 8](https://github.com/Ellior2/Fish-546-Bioinformatics/blob/master/analyses/taylor/2015oyster14_29CDay8.tabular)
+ JPGs that visualize differences in protein expression between these two treatments
 one of many….
+```
 
 ![rev](http://eagle.fish.washington.edu/cnidarian/skitch/Fish-546-Bioinformatics_README_md_at_V3_0_·_Ellior2_Fish-546-Bioinformatics_1E08531E.png)
 
