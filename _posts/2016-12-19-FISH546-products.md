@@ -71,7 +71,8 @@ One of many of the findings:
 
 ![pic](https://raw.githubusercontent.com/MeganEDuffy/FISH-546/master/analyses/2016-11-18-062016_ETNP_129.png)
 
-----
+---
+
 ### [@laurahspencer](https://github.com/laurahspencer)  annotated the draft Geoduck genome. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.203660.svg)](https://doi.org/10.5281/zenodo.203660)
@@ -167,22 +168,22 @@ more at
 and this is what the repo structure looks like
 
 
-> Analysis: the results of each analytical step to complete the above objectives (e.g. FastQC results, trimmed sequencing files, etc)
-> 
-> BlastDB: the unique species specific blast databases used for annotating the transcriptome
-> 
-> Data_raw: the 48 raw PE sequencing files for each of the 24 sampled individual fish. (available on request)
-> 
-> Jupyter_notebook: contains the notebooks for my class project. Focuses on the de novo assembly of a coho transcriptome and subsequent differential expression analysis and annotation:
-> 
-> DataQC and Trinity Prep
-> Differential Expression
-> Annotation
-> Gene Ontology
-> 
-> Scripts: Scripts used for analysis that aren’t download directly to my computer through Anaconda (these will be documented in my notebook).
-> 
-> Screenshots: pictures for analysis documentation
+Analysis: the results of each analytical step to complete the above objectives (e.g. FastQC results, trimmed sequencing files, etc)
+ 
+BlastDB: the unique species specific blast databases used for annotating the transcriptome
+ 
+Data_raw: the 48 raw PE sequencing files for each of the 24 sampled individual fish. (available on request)
+ 
+Jupyter_notebook: contains the notebooks for my class project. Focuses on the de novo assembly of a coho transcriptome and subsequent differential expression analysis and annotation:
+ 
+DataQC and Trinity Prep
+Differential Expression
+Annotation
+Gene Ontology
+ 
+Scripts: Scripts used for analysis that aren’t download directly to my computer through Anaconda (these will be documented in my notebook).
+
+Screenshots: pictures for analysis documentation
 
 ---
 
@@ -202,41 +203,41 @@ With a [great readme](https://github.com/mfisher5/mf-fish546-PCod/blob/v1.0/READ
 
 
 _from said page_
-> Class Objectives: 
-> **(1) Become familiar with the `stacks` pipeline using Lane 1 sequence data**
-> 
-> *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)*
-> <br>
-> 
-> 
->   **(2) Optimize parameters for `stacks` pipeline**
->   
->        (a) Research previous papers / labmate work on parameters for c and ustacks, and come up with a list of parameter values to test. 
-> 
-> *[Evernote](https://www.evernote.com/shard/s650/sh/122752f1-9ab7-4f9b-a9af-0c3331617436/0c84d3e0f73055a6)*
->        
->        (b) Determine quantitative measures that will be used for comparing different batches of c/ustacks parameters
->        
->        (c) Run through stacks with the Lane 1 data
-> *Jupyter notebook [p1](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)*, *[p2](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20II.ipynb)*
->        
->        (d) Analyze output to decide which parameters to use going forward 
-> *[Evernote](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
-> 
-> <br>
->   **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md) is a helpful workflow diagram of population structure analysis, including links to examples of what `stacks` output looks like.*
-> 
->       (a) Run through the full `stacks` pipeline with Lanes 1 and 2 data
-> *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
-> 
->       (b) Obtain measures of population structure (paired and overall Fst), and conduct Discriminant Analysis of Principle Components (DAPC)
-> *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
-> <br>
-> 
-> 
->   **(4) Compare sequencing output from 300ng and degraded DNA protocols to determine if these protocols will be used on the rest of the samples.**
->   
-> *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+ Class Objectives: 
+ **(1) Become familiar with the `stacks` pipeline using Lane 1 sequence data**
+ 
+ *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lane1data_full%20stacks%20pipeline.ipynb)*
+ <br
+ 
+ 
+   **(2) Optimize parameters for `stacks` pipeline**
+   
+        (a) Research previous papers / labmate work on parameters for c and ustacks, and come up with a list of parameter values to test. 
+ 
+ *[Evernote](https://www.evernote.com/shard/s650/sh/122752f1-9ab7-4f9b-a9af-0c3331617436/0c84d3e0f73055a6)*
+        
+        (b) Determine quantitative measures that will be used for comparing different batches of c/ustacks parameters
+        
+        (c) Run through stacks with the Lane 1 data
+ *Jupyter notebook [p1](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20I%20.ipynb)*, *[p2](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/testing%20stacks/Testing%20stacks%20Parameters%20II.ipynb)*
+        
+        (d) Analyze output to decide which parameters to use going forward 
+ *[Evernote](https://www.evernote.com/shard/s650/sh/138af148-ea28-416e-b79d-2550b2829d50/3dd0a2619d17e859)*
+ 
+ <br
+   **(3) Get a preliminary analysis of population structure between 7 populations in the Lanes 1 and 2 data.** *[Here](https://github.com/mfisher5/mf-fish546-2016/blob/master/Diagrams/PopGen_Workflow.md) is a helpful workflow diagram of population structure analysis, including links to examples of what `stacks` output looks like.*
+ 
+       (a) Run through the full `stacks` pipeline with Lanes 1 and 2 data
+ *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%20pipeline.ipynb)*
+ 
+       (b) Obtain measures of population structure (paired and overall Fst), and conduct Discriminant Analysis of Principle Components (DAPC)
+ *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
+ <br
+ 
+ 
+   **(4) Compare sequencing output from 300ng and degraded DNA protocols to determine if these protocols will be used on the rest of the samples.**
+   
+ *[Jupyter notebook](https://github.com/mfisher5/mf-fish546-PCod/blob/master/notebooks/Lanes%201%20and%202%20combined%2C%20Analyses%20%2B%20Results.ipynb)*
 
 ---
 
