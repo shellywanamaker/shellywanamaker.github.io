@@ -303,3 +303,28 @@ You will find a nice series of [Jupyter notebooks](https://github.com/yaaminiv/y
 ![enr](http://eagle.fish.washington.edu/cnidarian/skitch/yaaminiv-fish546-2016_2016-12-12-oly-gonad-OA-part7-REVIGO_ipynb_at_master_·_yaaminiv_yaaminiv-fish546-2016_1E0855D9.png)
 
 ---
+
+
+### _albnl_ [@jldimond](https://github.com/jldimond) completed his project involving analysis of Porites spp. ddRAD-seq and EpiRAD-seq data.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.192371.svg)](https://doi.org/10.5281/zenodo.192371)
+
+Jay Dimond. (2016). jldimond/jldimond-fish546-2016: Porites.v2 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.192371
+
+![coral](https://github.com/jldimond/jldimond-fish546-2016/blob/v2.0/images/Screen%20Shot%202016-11-03%20at%206.56.27%20PM.png) 
+
+His goal was to evaluate     
+ (1) if there is any genetic structuring of these individuals using the ddRAD data and      
+(2) if there is any epigenetic structuring of these individuals using the EpiRAD data. 
+
+
+Check out is [readme](https://github.com/jldimond/jldimond-fish546-2016/blob/master/readme.md) for an overview.  And here are a few pics to keep you wanting more…
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/jldimond-fish546-2016_EpiRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B4B4.png" alt="jldimond-fish546-2016_EpiRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B4B4.png"/>
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/jldimond-fish546-2016_EpiRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B4CD.png" alt="jldimond-fish546-2016_EpiRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B4CD.png"/>
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/jldimond-fish546-2016_ddRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B502.png" alt="jldimond-fish546-2016_ddRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B502.png"/>
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/jldimond-fish546-2016_ddRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B523.png" alt="jldimond-fish546-2016_ddRAD_analysis_md_at_master_·_jldimond_jldimond-fish546-2016_1E09B523.png"/>
+
