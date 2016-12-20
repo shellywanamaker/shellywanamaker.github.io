@@ -311,7 +311,7 @@ You will find a nice series of [Jupyter notebooks](https://github.com/yaaminiv/y
 
 Jay Dimond. (2016). jldimond/jldimond-fish546-2016: Porites.v2 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.192371
 
-![coral](https://github.com/jldimond/jldimond-fish546-2016/blob/v2.0/images/Screen%20Shot%202016-11-03%20at%206.56.27%20PM.png) 
+![coral](http://eagle.fish.washington.edu/cnidarian/skitch/jldimond_jldimond-fish546-2016__FISH546_repository_1E09B73D.png) 
 
 His goal was to evaluate     
  (1) if there is any genetic structuring of these individuals using the ddRAD data and      
