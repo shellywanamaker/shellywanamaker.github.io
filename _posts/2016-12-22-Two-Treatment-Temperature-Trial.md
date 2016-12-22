@@ -24,11 +24,13 @@ Algae is pumped in
 
 Algae is a little different in the tanks
 via Jade      
->Cold intake: 39,408
->Cold inside take: 24,824
->Warm intake: 40,669
->Warm inside tank: 9619
 
+```
+Cold input 39,408
+Cold inside tank: 24,824
+Warm input: 40,669
+Warm inside tank: 9619
+```
 
 
 Temperature differences are about 2 C
