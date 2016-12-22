@@ -5,7 +5,6 @@ date: '2016-12-22'
 categories: ChOAS
 tag: oyster
 tag: temperature
-tag: probe
 tag: acidification
 ---
 
@@ -24,11 +23,11 @@ Algae is pumped in
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Camera_Uploads_1E0C8158.png" alt="Camera_Uploads_1E0C8158.png"/>
 
 Algae is a little different in the tanks
-via Jade 
+via Jade      
 >Cold intake: 39,408
-Cold inside take: 24,824
-Warm intake: 40,669
-Warm inside tank: 9619
+>Cold inside take: 24,824
+>Warm intake: 40,669
+>Warm inside tank: 9619
 
 
 
