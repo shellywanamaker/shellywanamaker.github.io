@@ -27,6 +27,10 @@ Other supplies needed:
     * Centrifuge tubes for "just in case" Solvent-B collection: G#-E-2
     
   * **Step 3:** Reconstituted samples in **100 µl solvent B**. Need sample solution =< pH2. If too basic, added 10-20 µl increments of 10% formic acid and tested by applying 2ul sample to pH test strip); I began by testing one sample, but got worried that I was taking too much out of it, so moved on to test three other samples. In the end, I added 170 ul to each sample and confirmed pH<2 for all samples.
+  
+  pH test strips after adding 170ul to all samples: 
+  
+  ![pH strips](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-15_pH-for-Desalting.JPG?raw=true)
 
   * **Step 4:** Washed column: **Added 200 µl solvent A to columns**, spun for **3 mins @ 2000 rpm**, repeating 3 times for a total of 4 times. Discarded remaining liquid everyother time to accomodate room for next round.
 
