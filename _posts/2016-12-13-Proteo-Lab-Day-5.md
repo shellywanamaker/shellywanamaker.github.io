@@ -9,7 +9,7 @@ title: Lab day 5 - Evaporation
   
   * 9:00 AM: tooks samples to genome sciences to use their regrigerated speed-vac; someone was using it @ a different temperature, so we waited. 
   * 12:30 PM: put samples on wet ice while we waited for speed vac
-  * 2:00 PM: gained access to [speed vac](file:///Users/shlaura3/Downloads/LabConco.NewCentriVap.Manual.pdf)! Programmed it to: 4degC, no stop time.
+  * 2:00 PM: gained access to [speed vac](http://www.labconco.com/product/centrivap-benchtop-vacuum-concentrators/70)! Programmed it to: 4degC, no stop time.
   * 10:00 PM: first sample (one of Yaamini's oyster samples) was ready for removal. Samples did not evaporate at a consistent rate. 
   * When removed from speed vac, samples were put directly on wet ice, and moved to the -80 in FTR within 30 minutes.
   
