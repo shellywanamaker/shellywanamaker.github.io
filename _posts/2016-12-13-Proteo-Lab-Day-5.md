@@ -29,3 +29,6 @@ title: Lab day 5 - Evaporation
     |   GBLANK - not fully evaporated; saved remaining for next day.            |              3:00 AM               |
     
     
+    Photo of the speed vac: 
+    
+    ![speed vac photo](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-15_SpeedVac.JPG?raw=true)
