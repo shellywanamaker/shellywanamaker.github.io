@@ -30,7 +30,7 @@ Today involved lots of reagents & incubations. Rhonda made several of the reagen
   * Add 2.5ul of 200mM TCEP (also made by Rhonda) and vortex.  
   * Check pH to make sure it is still basic (>7.0) by pipetting 2ul from each sample to a pH test strip. Just like Rhonda, I added the drop to the green square as the color will turn bluish if over pH7-8. They all looked OK.
   
-  ![pH Test Strip photo](link to photo) 
+  ![pH Test Strip photo](https://github.com/laurahspencer/LabNotebook/blob/master/images/2016-12-13_pH-for-Lysing.JPG?raw=true) 
 
   * Put the 22 samples in the 37C heating block for 1 hr.
   * Return the remaining, original samples back in the -80C.
