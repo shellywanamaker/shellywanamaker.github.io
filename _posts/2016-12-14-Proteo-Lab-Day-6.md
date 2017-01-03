@@ -42,6 +42,6 @@ Other supplies needed:
 
   * **Step 8:** Eluted peptides: Transferred columns to clean collection tubes labeled G#-F . **Added 100 µl solvent A**, spun for 3 mins @ 3000 rpm, repeating once for a total of 2 times. **Good warning: The peptides are now in the liquid- do not discard!**
 
-  * **Step 9:** Took samples on wet ice to Genome Sciences to use speed-vac. Evaporated samples to near dryness at 8C in speed vac. Note that while the original protocol called for 4C, the temp was set at 8C by another user so we evapped at 8C.  The temperature at this point is not as crucial, however it is best to evap at a temp close to 4C to minimize degrdation. This took 2.5hrs. 
+  * **Step 9:** Took samples on wet ice to Genome Sciences to use speed-vac. Evaporated samples to near dryness at 8C in speed vac.  This took 2.5hrs. Note that while the original protocol called for 4C, the temp was set at 8C by another user so we evapped at 8C.  The temperature at this point is not as crucial, however it is best to evap at a temp close to 4C to minimize degrdation.
 
-  * **Step 10:** Reconstitute peptides in 100 µl final solvent. Light vortex and centrifuge down. Store at -80°C.
+  * **Step 10:** Reconstitute peptides in 60 µl final solvent. Light vortex and centrifuge down. Store at -80°C. **Note:** We reduced the amount of solvent used to reconstitute the peptides from 100ul to 60ul, since we only pulled 30ug protein per sample. Therefore, instead of 1ug/ul, **our resulting peptide concentration should be 0.5ug/ul.**
