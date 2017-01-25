@@ -4,13 +4,15 @@ title: Firing up the Mass Spec
 ---
 
 Met Emma at the UWPR in South Lake Union; she brought our samples & the acetonitrile that we used for our samples.  
-We transferred our samples into labeled autosampler vials. **NOTE: next time we need to bring empty autosampler vials for our blanks!!!**  
+We transferred our samples into labeled autosampler vials. **NOTE: next time we need to bring empty autosampler vials for our blanks!!!** 
 
 #### Notes from Emma's Lumos testing: 
 
 Column packed to 30 cm and trap packed to ~3 cm with Dr. Maisch C18
 
 Attach trap to mass spec with frit on mass spec side
+
+![column/trap attaching](https://github.com/laurahspencer/LabNotebook/blob/master/images/2017-01-24_mass-spec-setup.JPG?raw=true)
 
 test flow through trap - in BSM switch to trapping, set to 5% A, 0.2 flow
 then up to 0.5, ~200 psm
@@ -33,3 +35,4 @@ cut analytical column to ~27 cm
 switch back to 5% ACN for 10 minutes, 0.3 flow (~4200 psi but no leaks!)
 
 Even with the high pressure at the 5% ACN, 0.3 flow rate I am going to see how the first QC injection goes - forgot to re-attach voltage until halfway through
+
