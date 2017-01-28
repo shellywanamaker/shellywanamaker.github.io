@@ -64,6 +64,12 @@ EPI-104_S28_L005
 EPI-103_S27_L005
 ```
 
+--- 
+
+Here are some details on batch 01
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/project_juvenile_geoduck_OA_20161201_Library_prep_1_csv_at_master_·_hputnam_project_juvenile_geoduck_OA_1E3D5BCF.png" alt="project_juvenile_geoduck_OA_20161201_Library_prep_1_csv_at_master_·_hputnam_project_juvenile_geoduck_OA_1E3D5BCF.png"/>
+
+---
 
 The first batch came in late December.
 
