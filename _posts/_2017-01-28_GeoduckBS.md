@@ -98,4 +98,25 @@ The first batch came in late December.
  <img src="http://eagle.fish.washington.edu/cnidarian/skitch/_89__Discovery_Environment_1E3D4DEB.png" alt="_89__Discovery_Environment_1E3D4DEB.png"/>
  
  
+---
+
+This first batch was aligned to Bismarck using this version of the genome.
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__GenomeInfo_and_untitled_text_3_1E3D4EF7.png" alt="CoGe__GenomeInfo_and_untitled_text_3_1E3D4EF7.png"/>
+
+
+These are the files generated
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D4FB3.png" alt="CoGe__My_Data_1E3D4FB3.png"/>
+
+BAM file are all in a Notebook
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D4FB3.png" alt="CoGe__My_Data_1E3D4FB3.png"/>
+
+https://genomevolution.org/coge/NotebookView.pl?lid=1927
+
+---
+
+[Viewable in CoGe Browser](https://genomevolution.org/coge/GenomeView.pl?embed=0&gid=34160&loc=scaffold26337%3A1..154898&tracks=notebook1927%2Cexperiment9827%2Cexperiment9812%2Cexperiment9831%2Cexperiment9787&highlight=)
+
+
+
 
