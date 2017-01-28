@@ -110,7 +110,7 @@ These are the files generated
 
 BAM file are all in a Notebook     
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D4FB3.png" alt="CoGe__My_Data_1E3D4FB3.png"/>
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D5818.png" alt="CoGe__My_Data_1E3D5818.png"/>
 
 
 https://genomevolution.org/coge/NotebookView.pl?lid=1927
