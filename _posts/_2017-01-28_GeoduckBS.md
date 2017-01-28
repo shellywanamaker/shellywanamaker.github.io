@@ -104,12 +104,14 @@ This first batch was aligned to Bismarck using this version of the genome.
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__GenomeInfo_and_untitled_text_3_1E3D4EF7.png" alt="CoGe__GenomeInfo_and_untitled_text_3_1E3D4EF7.png"/>
 
 
-These are the files generated
+These are the files generated     
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D4FB3.png" alt="CoGe__My_Data_1E3D4FB3.png"/>
 
-BAM file are all in a Notebook
+BAM file are all in a Notebook     
+
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/CoGe__My_Data_1E3D4FB3.png" alt="CoGe__My_Data_1E3D4FB3.png"/>
+
 
 https://genomevolution.org/coge/NotebookView.pl?lid=1927
 
