@@ -67,6 +67,7 @@ Based on link above that describes the pipeline.
 >In addition to direct visualization files are downloadable to enable downstream analyses (differentially methylated region detection, etc.). Individual files in .csv format for each sequence context are downloadable from ExperimentView. These files comply with CoGe's LoadExperiment format for quantitative data and contain the following information:
 
 `#CHR,POSITION,POSITION,STRAND,METHYLATION(0-1),DEPTH`
+
 >Chromosome IDs will match those of the genome to which reads have been aligned, position is of each cytosine, strand (-1 for bottom, 1 for top), percent methylation is expressed as a decimal between 0 and 1, and read depth at each methylation call will be shown as an integer (filtered for the minimum coverage specified during the analysis pipeline).
 
 >The BAM alignment can be downloaded in ExperimentView. Sequence and quantitative information for the visible region can also be downloaded while browsing the genome.
