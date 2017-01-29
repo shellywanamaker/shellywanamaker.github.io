@@ -8,9 +8,12 @@ tag: methylation
 tag: acidification
 tag: CoGe  
 tag: Bismarck
+tag: PPP
 ---
 
-Having run the first batch of geoduck RRBS
+Having run the first batch of geoduck RRBS throught CoGe - Here is the mCpG file and information of how these files were generated.
+
+
 ![b1](http://eagle.fish.washington.edu/cnidarian/skitch/project_juvenile_geoduck_OA_20161201_Library_prep_1_csv_at_master_%C2%B7_hputnam_project_juvenile_geoduck_OA_1E3D5BCF.png)    
 
 Here are the CpG methylation files from CoGe...
@@ -58,7 +61,7 @@ scaffold121673,6533,6533,-1,0.0,8
 
 with about 245k lines. 
 
-Based on link below that describes the pipeline.
+Based on link above that describes the pipeline.
 
 >Output Files
 >In addition to direct visualization files are downloadable to enable downstream analyses (differentially methylated region detection, etc.). Individual files in .csv format for each sequence context are downloadable from ExperimentView. These files comply with CoGe's LoadExperiment format for quantitative data and contain the following information:
