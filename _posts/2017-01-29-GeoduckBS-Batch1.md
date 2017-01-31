@@ -3,12 +3,7 @@ layout: post
 title: Geoduck RRBS - Batch 01 Methylation Calls
 date: '2017-01-29'
 categories: Geoduck
-tag: geoduck
-tag: methylation
-tag: acidification
-tag: CoGe  
-tag: Bismarck
-tag: PPP
+tag: [geoduck, methylation, acidification, CoGe, Bismarck, PPP]
 ---
 
 Having run the first batch of geoduck RRBS throught CoGe - Here is the mCpG file and information of how these files were generated.
