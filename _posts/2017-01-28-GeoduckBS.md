@@ -3,10 +3,7 @@ layout: post
 title: Geoduck RRBS Library - First Look
 date: '2017-01-28'
 categories: Geoduck
-tag: geoduck
-tag: methylation
-tag: acidification
-tag: PPP
+tag: [geoduck, methylation, acidification, PPP]
 ---
 
 Fifty RRBS Libraries were constructed by Hollie and sequenced
