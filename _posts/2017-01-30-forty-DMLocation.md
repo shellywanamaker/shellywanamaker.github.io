@@ -3,11 +3,6 @@ layout: post
 title: Geoduck RRBS: Locating 41
 date: '2017-01-30'
 categories: Geoduck
-tag: geoduck
-tag: methylation
-tag: acidification
-tag: IGV
-tag: PPP
 ---
 
 Sean has identified 41 loci that are different in the 3 treatments at Day 10!
