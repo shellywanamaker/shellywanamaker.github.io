@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geoduck RRBS Library - First Look
-date: '2017-01-30'
+date: '2017-01-15'
 categories: Geoduck
 tag: [geoduck, methylation, acidification, PPP]
 ---
