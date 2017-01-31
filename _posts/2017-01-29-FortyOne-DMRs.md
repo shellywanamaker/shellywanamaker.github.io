@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geoduck RRBS - 41 DMR Location
-date: '2017-01-30'
+date: '2017-01-29'
 categories: Geoduck
 tag: geoduck
 tag: methylation
