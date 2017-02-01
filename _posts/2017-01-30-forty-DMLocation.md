@@ -2,9 +2,6 @@
 layout: post
 title: Geoduck RRBS: Locating 41
 ---
-
-
-
 Sean has identified 41 loci that are different in the 3 treatments at Day 10!
 
 I am going to try to see if I can find out where they are in the genome...
@@ -12,6 +9,7 @@ I am going to try to see if I can find out where they are in the genome...
 file: http://owl.fish.washington.edu/halfshell/working-directory/17-01-30/DiffMethRegions-41.bed
 
 contents    
+
 ```
 scaffold103946	20422	20422	-0.1859
 scaffold106982	14135	14135	1.451
@@ -56,7 +54,8 @@ scaffold8586	14161	14161	1.713
 scaffold92878	9598	9598	-0.3131
 ```
 
----
+
+
 
 I started an IGV session and realized hard drive failure required me to rerun some stuff..
 
