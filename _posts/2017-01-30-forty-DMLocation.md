@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Geoduck RRBS: Locating 41
-date: '2017-01-30'
 categories: Geoduck
 ---
 
