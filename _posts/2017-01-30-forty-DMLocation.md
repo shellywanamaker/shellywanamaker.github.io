@@ -3,6 +3,8 @@ layout: post
 title: Geoduck RRBS: Locating 41
 ---
 
+
+
 Sean has identified 41 loci that are different in the 3 treatments at Day 10!
 
 I am going to try to see if I can find out where they are in the genome...
