@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoduck RRBS: Locating 41
+title: Geoduck RRBS- Locating 41
 date: '2017-02-06'
 categories: snippet
 ---
