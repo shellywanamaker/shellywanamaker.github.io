@@ -5,6 +5,10 @@ title: O. lurida go under the knife
  
 [Full day of sampling!](https://youtu.be/y1bOt7gC9U4) THANK YOU to Grace for materials prep, Megan Hintz, Olivia & Lindsay Alma for helping Yaamini and me with the sampling, and to Steven for the oversight and OA system prep.
 
+Here's a nice example of an Oly, and the tissues we sampled:
+
+![nice oly](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-02-05_NiceOlySpecimen.JPG?raw=true)
+
 The 4 populations have been in 2 temperature treatments (6 deg, ~10deg) for two months, and are slotted to go into OA treatments Feb 8th, so Feb 4th was a big sampling day. 
 
 Sampling scheme: all sampled animals were weighed (g), measured (mm), shucked, and tissue was extracted sparately:  
@@ -21,6 +25,16 @@ Number of each population sampled; see [data sheet](https://github.com/laurahspe
   * Heare-2HL-10: 9  
   
 *None of Katherine's were sampled today, due to histology fixative limitations. 
+
+Map of samples in histology cassettes:
+![map1](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-02-05_Feb2_HistologyMap1.JPG?raw=true)
+
+![map2](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-02-05_Feb2_HistologyMap2.JPG?raw=true)
+
+An example of the varying ripeness within a population: 
+![e.g. cassette](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-02-05_someOlyHistSamples.JPG?raw=true)
+
+
 
 Inventory of supplies needed for sampling:  
   * scale   
