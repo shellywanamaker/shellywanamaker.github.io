@@ -12,7 +12,7 @@ Here's a nice example of an Oly, and the tissues we sampled:
 The 4 populations have been in 2 temperature treatments (6 deg, ~10deg) for two months, and are slotted to go into OA treatments Feb 8th, so Feb 4th was a big sampling day. 
 
 Sampling scheme: all sampled animals were weighed (g), measured (mm), shucked, and tissue was extracted sparately:  
-  * Mantle (M), ctenidia (C) & adductor (A) were sampled into 2mL centrifuge snap-top tubes, immediately flash-frozen in an ethanol/dry ice bath, and kept on dry ice until transported to the -80 in Rick's lab.  
+  * Mantle (M), ctenidia (C) & adductor (A) were sampled into 2mL centrifuge snap-top tubes, immediately flash-frozen in an ethanol/dry ice bath, and kept on dry ice until transported to the -80 in Rick's lab.   
   * The remaining visceral mass sampled for gonad was put into histology cassettes, ~4 per cassette. Viscerall mass was placed in cassettes with right valve side facing up. I noted which specimens looked ripe. Cassettes were labeled using both histology pen and notches (see labeleing map), and put into the fixative within ~45 minutes of sampling.  
   * Any residual tissue (gill, mantle or adductor) was sampled for DNA by placing into tubes with 1mL ethanol, and stored at room temperature. 
  
