@@ -3,7 +3,7 @@ layout: post
 title: O. lurida go under the knife
 ---
  
-[Full day of sampling!](https://youtu.be/y1bOt7gC9U4) THANK YOU to Megan Hintz, Olivia & Lindsay Alma for helping Yaamini and me with the sampling. Thanks to Steven for the oversight and OA system prep.
+[Full day of sampling!](https://youtu.be/y1bOt7gC9U4) THANK YOU to Grace for materials prep, Megan Hintz, Olivia & Lindsay Alma for helping Yaamini and me with the sampling, and to Steven for the oversight and OA system prep.
 
 The 4 populations have been in 2 temperature treatments (6 deg, ~10deg) for two months, and are slotted to go into OA treatments Feb 8th, so Feb 4th was a big sampling day. 
 
