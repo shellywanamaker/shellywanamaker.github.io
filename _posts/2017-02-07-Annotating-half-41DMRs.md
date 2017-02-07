@@ -22,8 +22,8 @@ Q0IIX9.2  RecName: Full=Tuftelin-interacting protein 11; AltNa...  106     4e-24
 A1XDC0.1  RecName: Full=Septin and tuftelin-interacting protei...  70.5    4e-12
 ```   
 
-full files:
-http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02-07%2F
+full BLAST annotation output:
+<http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02-07%2F>
 
 ---
 
