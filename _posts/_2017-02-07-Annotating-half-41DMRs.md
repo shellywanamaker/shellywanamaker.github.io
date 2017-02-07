@@ -34,6 +34,7 @@ http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02
 
 # Location of 41 DMRs
 
+```
 scaffold103946  20422   20422   -0.1859
 scaffold106982  14135   14135   1.451
 scaffold107590  8577    8577    0.5295
@@ -75,6 +76,7 @@ scaffold62783   8660    8660    -0.73
 scaffold69655   10128   10128   0.2736
 scaffold8586    14161   14161   1.713
 scaffold92878   9598    9598    -0.3131
+```
 
 ----
 
