@@ -8,7 +8,7 @@ tag: [geoduck, methylation, acidification, blast, IGV, PPP]
 
 Here is an attempt to annotate about half of the 41 DMRs Sean has identified.
 
-tldr: Many appear to be in gene bodies. Some need so investigation as seems like data might be missing. Some annotations...
+tldr: Many appear to be in gene bodies. Some need investigation as seems like data might be missing. Some annotations...
 ```
 P04323.1  RecName: Full=Retrovirus-related Pol polyprotein fro...  90.5    1e-19
 Q7LHG5.2  RecName: Full=Transposon Ty3-I Gag-Pol polyprotein; ...  73.2    1e-13
