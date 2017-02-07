@@ -9,7 +9,8 @@ tag: [geoduck, methylation, acidification, blast, IGV, PPP]
 Here is an attempt to annotate about half of the 41 DMRs Sean has identified.
 
 tldr: Many appear to be in gene bodies. Some need investigation as seems like data might be missing. Some annotations...
-```
+
+```   
 P04323.1  RecName: Full=Retrovirus-related Pol polyprotein fro...  90.5    1e-19
 Q7LHG5.2  RecName: Full=Transposon Ty3-I Gag-Pol polyprotein; ...  73.2    1e-13
 Q8MR37.1  RecName: Full=Krueppel-like factor luna                  50.1    3e-05
@@ -19,7 +20,8 @@ P35072.1  RecName: Full=Transposable element Tcb1 transposase;...  36.2    0.33
 Q8NGE2.1  RecName: Full=Olfactory receptor 2AP1; AltName: Full...  31.6    9.1  
 Q0IIX9.2  RecName: Full=Tuftelin-interacting protein 11; AltNa...  106     4e-24
 A1XDC0.1  RecName: Full=Septin and tuftelin-interacting protei...  70.5    4e-12
-```
+```   
+
 full files:
 http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02-07%2F
 
