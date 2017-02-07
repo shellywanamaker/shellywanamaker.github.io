@@ -79,6 +79,11 @@ scaffold69655   10128   10128   0.2736
 scaffold8586    14161   14161   1.713
 scaffold92878   9598    9598    -0.3131
 ```
+---
+
+## Key
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_10_Day_DMR_annotations_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1E4A405A.png" alt="Geoduck_10_Day_DMR_annotations_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1E4A405A.png"/>
+
 
 ----
 
