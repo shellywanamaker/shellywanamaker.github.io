@@ -22,6 +22,7 @@ title: Getting reaquainted with the OA system
 #### To Do on Wednesday:
   * Install new valves leading to culture tanks  
   * Insulate last 3 tanks  
+  * Trouble shoot faulty Durafet, as per Rhonda's suggestions
   * Check continuous data from Durafets in both header tanks to see if pH 7.5 has been maintained. Determine how to adjust settings, if needed.  
   * Decide which header tank to use first for CO2 treatment  
   * Drain headers, refill (need to do both, so temperatures are the same)  
