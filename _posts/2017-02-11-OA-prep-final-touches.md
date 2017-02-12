@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: OA Prep: Devil's in the details 
+title: OA Prep, devil's in the details 
 ---
 
 ## Spent the day @ Manchester making the final (hopefully) touches to OA system.  Also sampled the F2 population (Katherine's). Here's a breakdown:   
