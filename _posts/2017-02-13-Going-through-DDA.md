@@ -36,6 +36,6 @@ Abacus.params
 ```
 
 The intact directory is available on owl here:    
-http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02-13%2F
+<http://owl.fish.washington.edu/halfshell/index.php?dir=working-directory%2F17-02-13%2F>
 
 Download the ABACUS output [here](http://owl.fish.washington.edu/halfshell/working-directory/17-02-13/ABACUS_output.tsv)
