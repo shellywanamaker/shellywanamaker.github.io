@@ -6,7 +6,7 @@ categories: Proteomics
 tag: [gigas, oyster, proteomics, dda, linux, windows]
 ---
 
-In an attempt to go from mzXML I took Rhonda's mzXML files on Emu, copied them to my directory and rand the following
+In an attempt to go from mzXML to Abacus, I took Rhonda's mzXML files on Emu, copied them to my directory and rand the following
 
 ```
 
