@@ -72,7 +72,6 @@ decoyTag=DECOY_
 
 # Output format that will be produced by this parameter file
 output=Default
- 
 
 ```
 
@@ -113,7 +112,7 @@ Caused by: org.hsqldb.HsqlException: user lacks privilege or object not found: N
 	at org.hsqldb.Session.executeDirectStatement(Unknown Source)
 	at org.hsqldb.Session.execute(Unknown Source)
 	... 5 more
-	```
+```
 	
 	And no output from Abacus. 
 
