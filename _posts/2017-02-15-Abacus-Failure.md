@@ -3,11 +3,7 @@ layout: post
 title: Abacus fail
 date: '2017-02-15'
 categories: Proteomics
-tag: [gigas, oyster, proteomics, dda, linux, abacus]
----
-
-
-**UPDATE** issue resolved! <https://github.com/sr320/LabDocs/issues/487#issuecomment-280068109>
+tag: [gigas, oyster, proteomics]
 ---
 
 
