@@ -114,6 +114,7 @@ Caused by: org.hsqldb.HsqlException: user lacks privilege or object not found: N
 	... 5 more
 ```
 	
-	And no output from Abacus. 
+
+And no output from Abacus. 
 
 
