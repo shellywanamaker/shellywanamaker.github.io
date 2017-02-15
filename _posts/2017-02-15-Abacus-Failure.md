@@ -6,6 +6,11 @@ categories: Proteomics
 tag: [gigas, oyster, proteomics, dda, linux, abacus]
 ---
 
+
+**UPDATE** issue resolved! <https://github.com/sr320/LabDocs/issues/487#issuecomment-280068109>
+---
+
+
 Yesterday [Emma was concerned about Rhonda's Abacus file](https://github.com/sr320/LabDocs/issues/471#issuecomment-279855252). If fact there were [differences](https://github.com/sr320/LabDocs/issues/471#issuecomment-279858333). I created a [new Abacus parameter file](http://owl.fish.washington.edu/halfshell/working-directory/17-02-14b/Abacus-01.param)
 
 ```
