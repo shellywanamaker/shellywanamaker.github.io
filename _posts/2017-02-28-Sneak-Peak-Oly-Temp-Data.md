@@ -4,7 +4,7 @@ title: Sneak Peak of Continuous Temperature data from the winter's Oly treatment
 ---
 
 
-### Here's a quick look at the continuous temperature data. Notice the tight cycling in the Cold treatment due to the chiller, and the slower, diurnal cycling in the "ambient" (aka warm) group:
+### Here's a quick look at the continuous temperature data. Notice the tight cycling in the "cold" treatment due to the chiller, and the slower, diurnal cycling in the "ambient" (aka warm!) group:
 
 
 #### Warm Treatment, Winter 2017
