@@ -13,34 +13,36 @@ title: More Pecan trouble-shooting
 
 **Monday 3/13** Unfortunately we ran into the same memory issue as before, so killed the Pecan4 run on the morning of Monday 3/13.  I then changed the settings to request 10GB memory, and only use 3 of Emu's logical cores, and restarted Pecan with the same inputs. 
 
-Here's a breakdown of how I made the adjustments (with help from Sean):
+### Here's a breakdown of how I made the adjustments (with help from Sean):
 
-  * Logged in as Sean to decrease the logical cores used:  
-    * in Terminal typed `sudo qmon" to open the QMON Main Control GUI  
-    * Selected the "Queue Controls" button, and then highlighted the main queu line and selected the "modify" button:  
+#### Logged in as Sean to decrease the logical cores used:  
+   * in Terminal typed `sudo qmon" to open the QMON Main Control GUI  
+   * Selected the "Queue Controls" button, and then highlighted the main queu line and selected the "modify" button:  
 
-    ![img_7151](https://cloud.githubusercontent.com/assets/17264765/23874061/8c0c3e1a-07f1-11e7-8b1b-37c1ba3fd12e.JPG)  
+   ![img_7151](https://cloud.githubusercontent.com/assets/17264765/23874061/8c0c3e1a-07f1-11e7-8b1b-37c1ba3fd12e.JPG)  
 
-    * In the "Slots" cell clicked the down arrow to decrease slots from 4 to 3, cliked "Ok" (note: you must use the arrows to change slot numbers; it didn't work if you highlighted and changed the number manually).   
-  * Logged back in as srlab to kill Pecan:  
-    * type `qstat -f` to view in-progress and queued job numbers  
-    * typed `qdel [job#]`, e.g. `qdel 601`, for each job. Now Pecan has stopped running.  
-  * Re-ran Pecan  
-    * Navigated to the directory with my Pecan input files, ~/Documents/Laura/DNR_geoduck/Pecan-inputs2/  
-    * Re-ran Pecan (bolded inputs modified):
-       `pecanpie **-o ~/Documents/Laura/DNR_geoduck/Pecan5_output/** -s laurageo -n DNR_geoduck_SpLibrary **--pecanMemRequest 10** /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_mzMLpath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_DatabasePath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_IsolationScheme.csv --fido --jointPercolator --isolationSchemeType BOARDER --overwrite` 
-       
-     ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
+   * In the "Slots" cell clicked the down arrow to decrease slots from 4 to 3, cliked "Ok" (note: you must use the arrows to change slot numbers; it didn't work if you highlighted and changed the number manually).   
+
+#### Logged back in as srlab to kill Pecan:  
+   * type `qstat -f` to view in-progress and queued job numbers  
+   * typed `qdel [job#]`, e.g. `qdel 601`, for each job. Now Pecan has stopped running.  
+
+#### Re-ran Pecan  
+   * Navigated to the directory with my Pecan input files, ~/Documents/Laura/DNR_geoduck/Pecan-inputs2/  
+   * Re-ran Pecan (bolded inputs modified):
+      `pecanpie **-o ~/Documents/Laura/DNR_geoduck/Pecan5_output/** -s laurageo -n DNR_geoduck_SpLibrary **--pecanMemRequest 10** /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_mzMLpath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_DatabasePath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_IsolationScheme.csv --fido --jointPercolator --isolationSchemeType BOARDER --overwrite` 
+
+    ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
      
-   * Made the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
-     * Navigate to /percolator/ directory, and type `xmod +x [.job]` for all .job files.  
-     * Navigate to /pecan2blib/ directory, and type `xmod +x pecan2blib.job` (there's only one .job file in this directory).  
+#### Made the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
+   * Navigate to /percolator/ directory, and type `xmod +x [.job]` for all .job files.  
+   * Navigate to /pecan2blib/ directory, and type `xmod +x pecan2blib.job` (there's only one .job file in this directory).  
      
-![2017-03-13_making-percolator-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875173/b1e8bfa6-07f5-11e7-8f12-d086db2c702e.png)
-![2017-03-13_making-blib-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875176/b333d2c4-07f5-11e7-8582-bca20f8af23e.png)
+   ![2017-03-13_making-percolator-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875173/b1e8bfa6-07f5-11e7-8f12-d086db2c702e.png)
+   ![2017-03-13_making-blib-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875176/b333d2c4-07f5-11e7-8582-bca20f8af23e.png)
      
-   * Checked out the job queue by typing `qstat -f` in any terminal window:  
+#### Checked out the job queue by typing `qstat -f` in any terminal window:  
 
-![2017-03-13_initial-queue](https://cloud.githubusercontent.com/assets/17264765/23874865/78cd44e0-07f4-11e7-82b5-772af04d1439.png)
+  ![2017-03-13_initial-queue](https://cloud.githubusercontent.com/assets/17264765/23874865/78cd44e0-07f4-11e7-82b5-772af04d1439.png)
 
 How, you might ask, did Sean know that Pecan wasn't correctly running all isolation windows? From Sean: "I looked at the number of .feature files (in the /Pecan4_output/pecan/ directory) compared to the run number it was on. When I looked yesterday it was processing run number 60, but there was only like 10 feature files." Meaning, there should be the same # of feature files as the number of runs (aka isolation windows). 
