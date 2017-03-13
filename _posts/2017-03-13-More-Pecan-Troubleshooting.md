@@ -1,9 +1,9 @@
 ---
 layout: post
-title: More Pecan trouble-shooting
+title: Chopping Pecan into little pieces
 ---
 
-### 
+### Chopping Pecan into little pieces. 
 
 **2/22-3/10:** Pecan ran for nearly 3 weeks, and although it appeared to have been functioning correctly Sean discovered that there was a problem: not enough memory to save all the feature files (there should be 80 per sample; 1 per isolation window). It would simply move on to the next sample, and thus I wasn't getting all the peptides analyzed. Check out [Sean's notebook entry](https://genefish.wordpress.com/2017/03/11/proteomics/) for more details.
 
@@ -18,9 +18,6 @@ title: More Pecan trouble-shooting
 #### Logged in as Sean to decrease the logical cores used:  
    * in Terminal typed `sudo qmon" to open the QMON Main Control GUI  
    * Selected the "Queue Controls" button, and then highlighted the main queu line and selected the "modify" button:  
-
-   ![img_7151](https://cloud.githubusercontent.com/assets/17264765/23874061/8c0c3e1a-07f1-11e7-8b1b-37c1ba3fd12e.JPG)  
-
    * In the "Slots" cell clicked the down arrow to decrease slots from 4 to 3, cliked "Ok" (note: you must use the arrows to change slot numbers; it didn't work if you highlighted and changed the number manually).   
 
 #### Logged back in as srlab to kill Pecan:  
