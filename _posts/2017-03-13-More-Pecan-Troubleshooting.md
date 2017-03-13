@@ -30,8 +30,8 @@ title: Chopping Pecan into little pieces
   ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
      
 #### Made the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
-   * Navigate to /percolator/ directory, and type `xmod +x [.job]` for all .job files.  
-   * Navigate to /pecan2blib/ directory, and type `xmod +x pecan2blib.job` (there's only one .job file in this directory).  
+   * Navigate to /percolator/ directory, and type `chmod +x [.job]` for all .job files.  
+   * Navigate to /pecan2blib/ directory, and type `chmod +x pecan2blib.job` (there's only one .job file in this directory).  
      
    ![2017-03-13_making-percolator-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875173/b1e8bfa6-07f5-11e7-8f12-d086db2c702e.png)
    ![2017-03-13_making-blib-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875176/b333d2c4-07f5-11e7-8582-bca20f8af23e.png)
