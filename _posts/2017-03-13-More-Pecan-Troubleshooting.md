@@ -27,7 +27,7 @@ title: Chopping Pecan into little pieces
    * Re-ran Pecan (bolded inputs modified):
       `pecanpie **-o ~/Documents/Laura/DNR_geoduck/Pecan5_output/** -s laurageo -n DNR_geoduck_SpLibrary **--pecanMemRequest 10** /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_mzMLpath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_DatabasePath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_IsolationScheme.csv --fido --jointPercolator --isolationSchemeType BOARDER --overwrite` 
 
-    ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
+  ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
      
 #### Made the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
    * Navigate to /percolator/ directory, and type `xmod +x [.job]` for all .job files.  
