@@ -27,17 +27,20 @@ Here's a breakdown of how I made the adjustments (with help from Sean):
     * typed `qdel [job#]`, e.g. `qdel 601`, for each job. Now Pecan has stopped running.  
   * Re-ran Pecan  
     * Navigated to the directory with my Pecan input files, ~/Documents/Laura/DNR_geoduck/Pecan-inputs2/  
-    * Pasted the same code that was run before, **except with the following inputs modified:** ` -o ~/Documents/Laura/DNR_geoduck/Pecan5_output/ --pecanMemRequest 10`  
-      [INPUT code here!!!]
-   * Make the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
+    * Re-ran Pecan (bolded inputs modified):
+       `pecanpie **-o ~/Documents/Laura/DNR_geoduck/Pecan5_output/** -s laurageo -n DNR_geoduck_SpLibrary **--pecanMemRequest 10** /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_mzMLpath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_DatabasePath.txt /home/srlab/Documents/Laura/DNR_geoduck/Pecan-inputs2/DNR_Geoduck_IsolationScheme.csv --fido --jointPercolator --isolationSchemeType BOARDER --overwrite` 
+       
+     ![2017-03-13_run-pecan-commands](https://cloud.githubusercontent.com/assets/17264765/23874729/f0581ebe-07f3-11e7-95cb-4cca6ad75ac5.png)
+     
+   * Made the percolator .job and pecan2blib .job files executable (Sean found that Pecan isn't doing this automatically, so need to do it manually):  
      * Navigate to /percolator/ directory, and type `xmod +x [.job]` for all .job files.  
      * Navigate to /pecan2blib/ directory, and type `xmod +x pecan2blib.job` (there's only one .job file in this directory).  
-   * Check out the job queue by typing `qstat -f` in any terminal window:  
+     
+![2017-03-13_making-percolator-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875173/b1e8bfa6-07f5-11e7-8f12-d086db2c702e.png)
+![2017-03-13_making-blib-jobs-executable](https://cloud.githubusercontent.com/assets/17264765/23875176/b333d2c4-07f5-11e7-8582-bca20f8af23e.png)
+     
+   * Checked out the job queue by typing `qstat -f` in any terminal window:  
 
+![2017-03-13_initial-queue](https://cloud.githubusercontent.com/assets/17264765/23874865/78cd44e0-07f4-11e7-82b5-772af04d1439.png)
 
-How, you might ask, did Sean know that Pecan wasn't correctly running all isolation windows? From Sean: "I looked at the number of .feature files (in the /Pecan4_output/pecan/ diretory) compared to the run number it was on. When I looked yesterday it was processing run number 60, but there was only like 10 feature files." Meaning, there should be the same # of feature files as the number of runs (aka isolation windows). 
-
-
-  
-  
-
+How, you might ask, did Sean know that Pecan wasn't correctly running all isolation windows? From Sean: "I looked at the number of .feature files (in the /Pecan4_output/pecan/ directory) compared to the run number it was on. When I looked yesterday it was processing run number 60, but there was only like 10 feature files." Meaning, there should be the same # of feature files as the number of runs (aka isolation windows). 
