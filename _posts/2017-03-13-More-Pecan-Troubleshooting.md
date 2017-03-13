@@ -3,8 +3,6 @@ layout: post
 title: Chopping Pecan into little pieces
 ---
 
-### Chopping Pecan into little pieces. 
-
 **2/22-3/10:** Pecan ran for nearly 3 weeks, and although it appeared to have been functioning correctly Sean discovered that there was a problem: not enough memory to save all the feature files (there should be 80 per sample; 1 per isolation window). It would simply move on to the next sample, and thus I wasn't getting all the peptides analyzed. Check out [Sean's notebook entry](https://genefish.wordpress.com/2017/03/11/proteomics/) for more details.
 
 **3/9:** [Sean did a test run](https://genefish.wordpress.com/2017/03/10/success-with-pecan/) on Roadrunner with one data file and just 3 isolation windows using 3 of the 16 logical cores (we used 14 logical cores during the long run), and it worked fine, completing with a .blib file and everything in 10 hours!
