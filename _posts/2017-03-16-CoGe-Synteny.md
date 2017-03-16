@@ -1,4 +1,3 @@
-# CoGe Synteny
 
 Exploring various options for comparative genomic in CoGe
 
