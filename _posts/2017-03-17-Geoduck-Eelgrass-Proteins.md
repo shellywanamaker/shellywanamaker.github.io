@@ -75,3 +75,9 @@ comp144581
 comp135366
 comp141512
 ```
+
+more at https://github.com/sr320/nb-2017/blob/master/P_generosa/12-Eel-Grass-diff.ipynb
+
+and
+
+http://owl.fish.washington.edu/halfshell/index.php?dir=bu-alanine-wd%2F17-03-17%2F
