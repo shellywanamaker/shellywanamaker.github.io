@@ -22,6 +22,11 @@ title: April 2017 Goals
   * Develop rough draft of Results section for DNR project  
 
 ### April Goals:  lots to accomplish this month! 
+  * NSF:
+    * Complete activites report
+    * Determine if I should go "on tenure" next year - what are the alternatives?
+    * Consider appropriate timeline for applying for GRIP or GROW
+    * Follow up with Marilyn about accepting Hyman & FHL funding for the Comparative Embryology course
   * Proteomic project:
     * Meet with Proteomics project collaborators to discuss next steps 
     * De-multiplex .raw files 
