@@ -1,4 +1,4 @@
-https://github.com/laurahspencer/LabNotebook/tree/master/posts---
+---
 layout: post
 title: Demultiplexing & converting from .raw to .mzml
 ---
