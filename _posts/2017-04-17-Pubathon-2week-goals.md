@@ -16,4 +16,5 @@ I'm in the midst of my first Pub-a-thon, a Roberts Lab competition.  Thus far I'
   * Mess with temperature data - synthesize into a plot
   * See if I can pull pH data from website, and/or if Doug can find the missing pH data
   * Identify best method for anayzing histology images
+  * Research best method to use for DNA Methylation analysis; and what other analyses should I consider?
   
