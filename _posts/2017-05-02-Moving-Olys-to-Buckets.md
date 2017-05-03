@@ -31,6 +31,8 @@ The Olys will be spawned in 5 gallon buckets that flow into 2 gallon buckets hol
 
 I selected 2 populations to move forward in the full, replicated study: NF & SN.  This selection is necessary due to space and logistics, and I selected these 2 populations due to the consistent size, life history, and number (~30 per treatment). Within these populations I have 8 treatments, and I have 2 replcates (aka 2 spawning buckets per treatment).  During the pH treatment each population was split into 3 tanks/replicates (A, B, C).  The NF & SN animals within each treatment group were thus pooled, and split into 2 groups for the spawning phase (A, B).  Labels are now, for example: SN-6-low pH-A. SN=population, 6=overwintering temp, low pH = pH treatment group, A=spawning replicate.  Here are photos of some new tags, also showing where 3 probes were placed today (5/2): 
 
+NOTE: I moved the Olys to their new buckets @ 2:00pm on 5/2, and I moved a Durafet, 3 temperature probes (2 might not be connected/logging), and the HOBO "Tank 1" @ ~2:15pm. Set algae pump to 70 (pulses/minute). 
+
 ![Image of new tag w/ Durafet](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-Durafet-location.JPG?raw=true)
 
 ![Image of new tag w/ Temp probe](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-Temp-probe-location.JPG?raw=true)
