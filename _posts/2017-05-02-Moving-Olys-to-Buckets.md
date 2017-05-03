@@ -3,7 +3,7 @@ layout: post
 title: Oly's get new digs
 ---
 
-Olys were all  housed in a 100L tank connected to a heater/chiller, which we used to increase the temp. The goal was 1 degC per day up to 18degC, but we weren't able to maintain that high temp due to a weak heater, and trying to keep temp high by reducing the flow rate caused the pH to drop, so that didn't work.  I'll download HOBO temp data, but the Oly's were kept around 14degC from 4/11 -> 5/2. This is what the setup looked like: 
+For the past few weeks Olys were all  housed in a 100L tank connected to a heater/chiller, which we used to increase the temp to promote gametogenesis. The goal was 1 degC per day up to 18degC, but we weren't able to maintain that high temp due to a weak heater, and trying to keep temp high by reducing the flow rate caused the pH to drop, so that didn't work.  I'll download HOBO temp data, but the Oly's were kept around 14degC from 4/11 -> 5/2. This is what the setup looked like: 
 
 ![Conditioning tank](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-11-Conditioning-setup.JPG?raw=true)
 
