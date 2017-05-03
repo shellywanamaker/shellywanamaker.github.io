@@ -19,11 +19,12 @@ Spent the past couple weeks plumbing pipes for a spawning and larval rearing set
 
 ![connections from valves to drippers](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-spawning-setup2.JPG?raw=true)
 
+Needed some special hose barbs:
+
 ![Special hose barbs used](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-spawning-setup3.JPG?raw=true)
 
 The Olys will be spawned in 5 gallon buckets that flow into 2 gallon buckets holding a 100um mini-banjo to collect larvae.  26L/Hr drippers will maintain consistent flow (although today I borrowed 16 L/Hr, since my drippers were delayed in shipping).  Each bucket has an air stone. 
 
-Needed some special hose barbs:
 ![Spawning bucket](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-spawning-setup5.JPG?raw=true)
 
 ![Spawning bucket close-up](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-05-02-spawning-setup6.JPG?raw=true)
