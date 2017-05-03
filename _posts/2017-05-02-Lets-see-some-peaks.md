@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lemee see those peaks! 
+title: Check out those peaks! 
 ---
 
 I'm currently importing my demultiplexed Lumos files into Skyline for the Geoduck DNR outplant study, using a .blib file that Emma generated via Pecan with all files, and the Geoduck gonad transcriptome as the database (database also has PRTC protein). Here are some screen shots of the peaks during import! 
