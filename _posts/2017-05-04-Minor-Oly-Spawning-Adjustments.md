@@ -45,3 +45,8 @@ Also, here's a sippet from the FAO manual that I cited for flow rate:
 
 ![image](https://cloud.githubusercontent.com/assets/17264765/25769149/473f2414-31c7-11e7-8e09-1036a035b0a8.png)
 
+And I was able to take a sablefish home this week! I don't know how to filet a fish, and this is now a primary goal while in SAFS. I did my best, but needless to say I need to try again (and I need a good knife). This is the before the bloodbath: 
+
+![img_7467](https://cloud.githubusercontent.com/assets/17264765/25769354/b0e7c7d2-31cb-11e7-82d4-62598e386af9.JPG)
+
+
