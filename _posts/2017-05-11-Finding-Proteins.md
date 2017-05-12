@@ -47,6 +47,6 @@ I also found that some of my proteins aren't in the annotated file; those not hi
 
 ![image](https://cloud.githubusercontent.com/assets/17264765/25990468/b7e55dea-36b4-11e7-8711-b469232ed898.png)
 
-The Excel files associated with this analyse are saved in my Git repo: [Proteins of Interest](https://github.com/laurahspencer/DNR_Geoduck/tree/master/Analyses/2017-May) and [Exported Skyline Report & Analyses](http://owl.fish.washington.edu/generosa/Generosa_DNR/Skyline_May2017/2015-05-11_Peptide%20Area%20and%20Transition%20Mz.xlsx)
+The Excel files associated with this analyses are saved in the following places: in GitHub [Proteins of Interest](https://github.com/laurahspencer/DNR_Geoduck/tree/master/Analyses/2017-May) and on Owl [Exported Skyline Report & Analyses](http://owl.fish.washington.edu/generosa/Generosa_DNR/Skyline_May2017/2015-05-11_Peptide%20Area%20and%20Transition%20Mz.xlsx)
 
 
