@@ -1,6 +1,6 @@
 ---
-layout: Spring Hatchlings
-title: 
+layout: post
+title: Spring Hatchlings
 ---
 
 ### Larvae! 
