@@ -31,7 +31,7 @@ I added 1 drop of Lugols to each for counting purposes (this kills the larvae, a
 ![img_7555](https://cloud.githubusercontent.com/assets/17264765/26012588/dee7d5f8-3709-11e7-933e-cf56998f86a6.JPG)
 
 
-It's been 9 days since I moved the broodstock into their own buckets. Therefore, I cannot assume that these larvae's genitors are from their own group.  While I will not rear these larvae through settlement, I want to count the to see how many eggs (which are definitely from this population) were produced: 
+It's been 9 days since I moved the broodstock into their own buckets. Therefore, I cannot assume that these larvae's genitors are from their own group.  While I will not rear these larvae through settlement, I want to count the to see how many eggs (which are definitely from this population) were produced. I'll post counts on my notebook, and will also update this [Larval Collection Spreadsheet](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Data/2017-Larval-Collection-Data.xlsx)
 
 **Larval counts:** Sampled 500 uL three times, total volume sampled from is 300 mL
   * **K-10-Amb pH**: 80, 77, 80 = ave 79 larvae / 0.5 mL = 158 larvae / mL * 300 mL = **_47,400 larvae_**
