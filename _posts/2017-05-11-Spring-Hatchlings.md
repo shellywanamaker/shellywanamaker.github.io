@@ -34,8 +34,8 @@ I added 1 drop of Lugols to each for counting purposes (this kills the larvae, a
 It's been 9 days since I moved the broodstock into their own buckets. Therefore, I cannot assume that these larvae's genitors are from their own group.  While I will not rear these larvae through settlement, I want to count the to see how many eggs (which are definitely from this population) were produced: 
 
 **Larval counts:** Sampled 500 uL three times, total volume sampled from is 300 mL
-  * K-10-Amb pH: 80, 77, 80 = ave 79 larvae / 0.5 mL = 158 larvae / mL * 300 mL = **_47,400 larvae_**
-  * K-10-low pH: 52, 57, 77 = ave 62 larvae / 0.5 mL = 124 larva / mL * 300 = mL = **_37,200 Larvae_** 
+  * **K-10-Amb pH**: 80, 77, 80 = ave 79 larvae / 0.5 mL = 158 larvae / mL * 300 mL = **_47,400 larvae_**
+  * **K-10-low pH**: 52, 57, 77 = ave 62 larvae / 0.5 mL = 124 larva / mL * 300 = mL = **_37,200 Larvae_** 
 
 Also, to test my rearing buckets, I'll keep these larvae around for a bit: 
 
@@ -44,7 +44,8 @@ Also, to test my rearing buckets, I'll keep these larvae around for a bit:
 Other things that happened today: 
  
   * Installed in-line cartridge filters (20um, 5um, 1um) 
-  * PSRF moved from Reeds Shellfish Diet to a live algae cocktail yesterday (5/10). 
+  * PSRF moved from Reeds Shellfish Diet to a live algae cocktail yesterday (5/10); things look WAY cleaner today on the live algae diet
+  * Set up several larval rearing buckets, and compiled a list of things I need to purchase to make 24 complete setups.
   * Installed immersion heater in header tank, and set temperature to 18degC. The temperatures in all tanks had increased to ~19.5degC over the past couple days, so to test the heater's abilities I opened several valves full-blast and added only ambient (~11degc) water. After I had brought the temp down to ~16.5degC, I set the mixing valve temp to 14degC. Here's how things look after a few hours: 
   
   ![image](https://cloud.githubusercontent.com/assets/17264765/25983054/af615502-3696-11e7-81ec-0e39c4e7707b.png)
