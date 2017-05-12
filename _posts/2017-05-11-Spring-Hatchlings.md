@@ -16,7 +16,6 @@ And in the **K-10-low pH group**:
 
 I collected the larvae using a 100um screen, with a 200um screen on top to filter out some of the debris. I then poured into a tri-pour, filling to 300 mL: 
 
-
 ![img_7541](https://cloud.githubusercontent.com/assets/17264765/26012573/c64154d4-3709-11e7-9a5f-eabfd623b398.JPG)
 ![img_7542](https://cloud.githubusercontent.com/assets/17264765/26012575/c8e21214-3709-11e7-9df2-5f26bf04fd42.JPG)
 ![img_7546](https://cloud.githubusercontent.com/assets/17264765/26012578/cce07932-3709-11e7-92cb-66f2a6a57e3c.JPG)
