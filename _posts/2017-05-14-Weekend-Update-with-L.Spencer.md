@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekend Updage with L. Spencer
+title: Weekend Update with L. Spencer
 ---
 
 Ups and downs this weekend! 
