@@ -3,9 +3,9 @@ layout: post
 title: Interesting Proteins, part II
 ---
 
-To determine over/under-expressed proteins eelgrass vs. bare treatments I did the following:
+To determine over/under-expressed proteins eelgrass vs. bare treatments I did the following: 
 
-1) Replaced all "N/A" values with blanks: 
+1) Downloaded the report from Skyline; replaced all "N/A" values with blanks: 
 
 ![image](https://cloud.githubusercontent.com/assets/17264765/26090427/c417d0c2-39b9-11e7-9565-ae2dec757777.png)
 
