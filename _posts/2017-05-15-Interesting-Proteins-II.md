@@ -37,4 +37,20 @@ To determine over/under-expressed proteins eelgrass vs. bare treatments I did th
 
 ![image](https://cloud.githubusercontent.com/assets/17264765/26091245/e4f00b52-39be-11e7-9684-32b61e7c6d3e.png)
 
-TBD ...
+9) I an adjacent column I calculated the # sites that had data for each protein, then sorted by that count. I highlighted all overexpressed proteins in green, and underexpressed in red. This allowed me to visually review all proteins, starting with those that were differentially expressed by a factor of 5 in all 4 sites, and assign "Over" / "Under" for each protein.  I assigned proteins that were consistently over- or under-expressed in at least 3 sites; I also spot-checked proteins for which 2 sites were over/under by a factor of 5, and had very consistent/very pronounced diff. expression. I labeled these as "interesting." I copied this list, pasted into a new file that I'll use in Galaxy to join to the annotated transcriptome. 
+
+![image](https://cloud.githubusercontent.com/assets/17264765/26092674/25f81632-39c7-11e7-92f7-08376c57fde0.png)
+
+10) In Galaxy, I uploaded the annotated geoduck gonad transcriptome file (https://raw.githubusercontent.com/sr320/paper-pano-go/master/data-results/Geo-v3-join-uniprot-all0916-condensed.tab) and my protein list: 
+
+![image](https://cloud.githubusercontent.com/assets/17264765/26093073/15a10652-39c9-11e7-8592-bfde6ee01ecb.png)
+
+![image](https://cloud.githubusercontent.com/assets/17264765/26092873/33f431b6-39c8-11e7-876b-4bb5b71855c0.png)
+
+![image](https://cloud.githubusercontent.com/assets/17264765/26093190/ac5c2932-39c9-11e7-90d8-43428b2aaf9c.png)
+
+11) I downloaded the results, added the headers, scanned the proteins, and bolded a few that were significantly differentially expressed:
+
+![image](https://cloud.githubusercontent.com/assets/17264765/26093946/c2508e4c-39cc-11e7-87b0-d214d25f16b7.png)
+
+12) Files are saved on [GitHub](https://github.com/laurahspencer/DNR_Geoduck/tree/master/Analyses/2017-May), and on [Owl](http://owl.fish.washington.edu/generosa/Generosa_DNR/Skyline_May2017/), files dated 5/15. Most important file (at the moment) is: [2017-05-15_Proteins of Definite Interest_Annotated](2017-05-15_Proteins-of-Definite-Interest_Annotated.tabular.xlsx)
