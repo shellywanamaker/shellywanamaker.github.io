@@ -3,7 +3,7 @@ layout: post
 title: May 18th 2017
 ---
 
-- Arrived @ 9:30am
+Arrived @ 9:30am
 - lab meeting
     - can steal 2 HOBOs from gigas, leave 1
     - Brent suggested that it will take ~24 hrs of dual-bucket system to successfully collect only live larvae. This is a good idea, however I don’t expect there to be sufficient room - but maybe, if larval collections are staggered… ?
