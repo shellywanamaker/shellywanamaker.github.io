@@ -39,7 +39,7 @@ Larval buckets:
     - NF-6 Amb B
 
 ### Need to buy:
-  - >15 feet 1/2 pvc flex hose (for freshwater flush)
+  - 15 feet 1/2 pvc flex hose (for freshwater flush)
   - 1/4” tube connectors - straight
   - 1/8” tube connectors- Y’s and straight
 
