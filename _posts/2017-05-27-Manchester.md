@@ -43,12 +43,13 @@ Need to make:
   - Assemble setting tank silos
 
 To Do Today:
-  - Collect new larvae & stock - DONE 
+  - Collect new larvae, stock, sample excess - DONE 
       - This went smoothly, except that the banjo was left off group HL-10 low pH yesterday, so I therefore likely lost larvae. there still was quite a bit on the bottom of the bucket, but because of this likely fewer # of larvae in the bucket I added extra from today’s spawn.
   - Image plates - NOT DONE
   - Make freshwater connection - NOT COMPLETE, but I figured ou what I need to purchase
   - Clean top row broodstock - DONE
-  - Change banjos, drippers - DONE
+  - Record location of top shelf broodstock on manifold - DONE
+  - Change all banjos, drippers - DONE
   - Feed:  - DONE
       - Increased algae capacity so I can take Sunday off:
           - 200L for larval tank
