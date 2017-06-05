@@ -127,4 +127,4 @@ Arrival inspection:
 - Prepped another downwelling setting tub for a total capacity of 16x 180um silos
 - Placed 16 upwelling 450um silos & corresponding manifold pieces in upwelling tank, filled ~2/3 with freshwater and added 250mL vortex to achieve 1 mL vortex/mL freshwater, left to clean overnight
 - Screened through shell hash pile to make microcultch - screened through 2400um, 1000um, and kept what held on 450um. Rinsed thoroughly with freshwater. Took home to sanitize in oven.
-- Pump sounds very weird again:
+- [Pump sounds very weird again](https://youtu.be/GFPh4mZ27T0)
