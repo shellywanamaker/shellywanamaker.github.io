@@ -3,7 +3,9 @@ layout: post
 title: Manchester, 5/31 to 6/4
 ---
 
-From where I stand, these days: ![img_8324](https://cloud.githubusercontent.com/assets/17264765/26771524/bef2f788-4973-11e7-964c-ab880688679e.JPG)
+From where I stand, these days: 
+![img_8324](https://cloud.githubusercontent.com/assets/17264765/26771524/bef2f788-4973-11e7-964c-ab880688679e.JPG)
+![img_8445](https://cloud.githubusercontent.com/assets/17264765/26771365/a4d58880-4972-11e7-9735-002ff0566c9c.JPG)
 
 And check out these [Olympia oyster larvae horsing around](https://youtu.be/CuSGIt139Lc)
 
@@ -12,9 +14,9 @@ And check out these [Olympia oyster larvae horsing around](https://youtu.be/CuSG
 Spent the AM moving buckets around: K & HL broodstock moved to small table against the wall, and all larval buckets to top shelf of the center table in the hopes that this would improve survival.  New arrangement: 
  
 ![img_9103](https://cloud.githubusercontent.com/assets/17264765/26771367/a4e8d836-4972-11e7-9ccf-9047024eb29b.JPG)
-![img_8445](https://cloud.githubusercontent.com/assets/17264765/26771365/a4d58880-4972-11e7-9735-002ff0566c9c.JPG)
 
-Katie helped today, and spent her morning collecting new larvae and counting. New larvae - note the very large number from HL-10 Ambient! Likely from 2 individuals, according to the ~200k larvae/oyster estimates from the literature:
+Katie helped today, and spent her morning collecting new larvae and counting. Note the very large number from HL-10 Ambient! Likely from 2 individuals, according to the ~200k larvae/oyster estimates from the literature:
+
 ![b4c101c4-8091-4827-8568-12e9d0b288e5](https://cloud.githubusercontent.com/assets/17264765/26770907/75bd2bb4-496f-11e7-8760-5b04a0196fdf.png)
 
 Sent Katie home with the excess larvae and 15 adult oysters from each K treatment group (5 per replicate).  While getting her oysters, Katie counted live/dead in each K group:
@@ -29,7 +31,6 @@ Drilled and tapped into the air line for the larval buckets, enough for a total 
 ### June 1st
 
 Arrival inspection:
-
 - Larvae possibly present in:
     - NF-10 low B
     - SN-10 amb B
@@ -56,16 +57,15 @@ Collected new larvae; I only sampled 15k from SN-10 ambient B, and set up a doub
 
 @ UW
 
-Determined setting tank dimension: 26.75”W x 81.5”L x 20”D = 25.24 cubic ft = ~190 gal = ~715 L
-Purchased 2x 800 watt immersion heaters on Amazon for the setting tank.
-Also created a Skyline project with the new .blib file, re-uploading my converted Lumos files
+Determined setting tank dimension: 26.75”W x 81.5”L x 20”D = 25.24 cubic ft = ~190 gal = ~715 L  
+Purchased 2x 800 watt immersion heaters on Amazon for the setting tank.  
+Also created a Skyline project with the new .blib file, re-uploading my converted Lumos files  
 
 ### June 3rd 
 
-Back @ Manchester today:
+Back @ Manchester today.
 
 Arrival inspection
-
 - Larvae possibly present in:
     - K-6 Amb
     - K-10 Amb
@@ -83,6 +83,7 @@ Arrival inspection
 - Collected new larvae - lots today!
 
 ![6fb29b5d-be5a-4857-a147-a7ec3de11b01](https://cloud.githubusercontent.com/assets/17264765/26770990/029cbaae-4970-11e7-9e7c-1dccbb421c7c.png)
+
 ![img_8341](https://cloud.githubusercontent.com/assets/17264765/26771364/a4d425b2-4972-11e7-9c3a-c79eb82816eb.JPG)
 
 - This is my sampling setup: 
