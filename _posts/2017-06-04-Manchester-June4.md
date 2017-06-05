@@ -5,7 +5,7 @@ title: Manchester, 5/31 to 6/4
 
 From where I stand, these days: ![img_8324](https://cloud.githubusercontent.com/assets/17264765/26771524/bef2f788-4973-11e7-964c-ab880688679e.JPG)
 
-And check out these Olympia oyster larvae horsing around: https://youtu.be/CuSGIt139Lc
+And check out these [Olympia oyster larvae horsing around](https://youtu.be/CuSGIt139Lc)
 
 ### May 31st
 
