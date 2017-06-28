@@ -13,28 +13,28 @@ I prepped the histology samples taken on 4/8 and 4/13 to be sent off for slide p
   #### I've also prepared a [histology sample key](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Data/2017-April-HistoKey.pdf).
   
   
-![Histo-ink setup](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples1.JPG?raw=true)
+![samples1](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples1.JPG?raw=true)
 
-![Image2](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples2.JPG)
+![samples2](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples2.JPG?raw=true)
 
-![Image3](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples3.JPG)
+![samples3](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples3.JPG?raw=true)
 
-![Image4](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples4.JPG)
+![samples4](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples4.JPG?raw=true)
 
-![Image5](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples5.JPG)
+![samples5](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples5.JPG?raw=true)
 
-![Image6](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples6.JPG)
+![samples6](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples6.JPG?raw=true)
 
-![Image7](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples7.JPG)
+![samples7](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples7.JPG?raw=true)
 
-![Image8](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples8.JPG)
+![samples8](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples8.JPG?raw=true)
 
-![Image9](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples9.JPG)
+![samples9](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples9.JPG?raw=true)
 
-![Image10](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples10.JPG)
+![samples10](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples10.JPG?raw=true)
 
-![Image11](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples11.JPG)
+![samples11](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples11.JPG?raw=true)
 
-![Image12](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples12.JPG)
+![samples12](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples12.JPG?raw=true)
 
-![Image13](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-04-20_Histo-Samples13.JPG)
+![samples13](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples13.JPG?raw=true)
