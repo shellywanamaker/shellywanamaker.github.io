@@ -15,7 +15,7 @@ I prepped the histology samples taken on 4/8 and 4/13 to be sent off for slide p
   
 ![samples1](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples1.JPG?raw=true)
 
-![samples2](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples2.JPG?raw=true)
+![samples2](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples2.jpg?raw=true)
 
 ![samples3](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-April_Histo-Cassettes/2017-04-20_Histo-Samples3.JPG?raw=true)
 
