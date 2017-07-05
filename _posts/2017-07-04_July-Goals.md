@@ -4,7 +4,7 @@ title: July Goals
 ---
 
 Happy July! 
-![file_000 5](https://user-images.githubusercontent.com/17264765/27854869-3a54510e-611d-11e7-84aa-dc1a378f933b.jpeg)
+![file_000 5](https://user-images.githubusercontent.com/17264765/27854900-6216d676-611d-11e7-8abe-00442a15eaa6.jpeg)
 
 Goals for the month: 
 * "Sync" online lab notebook with hard copy lab notebook from the last week, and be more diligent about updating daily
