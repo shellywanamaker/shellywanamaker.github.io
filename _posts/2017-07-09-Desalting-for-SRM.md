@@ -12,7 +12,7 @@ Yaamini, Grace, and Jose prepped my geoduck samples from sonication though diges
   - Final list of samples extracted:
 
     ![image](https://user-images.githubusercontent.com/17264765/28007970-6661b16a-650a-11e7-822f-2866fcbe9c3b.png)
-  - [Sample prep for sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-Round2/]
+  - [Sample prep for sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-Round2/)
   - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/23/graces-notebook-preparing-samples-for-laura/).
   - [Sonication - Yaamini's notes](https://yaaminiv.github.io/DNR-Sonication-Round2/)
   - [BCA Assay - Yaamini's notes](https://yaaminiv.github.io/DNR-BCA-Assay-Round2/)
