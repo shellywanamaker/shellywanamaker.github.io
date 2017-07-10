@@ -7,23 +7,25 @@ title: Geoduck SRM, desalting
 #### FLASHBACK!!! 
 
 Yaamini, Grace, and Jose prepped my geoduck samples from sonication though digestion. Due to the large number of samples (I have 48), they split this into two cohorts; Yaamini refers to these as "Round 2" and "Round 3" (since our DIA samples were Round 1).  Here are their notebook entries:
-  * Round 2:
-    - Final list of samples extracted:
-      ![image](https://user-images.githubusercontent.com/17264765/28007970-6661b16a-650a-11e7-822f-2866fcbe9c3b.png)
-    - [Sample prep for sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-Round2/]
-    - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/23/graces-notebook-preparing-samples-for-laura/).
-    - [Sonication - Yaamini's notes](https://yaaminiv.github.io/DNR-Sonication-Round2/)
-    - [BCA Assay - Yaamini's notes](https://yaaminiv.github.io/DNR-BCA-Assay-Round2/)
-    - [Digestion - Yaamini's notes](https://yaaminiv.github.io/DNR-Mini-Trypsin-Digestion-Round2/)
-    - A couple notes: My initial list of samples was dramatically modified due to a couple preparation hiccups (not rinsing tools with nanopure after bleach when cutting, using the wrong chemical in a solution).
+
+Round 2:
+  - Final list of samples extracted:
+
+    ![image](https://user-images.githubusercontent.com/17264765/28007970-6661b16a-650a-11e7-822f-2866fcbe9c3b.png)
+  - [Sample prep for sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-Round2/]
+  - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/23/graces-notebook-preparing-samples-for-laura/).
+  - [Sonication - Yaamini's notes](https://yaaminiv.github.io/DNR-Sonication-Round2/)
+  - [BCA Assay - Yaamini's notes](https://yaaminiv.github.io/DNR-BCA-Assay-Round2/)
+  - [Digestion - Yaamini's notes](https://yaaminiv.github.io/DNR-Mini-Trypsin-Digestion-Round2/)
+  - A couple notes: My initial list of samples was dramatically modified due to a couple preparation hiccups (not rinsing tools with nanopure after bleach when cutting, using the wrong chemical in a solution).
     
-  * Round 3
-    - Final list of samples extracted:
-      ![image](https://user-images.githubusercontent.com/17264765/28007986-7795086a-650a-11e7-82c3-89be0f2f6f52.png)
-    - [Sample prep & sonication sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-and-Sonication-Round3/)
-    - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/30/graces-notebook-may-30-2017/).
-    - [BCA Assay- Yaamini's notes](https://yaaminiv.github.io/DNR-BCA-Assay-Round3/)
-    - [Digestion - Yaamini's notes](https://yaaminiv.github.io/DNR-Mini-Trypsin-Digestion-Round3/)
+Round 3
+  - Final list of samples extracted:
+    ![image](https://user-images.githubusercontent.com/17264765/28007986-7795086a-650a-11e7-82c3-89be0f2f6f52.png)
+  - [Sample prep & sonication sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-and-Sonication-Round3/)
+  - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/30/graces-notebook-may-30-2017/).
+  - [BCA Assay- Yaamini's notes](https://yaaminiv.github.io/DNR-BCA-Assay-Round3/)
+  - [Digestion - Yaamini's notes](https://yaaminiv.github.io/DNR-Mini-Trypsin-Digestion-Round3/)
 
 #### On 7/4 I speed vacuumed my samples. Again, this took awhile.
   * Make: CentriVap (R) Refrigerated Centrifugal Concentrators
