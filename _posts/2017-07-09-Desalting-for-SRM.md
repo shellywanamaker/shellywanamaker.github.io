@@ -89,6 +89,9 @@ I maximized space and ease with 18 samples per centrifuge. Also, halfway through
 ##### Step 9: 
 Took samples on wet ice to Genome Sciences to use speed-vac. Evaporated samples to near dryness at 25degC in speed vac. Note that while the original protocol called for 4C, Emma advised that it is OK to evap at 25degC to quickent the process.  The temperature at this point is not as crucial, however when time allows it is best to evap at a temp close to 4C to minimize degredation.
 
+Time it took to dehydrate each sample: 
+
+
 At this point I stored my dehydrated samples in the -80 until I confirm with: 
   1) Jose to see, for samples that originally didn't have much protein, how he adjusted the amount he used in the digestion step. For example, there were several samples with low concentration, and I believe he used 100uL, resulting in <100ug protein in my peptide sample; and
   2) Emma to see if, for low concentration samples, I should reduce the Final Solvent volume to achieve 1ug/uL. 
