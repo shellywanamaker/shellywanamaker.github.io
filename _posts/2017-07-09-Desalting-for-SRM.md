@@ -20,7 +20,8 @@ Yaamini, Grace, and Jose prepped my geoduck samples from sonication though diges
   - A couple notes: My initial list of samples was dramatically modified due to a couple preparation hiccups (not rinsing tools with nanopure after bleach when cutting, using the wrong chemical in a solution).
     
 ##### Round 3
-  - Final list of samples extracted:
+  - Final list of samples extracted: 
+  
     ![image](https://user-images.githubusercontent.com/17264765/28007986-7795086a-650a-11e7-82c3-89be0f2f6f52.png)
   - [Sample prep & sonication sonication- Yaamini's notes](https://yaaminiv.github.io/DNR-Sample-Preparation-and-Sonication-Round3/)
   - [Sample prep for sonicatoin- Grace notes](https://genefish.wordpress.com/2017/05/30/graces-notebook-may-30-2017/).
