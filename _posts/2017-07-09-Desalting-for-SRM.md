@@ -36,21 +36,23 @@ Yaamini, Grace, and Jose prepped my geoduck samples from sonication though diges
   * Time: 999 (initially I set this to ON, but later I set it to 999 (mins) to ensure it wouldn't shut off!)
   
 Loaded samples on @ ~10am, monitored for ~1.5 hrs, then left to work in my office. I returned at 3:30pm and found that it had fully stopped, and the temperature and increased to room temp, with no obvious reasons as to why it stopped.  Judging from the amount the samples had evaporated, I'd guess it had stopped at around 1:30 or 2pm.  I chatted with Jen and she advised that I clean the large O-ring to ensure a proper seal. I did so, restarted with time set to 999. Checked on it at 7:30pm, and samples still needed lots of time. I returned at 11:30pm, and pulled all my samples out at 1:20am.  Many of them had a black precipitate, which is different than our first round of extractions:
-  
+
+![file_000 9](https://user-images.githubusercontent.com/17264765/28008745-9e97cbb6-650d-11e7-8750-33b8c8dae549.jpeg)
 
 #### 7/9 Desalting 
-This involved preparing columns, and washing a series of solvents through the columns to remove salts and retain the peptides. Followed the [protocol](https://github.com/sr320/LabDocs/blob/master/protocols/ProteinprepforMSMS.md) listed on LabDocs repo, with a couple minor tweaks:
+This involved preparing columns, and washing a series of solvents through the columns to remove salts and retain the peptides. Followed the [protocol](https://github.com/sr320/LabDocs/blob/master/protocols/ProteinprepforMSMS.md) listed on LabDocs repo, with a couple minor tweaks
 
 ##### Step 1: 
 Made solvents
-  ![image](https://user-images.githubusercontent.com/17264765/28006702-513f989c-6505-11e7-9a4f-3b5f83d8b079.png)
+
+![image](https://user-images.githubusercontent.com/17264765/28006702-513f989c-6505-11e7-9a4f-3b5f83d8b079.png)
 
 ##### Step 2: 
 Labeled tubes 50 each (48 samples, Gblank, and Oblank):
     - Macrospin tubes for columns: G# E
     - Macrospin tubes for columns: G# F (final, will contain peptides)
     - Centrifuge tubes: G# E-1
-    - Centrifuge tubes: G# E-2 **Note: this tube was extraneous, and was not used, as the macrospin column "G# E" had a snap top, and was used instead. This saved a pipetting step. 
+    - Centrifuge tubes: G# E-2 **Note: this tube was extraneous, and was not used, as the macrospin column "G# E" had a snap top, and was used instead. This saved a pipetting step.***
     
 ![file_000](https://user-images.githubusercontent.com/17264765/28006965-70c1f268-6506-11e7-973b-e1d78cca19c3.jpeg)
     
@@ -59,7 +61,7 @@ Reconstituted samples in **100 µl solvent B**. Need sample solution =< pH2. If 
 
 **NOTE:** last desalting day I used 150ul FA, this time 70ul. This is likely b/c the 10% FA solution we used (prepared by Rhonda) was likely actually 5%, since it appears she prepared solutions erroneously thinking that the stock FA was 100% (which it is not, it is 50%). Here are the pH test strips and notes of which samples I tested:
 
-    ![file_001](https://user-images.githubusercontent.com/17264765/28006964-6f17a0ca-6506-11e7-99cc-cc5fc5657d59.jpeg)
+ ![file_001](https://user-images.githubusercontent.com/17264765/28006964-6f17a0ca-6506-11e7-99cc-cc5fc5657d59.jpeg)
 
 ##### Step 4: 
 Washed column: **Added 200 µl solvent A to columns**, spun for **3 mins @ 2000 rpm**, repeating 3 times for a total of 4 times. Discarded remaining liquid everyother time to accomodate room for next round.
@@ -69,7 +71,7 @@ Equilibrated column: **Added 200 µl solvent B to columns**, spun for **3 mins @
 
 **NOTE:** Several columns did not fully release all the solvents after centrifuging.  I consulted with Emma, who said that I could increase the RPM or re-centrifuge to release all the liquid.  I did so. 
 
-    ![file_001](https://user-images.githubusercontent.com/17264765/28006964-6f17a0ca-6506-11e7-99cc-cc5fc5657d59.jpeg)
+![file_001](https://user-images.githubusercontent.com/17264765/28006964-6f17a0ca-6506-11e7-99cc-cc5fc5657d59.jpeg)
 
 #### Step 6: 
 Loaded protein on column: **Added all digested sample to columns** (100 ug protein in 100 uL). Spun for **3 mins @ 3000 rpm**. Collected flow-through, put back on column and spun again. Peptides are now in the columns. Transferred the remaining liquid to new tubes labeled G#-E-1 (just in case) and store at -80C.
@@ -81,6 +83,7 @@ Washed salts through column: Wash columns with 200 µl solvent B, spinning at 30
 Eluted peptides. **Added 100 µl solvent A**, spun for 3 mins @ 3000 rpm, repeated once for a total of 2 times. **Good warning: The peptides are now in the liquid- do not discard!**
 
 A note on centrifuges: We have 3 centrifuges with 24 spaces, although one cannot easily fit 24 macrospin columns in at a time (it's hard to get them in and out), and you cannot use the centrifuge cap, nor close the tops on any columns (seems risky): 
+
 ![file_002](https://user-images.githubusercontent.com/17264765/28006968-72c2d0a0-6506-11e7-8ba9-1d0cd0681cb7.jpeg)
 
 I maximized space and ease with 18 samples per centrifuge. Also, halfway through the process one centrifuge, which I stole from the fridge, started giving me ERROR 3. 
