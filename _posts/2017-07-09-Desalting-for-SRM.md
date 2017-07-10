@@ -71,8 +71,6 @@ Equilibrated column: **Added 200 µl solvent B to columns**, spun for **3 mins @
 
 **NOTE:** Several columns did not fully release all the solvents after centrifuging.  I consulted with Emma, who said that I could increase the RPM or re-centrifuge to release all the liquid.  I did so. 
 
-![file_001](https://user-images.githubusercontent.com/17264765/28006964-6f17a0ca-6506-11e7-99cc-cc5fc5657d59.jpeg)
-
 #### Step 6: 
 Loaded protein on column: **Added all digested sample to columns** (100 ug protein in 100 uL). Spun for **3 mins @ 3000 rpm**. Collected flow-through, put back on column and spun again. Peptides are now in the columns. Transferred the remaining liquid to new tubes labeled G#-E-1 (just in case) and store at -80C.
 
