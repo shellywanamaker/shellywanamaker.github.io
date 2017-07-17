@@ -13,29 +13,25 @@ Universtiy of Washington
 Oceanography, Chemical, 3.52  
 
 ### Honors & Awards
-**[Hall Conservation Genetics Research Award](https://environment.uw.edu/news/2017/06/2017-hall-conservation-genetics-research-award-winners-announced/)** 
-Mar 2017, University of Washington College of the Environment  
-**[Libbie H. Hyman Memorial Scholarship](http://sicb.org/grants/hyman/)** (_Declined_)  
-Mar 2017, The Society for Integrative and Comparative Biology, Division of Invertebrate Zoology  
-**[Melbourne R. Carriker Student Research Grant](http://www.shellfish.org/the-melbourne-r--carriker-student-research-grant)**  
-Mar 2017, National Shellfish Association  
-**[NSA Student Travel Award](http://www.shellfish.org/sef-student-presentation-and-travel-awards)**
-January 2017, National Shellfish Association  
-**[Fellow, Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)**  
-April 2016, National Science Foundation  
+**[Hall Conservation Genetics Research Award](https://environment.uw.edu/news/2017/06/2017-hall-conservation-genetics-research-award-winners-announced/)** Mar 2017, University of Washington College of the Environment  
+**[Libbie H. Hyman Memorial Scholarship](http://sicb.org/grants/hyman/)** (_Declined_) Mar 2017, The Society for Integrative and Comparative Biology, Division of Invertebrate Zoology  
+**[Melbourne R. Carriker Student Research Grant](http://www.shellfish.org/the-melbourne-r--carriker-student-research-grant)**  Mar 2017, National Shellfish Association  
+**[NSA Student Travel Award](http://www.shellfish.org/sef-student-presentation-and-travel-awards)** January 2017, National Shellfish Association  
+**[Fellow, Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)**  April 2016, National Science Foundation  
 
 ### Membership, Certificates, and Positions
 **[Pacific Coast Shellfish Growers Association](http://pcsga.org/)**, member since 2016  
 **[National Shellfish Association](http://www.shellfish.org/)**, recruits co-chair and member since 2017  
 **[World Aquaculture Society](https://www.was.org/)**, member since 2017  
 **[United States Aquaculture Society](http://usaquaculture.org/)**, social media subcommittee and member since 2017  
+**[UW Shellfish Club](https://uwshellfishfarm.org/)**, Vice-President since 2017
 **PADI Open Water**, 2015-present 
 **UW Scientific Diver in-training** 
 
 ### Products
-#### [Earth Echo International: STEM Career Close-Up](https://youtu.be/PkqqbPhRMAE), March 2016
-#### [Earth Echo International: Shell Shocked](https://youtu.be/KG_VOHIbCww), March 2016
-#### _Geoduck as indicators of environmental change_ poster, NSA Annual Meeting in Knoxville, March 2017
+**[Earth Echo International: STEM Career Close-Up](https://youtu.be/PkqqbPhRMAE)**, March 2016
+**[Earth Echo International: Shell Shocked](https://youtu.be/KG_VOHIbCww)**, March 2016
+**_Geoduck as indicators of environmental change_ poster**, NSA Annual Meeting in Knoxville, March 2017
 
 ### Contact me
 
