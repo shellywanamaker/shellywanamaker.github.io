@@ -19,20 +19,19 @@ Oceanography, Chemical, 3.52
 **[NSA Student Travel Award](http://www.shellfish.org/sef-student-presentation-and-travel-awards)** January 2017, National Shellfish Association  
 **[Fellow, Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org/)**  April 2016, National Science Foundation  
 
-### Membership, Certificates, and Positions
+### Membership, Certificates, and Positions  
 **[Pacific Coast Shellfish Growers Association](http://pcsga.org/)**, member since 2016  
 **[National Shellfish Association](http://www.shellfish.org/)**, recruits co-chair and member since 2017  
 **[World Aquaculture Society](https://www.was.org/)**, member since 2017  
 **[United States Aquaculture Society](http://usaquaculture.org/)**, social media subcommittee and member since 2017  
-**[UW Shellfish Club](https://uwshellfishfarm.org/)**, Vice-President since 2017
-**PADI Open Water**, 2015-present 
-**UW Scientific Diver in-training** 
+**[UW Shellfish Club](https://uwshellfishfarm.org/)**, Vice-President since 2017  
+**PADI Open Water**, 2015-present   
+**UW Scientific Diver in-training**   
 
-### Products
-**[Earth Echo International: STEM Career Close-Up](https://youtu.be/PkqqbPhRMAE)**, March 2016
-**[Earth Echo International: Shell Shocked](https://youtu.be/KG_VOHIbCww)**, March 2016
-**_Geoduck as indicators of environmental change_ poster**, NSA Annual Meeting in Knoxville, March 2017
+### Products  
+**[Earth Echo International: STEM Career Close-Up](https://youtu.be/PkqqbPhRMAE)**, March 2016  
+**[Earth Echo International: Shell Shocked](https://youtu.be/KG_VOHIbCww)**, March 2016  
+**_Geoduck as indicators of environmental change_ poster**, NSA Annual Meeting in Knoxville, March 2017  
 
-### Contact me
-
+### Contact me  
 [lhs3@uw.edu](mailto:lhs3@uw.edu)
