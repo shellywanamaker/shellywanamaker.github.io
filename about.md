@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A bit about me
-permalink: /CV/
+permalink: /About/
 ---
 
 ### A bit about me
