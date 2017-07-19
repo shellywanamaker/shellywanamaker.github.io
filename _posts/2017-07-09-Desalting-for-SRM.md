@@ -95,3 +95,6 @@ Time it took to dehydrate each sample:
 At this point I stored my dehydrated samples in the -80 until I confirm with: 
   1) Jose to see, for samples that originally didn't have much protein, how he adjusted the amount he used in the digestion step. For example, there were several samples with low concentration, and I believe he used 100uL, resulting in <100ug protein in my peptide sample; and
   2) Emma to see if, for low concentration samples, I should reduce the Final Solvent volume to achieve 1ug/uL. 
+
+#### Step 10: 
+On 7/12 Grace added 50ul Final Solvent (3% acetonitrile + 0.1% formic acid) to all prepared peptides samples, vortexed, centrifuged, then placed back in the -80
