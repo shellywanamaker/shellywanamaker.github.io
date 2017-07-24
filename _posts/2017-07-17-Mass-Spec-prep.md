@@ -35,6 +35,7 @@ When I set my pipette to 15ul I consistently was getting a bubble, likely b/c I 
 #### Mass Spec Refresher / notes
 * Loaded my samples in the mass spec tray as per the below map. NOTE: Do not open door when mass spec is "injecting"
 
+Plate 1
 |   | 1    | 2     | 3    | 4    | 5    | 6      | 7    | 8    |
 |---|------|-------|------|------|------|--------|------|------|
 | A |      | Blank | QC   |      |      |        |      |      |
