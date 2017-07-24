@@ -17,7 +17,7 @@ title: Remaining SRM Timeline
 Up to this point I have 20 samples where a handful of peptides don't show up from both PRTC and my samples.  In PRTC there are 4/9 poor quality peptides, and in my samples 3/39 poor quality transitions.  In an ideal world I would remake these ~20 samples, run the new batch twice while being careful with freeze/thaw and time out of the freezer. However, I don't have time for 2 runs of remade samples. I could remake, then do 1 run of each in the hopes of capturing data on those 3 transitions.  However, I think it's best to have replicates of the 36 good quality transitions in my samples. Also, the 3 poor quality transitions were not in the sample proteins, so I can likely draw conclusions about protein quantification from the other 2 transitions.  The differing rates of peptide degradation between samples does make me a little concerned; I'm wondering how folks take this into consideration. 
 
 Samples left to run:   
-  #### Plate 2 - _23 + 2 blanks_
+  #### Plate 2 - _23 samples + 2 blanks_
   
    |   | 1      | 2      | 3    | 4    | 5    | 6      | 7    | 8    |
    |---|--------|--------|------|------|------|--------|------|------|
@@ -28,7 +28,7 @@ Samples left to run:
    | E | GBlank | OBlank |      |      |      |        |      |      |
    | F |        |        |      |      |      |        |      |      |
 
-  #### Plate 1 - run 1 - _1 sample I didn't re-run_
+  #### Plate 1 - run 1 - _2 samples_
   
    |   | 1    | 2     | 3    | 4    | 5    | 6      | 7    | 8    |
    |---|------|-------|------|------|------|--------|------|------|
