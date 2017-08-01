@@ -57,6 +57,6 @@ OK, after running 2 blanks here’s the first QC, “QC41”
 
 ![cef57c25-d274-4de4-9633-cf8bc69bb896](https://user-images.githubusercontent.com/17264765/28847618-b94cbfb6-76c4-11e7-9bf2-79c976ac3d15.png)
 
-
+The blanks and QC's looked good, so I re-ran a couple of my poor-quality samples. They did not look good. So, the thought is something is happening in those samples, like degrading peptides, or co-eluting peptides.  I decided to move forward with my other samples, and keep track of those that do not look good. I can then either re-run them, or remake and re-run depending on time.
 
 
