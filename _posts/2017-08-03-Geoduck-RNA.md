@@ -22,3 +22,7 @@ Mantle
 Labial palps
 Juvenile OA exposure – low treatment (EPI_107, EPI_108)
 ```
+
+![RNA-samples](../images/ill-rna.png)
+
+
