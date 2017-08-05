@@ -35,4 +35,7 @@ mkdir analyses/$today
 9) log into Owl via ssh.
 
 10 sync my mox directory to owl
-`rsync -avz sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/ /var/services/web/halfshell/bu-mox/`
+```
+rsync -avz sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/ /var/services/web/halfshell/bu-mox/
+```
+
