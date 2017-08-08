@@ -1,0 +1,22 @@
+---
+Layout: post
+Title: Cleaning SRM data in Skyline
+---
+
+### First steps 
+
+  - Clean up data in Skyline: 
+    * Use sequence file to associate .raw files with samples - determine which samples are which for the duplicate named files 
+    * Make sure I have all data in Skyline 
+    * Confirm correct peaks picked & determine if any transitions/peptides are un-usable
+      - Need at least 2 transitions for each peptide 
+    * Adjust peak boundaries
+    Determine if any .raw files should be discarded 
+    * Look @ all blank runs to see if there are any weird signals
+    * Check out blank samples
+  
+    * Download data!
+      - Protein, peptide, transition, area, retention time, 
+  - Normalize area 
+    * Select PRTC peptides that look consistent, elute @ 20-30 mins
+    * 
