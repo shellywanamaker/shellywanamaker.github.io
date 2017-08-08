@@ -1,5 +1,5 @@
 ---
-Layout: 
+Layout: post
 Title: Cleaning SRM data in Skyline
 ---
 
