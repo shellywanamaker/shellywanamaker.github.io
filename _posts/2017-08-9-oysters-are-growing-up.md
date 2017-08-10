@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My oysters are growing up  
+comments: true
 ---
 
 ### Screened all oysters up to 450um screen, counted set on 180um silos
