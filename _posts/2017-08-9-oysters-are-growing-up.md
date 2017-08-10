@@ -15,10 +15,10 @@ The last 224um larvae went into 180um setting tanks on 7/20, 3 weeks ago. Succes
   ![seed set on silo](https://github.com/laurahspencer/LabNotebook/blob/master/images/2017-08-09-Seed-set-on-silos.jpg?raw=true)
  
  Also counted the # set on side of SN growth exp silos (none salvaged): 
-    - 6-Ambient = 3
-    - 6-Low = 18
-    - 10-Ambient = 0
-    - 10-Low = 1
+    - 6-Ambient = 3  
+    - 6-Low = 18  
+    - 10-Ambient = 0  
+    - 10-Low = 1  
  
  
 
