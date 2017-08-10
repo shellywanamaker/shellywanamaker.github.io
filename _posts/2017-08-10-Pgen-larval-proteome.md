@@ -57,11 +57,12 @@ Blastout: `http://owl.fish.washington.edu/halfshell/bu-mox/analyses/0810_1100/bl
 
 _[output files explained](https://github.com/TransDecoder/TransDecoder/wiki#output-files-explained)_
 
-## peptide sequences for the final candidate ORFs; all shorter candidates within longer ORFs were removed:
+**peptide sequences for the final candidate ORFs; all shorter candidates within longer ORFs were removed:**
 `http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-10/
 
 Linkouts:      
 Jupyter nb w/o stranded or blast integration - [here](https://github.com/sr320/nb-2017/blob/master/P_generosa/25-Larval-transcriptome.ipynb)              
     - corresponding Alanine wd [17-08-09](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-09/)     
-Jupyter nb w Stranded and blast integration - [here](https://github.com/sr320/nb-2017/blob/master/P_generosa/26-Larval-ded-Proteome.ipynb)     - corresponding Alanine wd [17-08-10](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-10/)    
+Jupyter nb w Stranded and blast integration - [here](https://github.com/sr320/nb-2017/blob/master/P_generosa/26-Larval-ded-Proteome.ipynb)    
+    - corresponding Alanine wd [17-08-10](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-10/)    
 
