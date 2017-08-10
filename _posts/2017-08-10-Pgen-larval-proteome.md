@@ -57,7 +57,7 @@ Blastout: `http://owl.fish.washington.edu/halfshell/bu-mox/analyses/0810_1100/bl
 
 _[output files explained](https://github.com/TransDecoder/TransDecoder/wiki#output-files-explained)_
 
-##peptide sequences for the final candidate ORFs; all shorter candidates within longer ORFs were removed:
+## peptide sequences for the final candidate ORFs; all shorter candidates within longer ORFs were removed:
 `http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-08-10/
 
 Linkouts:
