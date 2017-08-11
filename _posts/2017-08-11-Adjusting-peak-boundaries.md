@@ -50,5 +50,5 @@ Export -> Report, then I edited the Transition Results report with the following
 I then exported the same report, NOT pivoted by replicate name. 
 
 ### Both files were uploaded to my [Geoduck-DNR/Data](https://github.com/laurahspencer/Geoduck-DNR/tree/master/Data) repo:
-[SRM Transition Results, pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified.csv)
+[SRM Transition Results, pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified.csv)   
 [SRM Transitoin Results, not pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified%2Crep-name-not-pivoted.csv)
