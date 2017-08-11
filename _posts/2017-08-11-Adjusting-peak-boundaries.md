@@ -4,12 +4,8 @@ title: Cleaning up SRM data in Skyline, part II
 ---
 
 ### Before I export my data from Skyline for data analysis, I have the following final things to do: 
-  * Adjust peak boundaries
-  * Determine if any .raw files should be discarded, based on poor-quality data and those that I re-ran & re-made
-  * Look @ all blank runs to see if there are any weird signals
-  * Check out blank samples
-
-#### Adjusting peak boundaries
+  * Adjust peak boundaries as necessary
+  * Remove transitions that do not align with the predicted RT. Remove any peaks that do not have at least 2 transitions. 
 
 Some helpful keyboard shortcuts:
   * Scroll between replicates: Ctrl+Up or Ctrl+Down 
@@ -52,3 +48,13 @@ I then exported the same report, NOT pivoted by replicate name.
 ### Both files were uploaded to my [Geoduck-DNR/Data](https://github.com/laurahspencer/Geoduck-DNR/tree/master/Data) repo:
 [SRM Transition Results, pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified.csv)   
 [SRM Transitoin Results, not pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified%2Crep-name-not-pivoted.csv)
+
+Next steps: 
+  * Determine if any .raw files should be discarded, based on poor-quality data and those that I re-ran & re-made
+  * Look @ all blank runs to see if there are any weird signals that linger
+  * Check out biological blank (sample prepped as per the protein extraction process, but had no tissues) to see if there is any contamination. Should also check out Yaamini's blanks. 
+  * Normalize based on PRTC peptides
+  * Review Dilution Curve results 
+  * Generate NMDS plot
+  * .... 
+  
