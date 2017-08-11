@@ -47,4 +47,8 @@ A couple peptides elute @ ~18min, and could be the culprit: Sodium/potassium-tra
 Export -> Report, then I edited the Transition Results report with the following metrics: Protein Name, Transitions, Peptide Sequence, Fragment Ion, Peptide Retention Time, Area; I selected "Pivot Replicate Name".  Here's a preview of the report:
 ![image](https://user-images.githubusercontent.com/17264765/29233937-bbc960dc-7ea8-11e7-9e5d-3417e367fd40.png)
 
+I then exported the same report, NOT pivoted by replicate name. 
 
+Both files were uploaded to my [Geoduck-DNR/Data](https://github.com/laurahspencer/Geoduck-DNR/tree/master/Data) repo:
+[SRM Transition Results, pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified.csv)
+[SRM Transitoin Results, not pivoted](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Data/2017-08-11_Transition%20Results_LHS%20modified%2Crep-name-not-pivoted.csv)
