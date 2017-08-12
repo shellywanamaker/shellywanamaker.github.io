@@ -37,7 +37,7 @@ A couple peptides elute @ ~18min, and could be the culprit: Sodium/potassium-tra
   * ID'd and deleted 2 transitions that do not align with other transitions at designated RT. Transitions are:
     - Superoxide dismutase, TIVVHADVDDLGK, y4 
     - Ras-related protein Rab-11B VVLVGDSGVGK, y4
-  * Documented peptides and transitions w/ poor quality over several samples [here](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Analyses/SRM-Analysis/2017-08-11-SRM-Transition-Cleanup.xlsx)
+  * Documented peptides and transitions w/ poor quality over several samples and saved in my [Geoduck-DNR Analysis Repo](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Analyses/2017-August_SRM-Analysis/2017-08-11-SRM-Transition-Cleanup.xlsx)
   
 #### Exported data from Skyline: 
 Export -> Report, then I edited the Transition Results report with the following metrics: Protein Name, Transitions, Peptide Sequence, Fragment Ion, Peptide Retention Time, Area; I selected "Pivot Replicate Name".  Here's a preview of the report:
