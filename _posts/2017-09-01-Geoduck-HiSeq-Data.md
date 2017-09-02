@@ -158,4 +158,23 @@ Geoduck-larvae-day5-RNA-EPI-99-8_S64_L008_R2_001.fastq.gz
 ```
 
 
+This files via web facing owl [here](http://owl.fish.washington.edu/halfshell/working-directory/17-09-01b/).
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
