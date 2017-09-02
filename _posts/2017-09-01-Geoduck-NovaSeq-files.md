@@ -41,5 +41,7 @@ As seen above there are some directories that have indices for RNA and MP librar
 
 >It’s actually the other way around, the RNA-seq libraries were pulled out of this run so you should have fewer RNA-seq libraries, but all of the MP libraries. So the NR013_AD013 should just read as AD013. The sample sheet should have been updated to reflect that, but it looks like it was left in.
 
-An effort that is not trivial is getting these files into a single directory
+An effort that is not trivial is getting these files into a single directory.
+
+The DNA MP NovaSeq libraries are found together on owl [here](http://owl.fish.washington.edu/halfshell/working-directory/17-09-01/).
 
