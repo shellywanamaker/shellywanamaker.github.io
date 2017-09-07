@@ -1,5 +1,7 @@
 While we received a lot of files in HiSeq folder, none were fastq, thus Sam downloaded from BaseSpace. And it is ugly.
 
+see also [this jupyter nb](https://github.com/sr320/nb-2017/blob/master/P_generosa/28-HiSeq-files.ipynb)
+
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_HiSeq_1F5A1426.png" alt="Geoduck_HiSeq_1F5A1426.png"/>
 
 ```
