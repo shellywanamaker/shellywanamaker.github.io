@@ -1,4 +1,4 @@
-While we received a lot of files in HiSeq folder, none were fastqc, thus Sam downloaded from BaseSpace. And it is ugly.
+While we received a lot of files in HiSeq folder, none were fastq, thus Sam downloaded from BaseSpace. And it is ugly.
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_HiSeq_1F5A1426.png" alt="Geoduck_HiSeq_1F5A1426.png"/>
 
