@@ -81,4 +81,59 @@ trashme_32333_dsk_partitions.parts.2   trashme_32333_dsk_partitions.parts.33  tr
 ```
 
 
+---
+slurm tail 
+
+```
+minia                                   
+    -nb-cores                                : 28
+    -max-memory                              : 500000
+    -in                                      : /gscratch/scrubbed/sr320/AD002_S9_L001_R2_001.fastq.gz
+    -out-dir                                 : /gscratch/scrubbed/sr320/
+    -traversal                               : contig
+    -starter                                 : best
+    -contig-max-len                          : 10000000
+    -bfs-max-depth                           : 500
+    -bfs-max-breadth                         : 20
+    -fasta-line                              : 0
+    -kmer-size                               : 31
+    -abundance-min                           : 3
+    -abundance-max                           : 4294967295
+    -histo-max                               : 10000
+    -solidity-kind                           : sum
+    -max-disk                                : 0
+    -minimizer-type                          : 0
+    -minimizer-size                          : 8
+    -repartition-type                        : 0
+    -bloom                                   : neighbor
+    -debloom                                 : cascading
+    -debloom-impl                            : minimizer
+    -branching-nodes                         : stored
+    -topology-stats                          : 0
+    -mphf                                    : emphf
+    -verbose                                 : 1
+    -integer-precision                       : 0
+    -verbose                                 : 1
+    stats                                   
+        traversal                                : contig
+        start_selector                           : best
+        nb_contigs                               : 8044789
+        nb_small_contigs_discarded               : 9241683
+        nt_assembled                             : 1160242262
+        max_length                               : 5239
+        max_length_left                          : 4197
+        max_length_right                         : 4855
+        debugging traversal stats               
+        large breadth                            : 1344
+        large depth                              : 135
+        marked kmer inside traversal             : 5595051
+        traversal ends with dead-ends            : 2587076
+        in-branching large depth                 : 2178233
+        in-branching large breadth               : 2196283
+        in-branching other                       : 3276932
+        couldn't validate consensuses            : 154210
+    time                                     : 36742.777
+        assembly                                 : 36742.777
+ ```
+
 
