@@ -162,9 +162,77 @@ This files via web facing owl [here](http://owl.fish.washington.edu/halfshell/wo
 
 
 
-.
+### The other half are MP DNA libraries
+
+```
+./Geoduck1_9-43483188/Geoduck-NMP-gDNA-1_S1_L001_R2_001.fastq.gz
+./Geoduck1_9-43483188/Geoduck-NMP-gDNA-1_S1_L001_R1_001.fastq.gz
+./Geoduck2_10-43489748/Geoduck-NMP-gDNA-2to4kb-2_S6_L002_R1_001.fastq.gz
+./Geoduck2_10-43489748/Geoduck-NMP-gDNA-2to4kb-2_S6_L002_R2_001.fastq.gz
+./Geoduck1_10-43500557/Geoduck-NMP-gDNA-2to4kb-1_S2_L001_R2_001.fastq.gz
+./Geoduck1_10-43500557/Geoduck-NMP-gDNA-2to4kb-1_S2_L001_R1_001.fastq.gz
+./Geoduck2_9-43495606/Geoduck-NMP-gDNA-2_S5_L002_R2_001.fastq.gz
+./Geoduck2_9-43495606/Geoduck-NMP-gDNA-2_S5_L002_R1_001.fastq.gz
+./Geoduck3_10-43491664/Geoduck-NMP-gDNA-2to4kb-3_S10_L003_R2_001.fastq.gz
+./Geoduck3_10-43491664/Geoduck-NMP-gDNA-2to4kb-3_S10_L003_R1_001.fastq.gz
+./Geoduck7_10-43484224/Geoduck-NMP-gDNA-2to4kb-7_S26_L007_R1_001.fastq.gz
+./Geoduck7_10-43484224/Geoduck-NMP-gDNA-2to4kb-7_S26_L007_R2_001.fastq.gz
+./Geoduck5_10-43485247/Geoduck-NMP-gDNA-2to4kb-5_S18_L005_R1_001.fastq.gz
+./Geoduck5_10-43485247/Geoduck-NMP-gDNA-2to4kb-5_S18_L005_R2_001.fastq.gz
+./Geoduck6_10-43493587/Geoduck-NMP-gDNA-2to4kb-6_S22_L006_R1_001.fastq.gz
+./Geoduck6_10-43493587/Geoduck-NMP-gDNA-2to4kb-6_S22_L006_R2_001.fastq.gz
+./Geoduck4_11-43483194/Geoduck-NMP-gDNA-5to7kb-4_S15_L004_R1_001.fastq.gz
+./Geoduck4_11-43483194/Geoduck-NMP-gDNA-5to7kb-4_S15_L004_R2_001.fastq.gz
+./Geoduck1_11-43485248/Geoduck-NMP-gDNA-5to7kb-1_S3_L001_R1_001.fastq.gz
+./Geoduck1_11-43485248/Geoduck-NMP-gDNA-5to7kb-1_S3_L001_R2_001.fastq.gz
+./Geoduck2_11-43498595/Geoduck-NMP-gDNA-5to7kb-2_S7_L002_R1_001.fastq.gz
+./Geoduck2_11-43498595/Geoduck-NMP-gDNA-5to7kb-2_S7_L002_R2_001.fastq.gz
+./Geoduck3_11-43498596/Geoduck-NMP-gDNA-5to7kb-3_S11_L003_R1_001.fastq.gz
+./Geoduck3_11-43498596/Geoduck-NMP-gDNA-5to7kb-3_S11_L003_R2_001.fastq.gz
+./Geoduck4_10-43494609/Geoduck-NMP-gDNA-2to4kb-4_S14_L004_R2_001.fastq.gz
+./Geoduck4_10-43494609/Geoduck-NMP-gDNA-2to4kb-4_S14_L004_R1_001.fastq.gz
+./Geoduck3_9-43486166/Geoduck-NMP-gDNA-3_S9_L003_R1_001.fastq.gz
+./Geoduck3_9-43486166/Geoduck-NMP-gDNA-3_S9_L003_R2_001.fastq.gz
+./Geoduck8_10-43484225/Geoduck-NMP-gDNA-2to4kb-8_S30_L008_R1_001.fastq.gz
+./Geoduck8_10-43484225/Geoduck-NMP-gDNA-2to4kb-8_S30_L008_R2_001.fastq.gz
+./Geoduck4_9-43498594/Geoduck-NMP-gDNA-4_S13_L004_R1_001.fastq.gz
+./Geoduck4_9-43498594/Geoduck-NMP-gDNA-4_S13_L004_R2_001.fastq.gz
+./Geoduck5_9-43495612/Geoduck-NMP-gDNA-5_S17_L005_R1_001.fastq.gz
+./Geoduck5_9-43495612/Geoduck-NMP-gDNA-5_S17_L005_R2_001.fastq.gz
+./Geoduck5_11-43498597/Geoduck-NMP-gDNA-5to7kb-5_S19_L005_R2_001.fastq.gz
+./Geoduck5_11-43498597/Geoduck-NMP-gDNA-5to7kb-5_S19_L005_R1_001.fastq.gz
+./Geoduck7_11-43493588/Geoduck-NMP-gDNA-5to7kb-7_S27_L007_R1_001.fastq.gz
+./Geoduck7_11-43493588/Geoduck-NMP-gDNA-5to7kb-7_S27_L007_R2_001.fastq.gz
+./Geoduck8_11-43497614/Geoduck-NMP-gDNA-5to7kb-8_S31_L008_R1_001.fastq.gz
+./Geoduck8_11-43497614/Geoduck-NMP-gDNA-5to7kb-8_S31_L008_R2_001.fastq.gz
+./Geoduck3_12-43493589/Geoduck-NMP-gDNA-8to10kb-3_S12_L003_R1_001.fastq.gz
+./Geoduck3_12-43493589/Geoduck-NMP-gDNA-8to10kb-3_S12_L003_R2_001.fastq.gz
+./Geoduck5_12-43484226/Geoduck-NMP-gDNA-8to10kb-5_S20_L005_R1_001.fastq.gz
+./Geoduck5_12-43484226/Geoduck-NMP-gDNA-8to10kb-5_S20_L005_R2_001.fastq.gz
+./Geoduck1_12-43494613/Geoduck-NMP-gDNA-8to10kb-1_S4_L001_R1_001.fastq.gz
+./Geoduck1_12-43494613/Geoduck-NMP-gDNA-8to10kb-1_S4_L001_R2_001.fastq.gz
+./Geoduck2_12-43489752/Geoduck-NMP-gDNA-8to10kb-2_S8_L002_R1_001.fastq.gz
+./Geoduck2_12-43489752/Geoduck-NMP-gDNA-8to10kb-2_S8_L002_R2_001.fastq.gz
+./Geoduck6_11-43496601/Geoduck-NMP-gDNA-5to7kb-6_S23_L006_R2_001.fastq.gz
+./Geoduck6_11-43496601/Geoduck-NMP-gDNA-5to7kb-6_S23_L006_R1_001.fastq.gz
+./Geoduck6_9-43498598/Geoduck-NMP-gDNA-6_S21_L006_R1_001.fastq.gz
+./Geoduck6_9-43498598/Geoduck-NMP-gDNA-6_S21_L006_R2_001.fastq.gz
+./Geoduck7_9-43501547/Geoduck-NMP-gDNA-7_S25_L007_R1_001.fastq.gz
+./Geoduck7_9-43501547/Geoduck-NMP-gDNA-7_S25_L007_R2_001.fastq.gz
+./Geoduck6_12-43494614/Geoduck-NMP-gDNA-8to10kb-6_S24_L006_R1_001.fastq.gz
+./Geoduck6_12-43494614/Geoduck-NMP-gDNA-8to10kb-6_S24_L006_R2_001.fastq.gz
+./Geoduck4_12-43497615/Geoduck-NMP-gDNA-8to10kb-4_S16_L004_R1_001.fastq.gz
+./Geoduck4_12-43497615/Geoduck-NMP-gDNA-8to10kb-4_S16_L004_R2_001.fastq.gz
+./Geoduck8_9-43483196/Geoduck-NMP-gDNA-8_S29_L008_R1_001.fastq.gz
+./Geoduck8_9-43483196/Geoduck-NMP-gDNA-8_S29_L008_R2_001.fastq.gz
+./Geoduck7_12-43495615/Geoduck-NMP-gDNA-8to10kb-7_S28_L007_R2_001.fastq.gz
+./Geoduck7_12-43495615/Geoduck-NMP-gDNA-8to10kb-7_S28_L007_R1_001.fastq.gz
+./Geoduck8_12-43486170/Geoduck-NMP-gDNA-8to10kb-8_S32_L008_R2_001.fastq.gz
+./Geoduck8_12-43486170/Geoduck-NMP-gDNA-8to10kb-8_S32_L008_R1_001.fastq.gz
+```
 
 
+and available online [here](http://owl.fish.washington.edu/halfshell/working-directory/17-09-06/)
 
 
 
