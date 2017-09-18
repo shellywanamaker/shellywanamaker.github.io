@@ -18,7 +18,9 @@ Library	ReadsNR005-JuvOA	78,147.00NR006-Gonad	6,473,873.00NR012-Ctenidia	669,
 ---
 # NovaSeq DNA MP
 
-Four MP libraries
+Four MP libraries     
+
+
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_Novaseq_Files_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1F6C4E8E.png" alt="Geoduck_Novaseq_Files_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1F6C4E8E.png"/>
 
 
@@ -30,9 +32,11 @@ Four MP libraries
 
 
 ---
-#HiSeq RNA
+# HiSeq RNA
 
-8 PE 300bp insert libraries - spread over 8 lanes each
+8 PE 300bp insert libraries - spread over 8 lanes each      
+(_but in fact only appear to be in one lane based on # reads - see MultiQC_)
+
 
 ```
 Geoduck-ctenidia-RNA
