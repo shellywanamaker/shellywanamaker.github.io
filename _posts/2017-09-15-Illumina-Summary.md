@@ -37,7 +37,7 @@ Four MP libraries
 8 PE 300bp insert libraries - spread over 8 lanes each      
 (_Turns out, only appear to be in one lane based on # reads - see MultiQC_)
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75780E.png" alt="MultiQC_Report_1F75780E.png"width="75%"/>
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75780E.png" alt="MultiQC_Report_1F75780E.png" width="75%"/>
 
 ```
 Geoduck-ctenidia-RNA
