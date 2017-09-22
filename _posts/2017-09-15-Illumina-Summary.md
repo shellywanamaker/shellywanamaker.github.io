@@ -62,9 +62,10 @@ Geoduck-larvae-day5-RNA-EPI-99
 
 Each of these 4 libraries were run on two lanes of Hi-Seq.
 
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75AB4F.png" alt="MultiQC_Report_1F75AB4F.png"width="75%"/>
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75AB4F.png" alt="MultiQC_Report_1F75AB4F.png" width="75%"/>
 
 
 #### FastQC report 
 
-<a href="http://owl.fish.washington.edu/halfshell/working-directory/17-09-22/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75ABF9.png" alt="MultiQC_Report_1F75ABF9.png"width="75%"/>
+<a href="http://owl.fish.washington.edu/halfshell/working-directory/17-09-22/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75ABF9.png" alt="MultiQC_Report_1F75ABF9.png" width="75%"/>
+
