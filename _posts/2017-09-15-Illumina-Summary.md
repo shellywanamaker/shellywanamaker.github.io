@@ -10,7 +10,7 @@ Library	ReadsNR005-JuvOA	78,147.00NR006-Gonad	6,473,873.00NR012-Ctenidia	669,
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Screenshot_9_15_17__11_03_AM_1F6C4D6E.png" alt="Screenshot_9_15_17__11_03_AM_1F6C4D6E.png"/>
 
-#### FastQC report 
+#### [FastQC report](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15/multiqc_report.html) 
 
 <a href="http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F6C79B3.png" alt="MultiQC_Report_1F6C79B3.png" width="75%"/></a>
 
@@ -24,7 +24,7 @@ Four MP libraries
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_Novaseq_Files_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1F6C4E8E.png" alt="Geoduck_Novaseq_Files_–_quarter-shell_–_Staging_for_my_Lab_Notebook_1F6C4E8E.png"/>
 
 
-#### FastQC report 
+#### [FastQC report](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15b/multiqc_report.html) 
 
 <a href="http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15b/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F706F9A.png" alt="MultiQC_Report_" width="75%"/></a>
 
@@ -50,7 +50,7 @@ Geoduck-juvenile-OA-exposure-RNA-EPI-116
 Geoduck-larvae-day5-RNA-EPI-99
 ```
 
-#### FastQC report 
+#### [FastQC report](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15/RNAQC/multiqc_report.html) 
 
 <a href="http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-09-15/RNAQC/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F70701A.png" alt="MultiQC_Report_" width="75%"/></a>
 
@@ -65,7 +65,7 @@ Each of these 4 libraries were run on two lanes of Hi-Seq.
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75AB4F.png" alt="MultiQC_Report_1F75AB4F.png" width="75%"/>
 
 
-#### FastQC report 
+#### [FastQC report](http://owl.fish.washington.edu/halfshell/working-directory/17-09-22/multiqc_report.html) 
 
 <a href="http://owl.fish.washington.edu/halfshell/working-directory/17-09-22/multiqc_report.html"><img src="http://eagle.fish.washington.edu/cnidarian/skitch/MultiQC_Report_1F75ABF9.png" alt="MultiQC_Report_1F75ABF9.png" width="75%"/>
 
