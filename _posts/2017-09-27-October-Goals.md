@@ -15,6 +15,7 @@ This is vast. Lots to do.
 - [ ] Learn how to tag notebook posts
 - [ ] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
 - [ ] Submit geoduck project presentation for GSS
+- [ ] Throw away some geoduck vials (E, F, autosampler vials) & organize others (original samples, quantified proteins, digested peptides)
 
 ### Large To-Do:
 
@@ -23,11 +24,9 @@ This is vast. Lots to do.
  - [ ] Quickly summarize everything done to raw data for analysis so I don't forget
      - [ ] DIA
      - [ ] SRM
- - [ ] Figure out which vials to throw away from SRM run:
-     * “D"
-     * “E"
-     * Autosampler vials (highly unlikely we’ll need these again)
-     * KEEP: completely digested peptides (“F”), other 1/2 of sample not digested, is there another vial of quantifed but un-digested proteins? 
+ - [X] Figure out which vials to throw away from SRM run:
+     * Throw away: “D", “E", Autosampler vials (highly unlikely we'll use these again, since they sat around and not enough volume to re-run, and PRTC was messed up 
+     * KEEP: 1) other 1/2 of sample not digested, 2) protein in solution from quantification step, 3) completely digested peptides (“F”)
   * More analysis for SRM:
      - [ ] Figure out how to calculate distances between tech reps, to numerically validate my removal of poor-quality reps
      - [ ] Generate Linear Response Plot, as per Emma:  Peak area on the y, amount of peptide (moles) on the x. Don't know absolute quantity of experimental peptides, could make the x-axis relative quantity or something. Can generate plots like these in MSstats.
