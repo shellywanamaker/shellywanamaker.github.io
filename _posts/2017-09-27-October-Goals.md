@@ -7,10 +7,10 @@ This is vast. Lots to do.
 
 ### Small To Do:
 
-- [ ] Email Abigail re: GROW program
-- [ ] Submit back-log of reimbursements for Manchester & shellfish club
+- [X] Email Abigail re: GROW program
+- [X] Submit back-log of reimbursements for Manchester & shellfish club
 - [ ] Email re: Oly session @ NSA 2018 - deadline FRIDAY
-- [ ] Register for Parasites once add code comes through
+- [X] Register for Parasites once add code comes through
 - [ ] Book return ferries @ 7am on Friday! 
 - [ ] Learn how to tag notebook posts
 - [ ] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
@@ -86,3 +86,8 @@ This is vast. Lots to do.
          * Chapter X - Could I do a geoduck genetics wild vs. hatchery? (or, what is “baseline”?)
      * Grants & Fellowships
      * Extra curriculars
+
+#### Scientific Diving  
+ - [ ] Find local vendor that sells dry suits, try on to determine size
+ - [ ] Purchase gear 
+ - [ ] Start weekly dives with Will beginning early-mid October
