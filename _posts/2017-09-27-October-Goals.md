@@ -14,6 +14,7 @@ This is vast. Lots to do.
 - [ ] Book return ferries @ 7am on Friday! 
 - [ ] Learn how to tag notebook posts
 - [ ] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
+- [ ] Submit geoduck project presentation for GSS
 
 ### Large To-Do:
 
