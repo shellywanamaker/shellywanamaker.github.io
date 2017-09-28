@@ -44,8 +44,8 @@ This is vast. Lots to do.
  - [ ] Where to record? 
 
 #### Oly genetics hatchery vs. wild
-    - [ ] Meet with Brent re: Oly genetics paper, see if he has scripts for calling loci
-    - [ ] Gather existing write-up for 1st genetic testing
+ - [ ] Meet with Brent re: Oly genetics paper, see if he has scripts for calling loci
+ - [ ] Gather existing write-up for 1st genetic testing
 
 #### Application things
 - [ ] Start drafting GROW application
