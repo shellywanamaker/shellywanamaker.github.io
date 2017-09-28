@@ -8,6 +8,7 @@ This is vast. Lots to do.
 #### Small To Do:
 
 * Email Abigail re: GROW program
+* Submit back-log of reimbursements for Manchester & shellfish club
 * Email re: Oly session @ NSA 2018 - deadline FRIDAY
 * Register for Parasites once add code comes through
 * Book return ferries @ 7am on Friday! 
