@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Initial results from geoduck SRM data
 ---
 
 Check out my recent Jupyter Notebook entry where I perform a full [SRM Analysis](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Documentation/SRM%20Data%20Analysis%2C%20final.ipynb). 
