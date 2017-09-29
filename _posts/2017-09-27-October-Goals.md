@@ -20,10 +20,10 @@ This is vast. Lots to do.
 ### Large To-Do:
 
 #### Geoduck proteomics
- - [ ] Clean up scripts from SRM analysis
+ - [X] Clean up scripts from SRM analysis
  - [ ] Quickly summarize everything done to raw data for analysis so I don't forget
      - [ ] DIA
-     - [ ] SRM
+     - [X] SRM - done via Jupyter Notebook 
  - [X] Figure out which vials to throw away from SRM run:
      * Throw away: “D", “E", Autosampler vials (highly unlikely we'll use these again, since they sat around and not enough volume to re-run, and PRTC was messed up 
      * KEEP: 1) other 1/2 of sample not digested, 2) protein in solution from quantification step, 3) completely digested peptides (“F”)
@@ -33,8 +33,8 @@ This is vast. Lots to do.
      * Determine if abundance difference is “biologically relevant,” aka look to lit for abundance values to see what is low, normal, high (if possible!)
      - [ ] See if I can bring DIA results into SRM analysis (at very least, compare 3 proteins in DIA data)
      - [ ] Consider implications: HSP70 is not highly specific, since some interference w/ gigas in dilution curve
- * Start drafting geoduck proteomics 
-     - [ ] utline everything
+ * Start drafting geoduck proteomics paper
+     - [ ] Outline everything
      - [ ] Methods detailed
      - [ ] Full lit review
      
