@@ -37,7 +37,14 @@ This is vast. Lots to do.
      - [ ] Outline everything
      - [ ] Methods detailed
      - [ ] Full lit review
-     
+ * Document steps from Vantage -> Replicate Review. Write notebooks for: 
+     - [ ] How to create Skyline project file with .raw SRM data including PRTC
+     - [X] Calculating predicted RT 
+     - [ ] Pick peaks & adjust retention time ranges using predicted RT
+     - [ ] Remove peaks, replicates, and transitions/peptides that are poor quality, as determined via:  RT, dilution curve
+     - [ ] Export abundance data as report & re-format slightly
+     - [X] Data analysis in R
+  
 #### Record podcast pilot with Megan 
  - [ ] Read Megan’s paper
  - [ ] Rent mic from UW tech resources for this 
