@@ -54,6 +54,7 @@ This is vast. Lots to do.
  - [ ] NSA travel grant, other?
  - [ ] Dive grant: http://www.wdhof.org/wdhof-scholarshipDesc.aspx
  - [ ] UW FINS for Vegas ?
+ - [ ]  [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
  
 #### Oly experiment:
  - [ ] Transition Oly's to ambient T
