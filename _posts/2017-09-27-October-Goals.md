@@ -9,9 +9,9 @@ This is vast. Lots to do.
 
 - [X] Email Abigail re: GROW program
 - [X] Submit back-log of reimbursements for Manchester & shellfish club
-- [ ] Email re: Oly session @ NSA 2018 - deadline FRIDAY
+- [X] Email re: Oly session @ NSA 2018 - deadline FRIDAY
 - [X] Register for Parasites once add code comes through
-- [ ] Book return ferries @ 7am on Friday! 
+- [X] Book return ferries @ 7am on Friday! 
 - [ ] Learn how to tag notebook posts
 - [ ] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
 - [ ] Submit geoduck project presentation for GSS
