@@ -38,11 +38,11 @@ This is vast. Lots to do.
      - [ ] Methods detailed
      - [ ] Full lit review
  * Document steps from Vantage -> Replicate Review. Write notebooks for: 
-     - [ ] How to create Skyline project file with .raw SRM data including PRTC
+     - [X] How to create Skyline project file with .raw SRM data including PRTC
      - [X] Calculating predicted RT 
-     - [ ] Pick peaks & adjust retention time ranges using predicted RT
-     - [ ] Remove peaks, replicates, and transitions/peptides that are poor quality, as determined via:  RT, dilution curve
-     - [ ] Export abundance data as report & re-format slightly
+     - [X] Pick peaks & adjust retention time ranges using predicted RT
+     - [X] Remove peaks, replicates, and transitions/peptides that are poor quality, as determined via:  RT, dilution curve
+     - [X] Export abundance data as report & re-format slightly
      - [X] Data analysis in R
   
 #### Record podcast pilot with Megan 
@@ -55,8 +55,8 @@ This is vast. Lots to do.
  - [ ] Gather existing write-up for 1st genetic testing
 
 #### Application things
-- [ ] Start drafting GROW application
-   - [ ] Get project description from Abigail
+ - [ ] Start drafting GROW application
+ - [ ] Get project description from Abigail
  - [ ] NDSEG
  - [ ] NSA travel grant, other?
  - [ ] Dive grant: http://www.wdhof.org/wdhof-scholarshipDesc.aspx
