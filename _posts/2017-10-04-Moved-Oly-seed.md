@@ -5,7 +5,7 @@ title: Moved Olympia oyster seed to Manchester dock
 
 My post-set Oly's have been housed in upwelling silos in a tank at Manchester, fed algae produced by PSRF, since July. It's time to get them out of there, since PSRF is really only producing algae for me, and they have potential plans to turn the water off for re-plumbing projects, etc. My task for today is to move the oysters to cages hanging off the dock. 
 
-### Step 1) Acclimating Olys to ambient water temperature
+### Step 1) Acclimate Olys to ambient water temperature
 Since settlement the Oly tank has had the heated water line, which is ~14degC, and warms up to ~16 in the tank.  The ambient line is ~13degC, so the temperature off the dock will be around 13degC (~55degF).  Last Thursday, to acclimate the Olys to the slightly cooler water temperature, I cracked the ambient line open a bit, and turned the heated line down.  On Monday Stuart increased the ambient line flow and turned the heated line off. 
 
 ### Step 2) Build envelopes to house separate Oly groups
