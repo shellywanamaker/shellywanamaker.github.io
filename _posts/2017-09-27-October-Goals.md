@@ -64,8 +64,9 @@ This is vast. Lots to do.
  - [ ]  [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
  
 #### Oly experiment:
- - [ ] Transition Oly's to ambient T
- - [ ] Make screen envelopes and move olys to dock, affix to cage (move on Thursday 10/5). 
+ - [X] Transition Oly's to ambient T
+ - [X] Make screen envelopes and move olys to dock, affix to cage (move on Thursday 10/5). 
+ - [ ] Set up Titrator!
  - [ ] Make sure I'm organized
  - [ ] Write-up 1-stop shopping list of Oly project including:
      - [ ] Experiment summary
