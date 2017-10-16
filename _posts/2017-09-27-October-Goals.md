@@ -28,7 +28,7 @@ This is vast. Lots to do.
      * Throw away: “D", “E", Autosampler vials (highly unlikely we'll use these again, since they sat around and not enough volume to re-run, and PRTC was messed up 
      * KEEP: 1) other 1/2 of sample not digested, 2) protein in solution from quantification step, 3) completely digested peptides (“F”)
   * More analysis for SRM:
-     - [ ] Figure out how to calculate distances between tech reps, to numerically validate my removal of poor-quality reps
+     - [X] Figure out how to calculate distances between tech reps, to numerically validate my removal of poor-quality reps
      - [ ] Generate Linear Response Plot, as per Emma:  Peak area on the y, amount of peptide (moles) on the x. Don't know absolute quantity of experimental peptides, could make the x-axis relative quantity or something. Can generate plots like these in MSstats.
      * Determine if abundance difference is “biologically relevant,” aka look to lit for abundance values to see what is low, normal, high (if possible!)
      - [ ] See if I can bring DIA results into SRM analysis (at very least, compare 3 proteins in DIA data)
