@@ -68,7 +68,6 @@ This is vast. Lots to do.
 #### Oly experiment:
  - [X] Transition Oly's to ambient T
  - [X] Make screen envelopes and move olys to dock, affix to cage (move on Thursday 10/5). 
- - [ ] Set up Titrator!
  - [ ] Make sure I'm organized
  - [ ] Write-up 1-stop shopping list of Oly project including:
      - [ ] Experiment summary
