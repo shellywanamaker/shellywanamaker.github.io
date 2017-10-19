@@ -13,8 +13,8 @@ This is vast. Lots to do.
 - [X] Register for Parasites once add code comes through
 - [X] Book return ferries @ 7am on Friday! 
 - [ ] Learn how to tag notebook posts
-- [ ] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
-- [ ] Submit geoduck project presentation for GSS
+- [X] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
+- [X] Submit geoduck project presentation for GSS
 - [ ] Throw away some geoduck vials (E, F, autosampler vials) & organize others (original samples, quantified proteins, digested peptides)
 
 ### Large To-Do:
@@ -35,7 +35,8 @@ This is vast. Lots to do.
      - [ ] Consider implications: HSP70 is not highly specific, since some interference w/ gigas in dilution curve
  * Start drafting geoduck proteomics paper
      - [ ] Outline everything
-     - [ ] Methods detailed
+     - [X] SRM Methods detailed
+     - [ ] DIA Methods detailed
      - [ ] Full lit review
  * Document steps from Vantage -> Replicate Review. Write notebooks for: 
      - [X] How to create Skyline project file with .raw SRM data including PRTC
@@ -78,7 +79,7 @@ This is vast. Lots to do.
  - [ ] Meet with STATS resource to figure out how to analyze Oly larval survival - parse out survival data to 224um, to juvenile, by time for reps
  
 #### For Committee: 
- - [ ] Schedule 1st meeting - mid October
+ - [X] Schedule 1st meeting - mid October
  - [ ] Complete committee sheet for SAFS
  - [ ] Complete academic timeline 
  - [ ] Presentation for committee meeting: 20-30 mins, to include:
