@@ -34,7 +34,9 @@ UW Scientific Diver in-training
 ### Products  
 [Earth Echo International: STEM Career Close-Up](https://youtu.be/PkqqbPhRMAE), March 2016  
 [Earth Echo International: Shell Shocked](https://youtu.be/KG_VOHIbCww), March 2016  
-_Geoduck as indicators of environmental change_ poster, NSA Annual Meeting in Knoxville, March 2017  
+_Geoduck as indicators of environmental change_ 
+  * [Poster](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/4892126), NSA Annual Meeting in Knoxville, March 2017
+  * [Presentation](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302), PCSGA Conference in Welches OR, September 2017
 
 ### Contact me  
 [lhs3@uw.edu](mailto:lhs3@uw.edu)
