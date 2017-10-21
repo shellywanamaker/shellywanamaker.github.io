@@ -9,8 +9,8 @@ As mentioned earlier today, Pecan has been running for ~2 weeks on Emu, and it l
 
   * My new [Geoduck Proteomics repo](https://github.com/laurahspencer/DNR_Geoduck)  
   * Jupyter Notebooks:  
-    * [_In silico_ digest](https://github.com/laurahspencer/DNR_Geoduck/blob/master/Documentation/Using%20Protein%20Digestion%20Simulator%20on%20Emu.ipynb) of a background proteome using ProteinDigestionSimulator  
-    * [General file prep for Pecan](https://github.com/laurahspencer/DNR_Geoduck/blob/master/Documentation/Preparing-files-for-Pecan.ipynb)  
-    * [Executing Pecan](https://github.com/laurahspencer/DNR_Geoduck/blob/master/Documentation/Running%20Pecan.ipynb)
+    * [_In silico_ digest](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Documentation/Using%20Protein%20Digestion%20Simulator%20on%20Emu.ipynb) of a background proteome using ProteinDigestionSimulator  
+    * [General file prep for Pecan](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Documentation/Preparing-files-for-Pecan.ipynb)  
+    * [Executing Pecan](https://github.com/laurahspencer/Geoduck-DNR/blob/master/Documentation/Running%20Pecan.ipynb)
     
   
