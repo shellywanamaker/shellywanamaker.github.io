@@ -81,7 +81,7 @@ This is vast. Lots to do.
  - [X] Schedule 1st meeting - mid October
  - [ ] Complete committee sheet for SAFS
  - [ ] Complete academic timeline 
- - [ ] Presentation for committee meeting: 20-30 mins, to include:
+ - [X] Presentation for committee meeting: 20-30 mins, to include:
      * Overall goals of PhD
          * Research interests
          * Motivation
