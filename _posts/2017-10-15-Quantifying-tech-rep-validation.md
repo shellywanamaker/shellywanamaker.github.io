@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SRM data - quantfying tech. rep. quality 
+title: SRM data - quantifying tech. rep. quality 
 ---
 
 Today I figured out how to calculate distances between tech reps on the NMDS plot to numerically validate my removal of poor-quality reps.  I ended up removing a few more reps (as compared to visually inspecting reps), but as a whole not much has changed. I also generated a couple plots using Plotly, which is fantastic. Plotly creates interactive plots so you can hover over points, zoom into a plot, etc. 
