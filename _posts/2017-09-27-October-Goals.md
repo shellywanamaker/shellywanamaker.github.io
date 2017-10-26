@@ -21,9 +21,6 @@ This is vast. Lots to do.
 
 #### Geoduck proteomics
  - [X] Clean up scripts from SRM analysis
- - [ ] Quickly summarize everything done to raw data for analysis so I don't forget
-     - [ ] DIA
-     - [X] SRM - done via Jupyter Notebook 
  - [X] Figure out which vials to throw away from SRM run:
      * Throw away: “D", “E", Autosampler vials (highly unlikely we'll use these again, since they sat around and not enough volume to re-run, and PRTC was messed up 
      * KEEP: 1) other 1/2 of sample not digested, 2) protein in solution from quantification step, 3) completely digested peptides (“F”)
@@ -45,6 +42,13 @@ This is vast. Lots to do.
      - [X] Remove peaks, replicates, and transitions/peptides that are poor quality, as determined via:  RT, dilution curve
      - [X] Export abundance data as report & re-format slightly
      - [X] Data analysis in R
+  * Document steps from Lumos -> selecting proteins for SRM
+     - [X] Download & convert .raw files to .mzML
+     - [X] Prep files for PECAN, including using Protein Digestion Simulator
+     - [X] Run PECAN (at least include PECAN input files, commands, and lessons learned)
+     - [ ] Create Skyline Project & export report
+     - [ ] Calculate error rate
+     - [ ] Data analysis in R (not excel!)
   
 #### Record podcast pilot with Megan 
  - [ ] Read Megan’s paper
@@ -63,7 +67,7 @@ This is vast. Lots to do.
  - [ ] NSA travel grant, other?
  - [ ] Dive grant: http://www.wdhof.org/wdhof-scholarshipDesc.aspx
  - [ ] UW FINS for Vegas ?
- - [ ]  [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
+ - [ ] [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
  
 #### Oly experiment:
  - [X] Transition Oly's to ambient T
@@ -79,8 +83,8 @@ This is vast. Lots to do.
  
 #### For Committee: 
  - [X] Schedule 1st meeting - mid October
- - [ ] Complete committee sheet for SAFS
- - [ ] Complete academic timeline 
+ - [X] Complete committee sheet for SAFS
+ - [X] Complete academic timeline 
  - [X] Presentation for committee meeting: 20-30 mins, to include:
      * Overall goals of PhD
          * Research interests
@@ -102,4 +106,4 @@ This is vast. Lots to do.
 #### Scientific Diving  
  - [ ] Find local vendor that sells dry suits, try on to determine size
  - [ ] Purchase gear 
- - [ ] Start weekly dives with Will beginning early-mid October
+ - [X] Start weekly dives with Will beginning early-mid October - starting Nov. 8th
