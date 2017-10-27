@@ -74,10 +74,10 @@ This is vast. Lots to do.
  - [X] Make screen envelopes and move olys to dock, affix to cage (move on Thursday 10/5). 
  - [ ] Make sure I'm organized
  - [ ] Write-up 1-stop shopping list of Oly project including:
-     - [ ] Experiment summary
-     - [ ] Samples collected
+     - [X] Experiment summary
+     - [X] Samples collected
      - [ ] Data collected
-     - [ ] Treatments, populations, etc.
+     - [X] Treatments, populations, etc.
  - [ ] Figure out how/when to transport Oly samples from Manchester/Rick’s -80
  - [ ] Meet with STATS resource to figure out how to analyze Oly larval survival - parse out survival data to 224um, to juvenile, by time for reps
  
