@@ -1,4 +1,4 @@
-I drafted a narrative summary of the Olympia oyster experiment conducted over the past year to orient visitors to my GitHub repo's to the project. Take a look!
+I drafted a narrative summary of the Olympia oyster experiment conducted over the past year to orient visitors to my GitHub repo and to the project. Check it out. (by the way, it's much prettier to view in [GitHub](https://github.com/laurahspencer/O.lurida_Stress) than on my webpage)
 
 # Climate fitness and adaptation in _Ostrea lurida_ via transgenerational inheritance
 
