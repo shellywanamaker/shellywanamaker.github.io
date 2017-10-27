@@ -15,7 +15,7 @@ This is vast. Lots to do.
 - [ ] Learn how to tag notebook posts
 - [X] Take geoduck proteomics poster to WA Co-op once location confirmed (I think SAFS somewhere)
 - [X] Submit geoduck project presentation for GSS
-- [ ] Throw away some geoduck vials (E, F, autosampler vials) & organize others (original samples, quantified proteins, digested peptides)
+- [ ] Throw away some geoduck vials (D, E, autosampler vials) & organize others (original samples, quantified proteins, digested peptides)
 
 ### Large To-Do:
 
