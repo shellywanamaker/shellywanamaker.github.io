@@ -64,10 +64,10 @@ This is vast. Lots to do.
  - [ ] Start drafting GROW application
  - [ ] Get project description from Abigail
  - [ ] NDSEG
- - [ ] NSA travel grant, other?
+ - [ ] NSA travel grant, other? 
  - [ ] Dive grant: http://www.wdhof.org/wdhof-scholarshipDesc.aspx
- - [ ] UW FINS for Vegas ?
- - [ ] [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
+ - _differed_ UW FINS for Vegas - _Apply in January_
+ - [X] [Coenv travel fund, due Oct. 27](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/)
  
 #### Oly experiment:
  - [X] Transition Oly's to ambient T
