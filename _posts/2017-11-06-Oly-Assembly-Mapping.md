@@ -1,4 +1,3 @@
-#Oly Mapping Stats
 
 We have the following several Oly draft assemblies. 
 Available [here](http://owl.fish.washington.edu/halfshell/bu-alanine-wd/17-11-03/genomes/)
