@@ -24,15 +24,19 @@ I created a .csv data file [2017-Oly-Histo-Results.csv](https://github.com/laura
   * Fewer Stage 3 gonads after the Low pH treatment in the 6degC Group - they either resorbed or spawned)
 
 ![Gonad-Stage-Pie-Charts](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Gonad-Stage-Pie-Charts.png?raw=true!)
+
 ---
----
+
 ![Gonad-Stage-Pie-Charts-SN](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Gonad-Stage-Pie-Charts-SN.png?raw=true)
+
 ---
----
+
 ![Gonad-Stage-Pie-Charts-K](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Gonad-Stage-Pie-Charts-K.png?raw=true)
+
 ---
----
+
 ![Gonad-Stage-Pie-Charts-NF](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Gonad-Stage-Pie-Charts-NF.png?raw=true)
+
 ---
----
+
 ![Gonad-Stage-Pie-Charts-HL](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Gonad-Stage-Pie-Charts-HL.png?raw=true)
