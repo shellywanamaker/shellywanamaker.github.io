@@ -25,8 +25,7 @@ I also asked PSRF to put one of the 3 HOBO temp. loggers designated for Dyes Inl
 Here are some photos from the Monday cleaning party & from my worm collection. NOTE: Fidalgo Bay Olympias are beautiful and perfect animals for experiment. They are large and most of them are singles. 
 
 ![FB-broodstock-intake](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-intake.JPG?raw=true)
-![FB-broodstock])https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock.JPG?raw=true)
-
+![FB-broodstock](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock.JPG?raw=true)
 ![FB-worms-emerging-olys](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-worms-emerging-olys.JPG?raw=true)
 ![FB-broodstock-etching1](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etching1.JPG?raw=true)
 ![FB-broodstock-etching2](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etchin2.JPG?raw=true)
