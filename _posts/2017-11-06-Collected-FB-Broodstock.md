@@ -28,6 +28,6 @@ Here are some photos from the Monday cleaning party & from my worm collection. N
 ![FB-broodstock](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock.JPG?raw=true)
 ![FB-worms-emerging-olys](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-worms-emerging-olys.JPG?raw=true)
 ![FB-broodstock-etching1](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etching1.JPG?raw=true)
-![FB-broodstock-etching2](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etchin2.JPG?raw=true)
+![FB-broodstock-etching2](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etching2.JPG?raw=true)
 ![FB-broodstock-etching3](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etching3.JPG?raw=true)
 ![FB-broodstock-etching4](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/images/2017-11-06_FB-broodstock-etching4.JPG?raw=true)
