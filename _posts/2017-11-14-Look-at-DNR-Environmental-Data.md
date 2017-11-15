@@ -6,7 +6,7 @@ title: Initial look at Environmental Data
 ## Received environmental data from the 2016 DNR outplant today. Plotted and ran some stats in thie [R Script](https://raw.githubusercontent.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/master/analyses/Environmental/Env-Data-Plots.R)
 
 ### I checked out mean, standard deviation and variance for each measurement across treatments: 
-| WBE     | WBB     | SKE     | SKB     | PGE     | PGB     | CIE     | CIB     | FBE     | FBB     |         | 
+| Stat    | WBE     | WBB     | SKE     | SKB     | PGE     | PGB     | CIE     | CIB     | FBE     | FBB     | 
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------| 
 | pH-Mean | 7.8091  | 7.6086  | 7.5225  | 7.3927  | NA      | 7.4155  | 7.9116  | 7.7109  | 7.9003  | 7.4598  | 
 | pH-SD   | 0.0946  | 0.1871  | 0.2824  | 0.2533  | NA      | 0.2432  | 0.1793  | 0.2663  | 0.1947  | 0.2328  | 
