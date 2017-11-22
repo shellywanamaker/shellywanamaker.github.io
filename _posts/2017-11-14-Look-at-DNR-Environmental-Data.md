@@ -24,23 +24,27 @@ title: Initial look at Environmental Data
 
 ### I plotted using Plotly. Note: I haven't figured out how to embed Plotly plots in my GitHub posts yet, so these are screen shots of the plots. To view, download the .html files and drag them into your brower. 
 
-### [pH Continuous Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-pH-series.html)
+You can now access the environmental plots via Owl:
+
+
+
+### [pH Time Series](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-pH-series.html)
 ![pH Continuous Plot Screen Shot](https://user-images.githubusercontent.com/17264765/32825989-a3bfec5c-c99b-11e7-8a1d-cf648d1cd4ac.png)
 
-### [pH Box Plot Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-pH-box.html)
+### [pH Box Plot](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-pH-box.html)
 ![pH Box Plot screenshot](https://user-images.githubusercontent.com/17264765/32826057-d3af59ca-c99b-11e7-8772-981f0605b3cb.png)
 
 
-### [DO Continuous Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-DO-series.html)
+### [DO Time Series](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-DO-series.html)
 ![DO Continuous screenshot](https://user-images.githubusercontent.com/17264765/32826291-b1f69be4-c99c-11e7-8584-03079d40feee.png)
 
-### [DO Box Plot Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-DO-box.html)
+### [DO Boxplot](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-DO-box.html)
 ![DO Box Plot screenshot](https://user-images.githubusercontent.com/17264765/32826111-ffe5088c-c99b-11e7-9001-a63a3bb7b14e.png)
 
-### [T Continuous Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-Temp-series.html)
+### [Temp Time Series](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-Temp-series.html)
 ![T Continuous Data screenshot](https://user-images.githubusercontent.com/17264765/32826139-1f2448fc-c99c-11e7-9d4a-862def7ae05b.png)
 
-### [T Box Plot Data](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/raw/master/analyses/Environmental/June2016-Outplant-Temp-box.html)
+### [Temp Boxplot](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-Temp-box.html)
 ![T Box Plot screen shot](https://user-images.githubusercontent.com/17264765/32826247-7faa8c0e-c99c-11e7-8b29-daf6d9f6e814.png)
 
 
