@@ -34,7 +34,7 @@ title: DO Data from WA Ecology & DO Outlier Scrub re-do
 
 I reviewed the outlier removal script that I had used previously, and it actually uses the same method. Regardless, I re-wrote my script with help from [Yaamini's script](https://github.com/RobertsLab/project-oyster-oa/blob/master/analyses/DNR_SRM_20170902/2017-11-15-Environmental-Data-and-Biomarker-Analyses/2017-12-13-Environmental-Data-Quality-Control/2017-12-13-Environmental-Data-Quality-Control.R), scrubbed for outliers, then plotted the results and compared my pre- and post- quartile ranges. It turns out that the reason I have higher DO values than Yaamini is that I am using data from all sites, including eelgrass patches, and Yaamini is only using bare sites.  The Fidalgo Bay-Eelgrass site had much larger variation, with values as high as ~40 mg/L. In speaking with Graham Young and Chris Monson, they have never seen values that exceed ~13mg/l. I'm just not sure I can trust the DO data from FB at this point, and will need to consult furthere with Micah to see if we can identify an explanation. For example, is it possible that the FB DO data is in a different unit? 
 
-### Pre-outlier scrub environmental data time series plotsL
+### Pre-outlier scrub environmental data time series plots:
   * [Dissolved Oxygen](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-DO-series.html)  
   * [pH](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-pH-series.html)  
   * [Salinity](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-Salinity-series.html)  
