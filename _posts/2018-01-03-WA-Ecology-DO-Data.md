@@ -47,4 +47,12 @@ I reviewed the outlier removal script that I had used previously, and it actuall
   * [Salinity](http://owl.fish.washington.edu/generosa/Generosa_DNR/June2016-Outplant-Salinity-series-noOutliers.html)  
   * _Temperature and tidal data not adjusted_  
 
+---
+
+### Update: Re-visited FB-eelgrass DO data, found probe malfunction
+I took another look at the FBE DO data, and realized that the probe had likely malfunctioned/was buried in sediment on 6/24/16 @ 08:40. I thus removed all data points after that date, then re-scrubbed outliers, generated summary stats and plotted.  This improves data from that site quite a bit. Here's a quick look at the raw DO data from FBE & FBB for comparison.  Click on the above "post-outlier scrub" time series plots for the up-to-date version of that data.  You'll see that there still are values as high as 27 mg/L. 
+
+![snip20180111_3](https://user-images.githubusercontent.com/17264765/34900741-5626a07c-f7b7-11e7-8c30-122d37258e21.png)
+![snip20180111_5](https://user-images.githubusercontent.com/17264765/34900745-5826818a-f7b7-11e7-8733-dc0f19026bd3.png)
+
 
