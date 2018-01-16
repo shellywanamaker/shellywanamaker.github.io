@@ -27,7 +27,11 @@ In one of our team meetings we made the determination to ignore salinity data fo
 
 The rest of this post refers to actions taken in the [Stats 4](https://raw.githubusercontent.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/master/analyses/SRM/Stats4.R) R script. 
 
-Discovered the excellent `ggscatter` function in the `ggpubr` library to generate correlation plots.  I generated correlation plots for the 3 differentially abundant proteins (HSP90, Puromycin-sensitive aminopeptidase, Trifunctional Enzyme), using Pep1 for each. Reminder: Pep1 is the peptide in that protein with the highest overall abundance across all samples.  
+Discovered the excellent `ggscatter` function in the `ggpubr` library to generate correlation plots.  I generated correlation plots for the 3 differentially abundant proteins (HSP90, Puromycin-sensitive aminopeptidase, Trifunctional Enzyme). At first I was going to just use Pep1 (the most abundant peptide from each protein) to generate these plots. Instead, I z-transformed all peptide abundance data so they were all on the same scale, and thus could regress all peptides from each protein against environmental paramters.  
+It's a good idea to quickly summarize how I've manipulated peptide abundance data in this project: 
+  1. lambda-transformed abundance by each protein to create normal distributions, then compared across habitats, sites, and regions using ANOVA
+  2. z-transformed by each peptide ((X-mean)/SD), then ran correlation analysis against each environmental parameter 
+
   * [Heat Shock Protein 90 correlation plots](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/blob/master/analyses/SRM/HSP90-corr-plots.pdf)  
   * [Puromycin-sensitive aminopeptidase](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/blob/master/analyses/SRM/Puromycin-corr-plots.pdf)  
   * [Trifuctional-enzyme](https://github.com/RobertsLab/Paper-DNR-Geoduck-Proteomics/blob/master/analyses/SRM/Trifunctional-corr-plots.pdf) 
