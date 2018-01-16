@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! Welcome to my online Lab Notebook as I navigate the waters of Graduate School. I am a Masters of Science candidate in the School of Aquatic and Fishery Sciences at the University of Washington, Seattle. 
 
-### More Information
+### Research
+I am investigating the effects of temperature and disease (Bitter Crab disease caused by parasitic dinoflagellate _Hematodinium spp._) on the genetic expression of Alaskan Tanner Crabs (_Chionoecetes bairdi_). 
 
-A place to include any other types of information that you'd like to include about yourself.
+### Curriculum vitae
+
 
 ### Contact me
 
