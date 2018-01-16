@@ -1,5 +1,8 @@
-readme
+# Grace Crandall's Lab Notebook
 
-My lab notebook.
+Daily updates on what I'm up to in the Roberts' Lab!
+
+----------------------
 
 Based on (forked from) https://github.com/barryclark/jekyll-now
+
