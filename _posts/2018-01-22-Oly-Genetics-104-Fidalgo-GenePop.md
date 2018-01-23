@@ -16,11 +16,11 @@ Prior to importing the data, prepared the 2016/2017 NF data in Excel and exporte
         library(genepop)
 
 ### Pull basic information on allele and genotype frequencies per locus and per sample 
+        
         basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Basic-Info.txt", verbose=T)
         
-#### Resulting file: ["NF-Basic-Info.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Basic-Info.txt)
-#### Hetero- and homozygosity info pasted here: 
-
+Resulting file: ["NF-Basic-Info.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Basic-Info.txt)
+Hetero- and homozygosity info pasted here: 
 
 ### NF Wild   
 
@@ -46,9 +46,8 @@ Prior to importing the data, prepared the 2016/2017 NF data in Excel and exporte
 
         test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputFile = "Analyses/NF-HWE.txt", enumeration = FALSE, dememorization = 10000, batches = 500, iterations = 2000, verbose = interactive())
 
-
-#### Resulting file: ["NF-HWE.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-HWE.txt)
-#### All P-values across loci in each population are >>0.05, do not reject the null hypothesis that all loci are in HWE. 
+Resulting file: ["NF-HWE.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-HWE.txt)
+All P-values across loci in each population are >>0.05, do not reject the null hypothesis that all loci are in HWE. 
         
     Pop : NFW-2017
     -----------------------------------------
@@ -94,10 +93,11 @@ Prior to importing the data, prepared the 2016/2017 NF data in Excel and exporte
      Prob :    0.3853
 
 ### Assess whether any loci are linked 
-        test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-LD.txt", dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
+       
+       test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-LD.txt", dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
 
-#### Resulting file: ["NF-LD.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-LD.txt)
-#### Interesting, results from this Linkage Disequilibrium test indicate that there are, in fact, linked loci:
+Resulting file: ["NF-LD.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-LD.txt)
+Interesting, results from this Linkage Disequilibrium test indicate that there are, in fact, linked loci:
 
     Pop             Locus#1  Locus#2    P-Value      S.E.     Switches
     ----------      -------  -------    --------     -------- --------
@@ -155,10 +155,11 @@ Prior to importing the data, prepared the 2016/2017 NF data in Excel and exporte
 
 
 ### Assess for null alleles 
+        
         nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-null.txt", nullAlleleMethod = "B96", CIcoverage = 0.95, verbose = TRUE)
 
-#### Resulting file: ["NF-null.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-null.txt)
-#### Null allele frequences low; will compare with results from MicroChecker to confirm. 
+Resulting file: ["NF-null.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-null.txt)
+Null allele frequences low; will compare with results from MicroChecker to confirm. 
     
     (Locus by population) table of estimated null allele frequencies
     ================================================================
@@ -199,8 +200,8 @@ Assesses the distribution of diploid genotypes in the various populations. The n
 
         test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Diff.txt", genic=FALSE, pairs=TRUE, dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
 
-#### Resulting file: ["NF-Diff.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Diff.txt)
-#### Results indicate that genotypes are drawn from the same distribution, as P>>.01 for all loci. 
+Resulting file: ["NF-Diff.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Diff.txt)
+Results indicate that genotypes are drawn from the same distribution, as P>>.01 for all loci. 
 
     Locus        Population pair        P-Value  S.E.     Switches
     -----------  ---------------------  -------  -------  --------
@@ -219,11 +220,13 @@ Assesses the distribution of diploid genotypes in the various populations. The n
     --------------------          --------  ---  --------
     NFW-2017      & NFH-2016      18.39076  12   0.104331
 
-#### Calculate Fst for each population, which is a measure of genetic structure (developed by Sewall Wright, 1969, 1978), and is related to statistical analysis of variance  (ANOVA). FST is the proportion of the total genetic variance contained in a subpopulation (the S subscript) relative to the total genetic variance (the T subscript). Values can range from 0 to 1. High FST implies a considerable degree of differentiation among populations. 
+### Calculate Fst for each population
+Fst is a measure of genetic structure (developed by Sewall Wright, 1969, 1978), and is related to statistical analysis of variance  (ANOVA). FST is the proportion of the total genetic variance contained in a subpopulation (the S subscript) relative to the total genetic variance (the T subscript). Values can range from 0 to 1. High FST implies a considerable degree of differentiation among populations. 
+        
         Fst(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Fst.txt", sizes=F, pairs=TRUE, dataType="Diploid", verbose = TRUE)
 
-#### Resulting file: ["NF-Fst.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Fst.txt)
-#### Values are very close to zero, which indicates that there is little genetic differentiation among wild and hatchery populations.
+Resulting file: ["NF-Fst.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Fst.txt)
+Values are very close to zero, which indicates that there is little genetic differentiation among wild and hatchery populations.
 
     Indices for populations:
     ----     -------------
@@ -269,6 +272,7 @@ Assesses the distribution of diploid genotypes in the various populations. The n
     2      0.0008 
 
 ### Generate stats on allelic diversity. Interpretation TBD. 
-        genedivFis(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", sizes=FALSE, outputFile = "Analyses/NF-DivFis.txt", dataType = "Diploid", verbose=interactive())
+       
+       genedivFis(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", sizes=FALSE, outputFile = "Analyses/NF-DivFis.txt", dataType = "Diploid", verbose=interactive())
 
-#### Resulting file: ["NF-DivFis.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-DivFis.txt)
+Resulting file: ["NF-DivFis.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-DivFis.txt)
