@@ -211,7 +211,7 @@ Assesses the distribution of diploid genotypes in the various populations. The n
 
 ```{r}
 test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Diff.txt", genic=FALSE, pairs=TRUE, dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
-    ```
+```
 
 #### Resulting file: ["NF-Diff.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Diff.txt)
 #### Results indicate that genotypes are drawn from the same distribution, as P>>.01 for all loci. 
