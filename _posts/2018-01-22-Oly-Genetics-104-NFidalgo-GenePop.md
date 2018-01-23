@@ -1,6 +1,6 @@
 ---
 layout: post
-author: NF-GenePop Analysis
+title: North Fidalgo, GenePop Analysis
 ---
 
 ### Tried to do the html to .md trick for this notebook, but it did not function. No biggie, since there are no pretty plots in this notebook. Original notebooks: [R markdown version, NF-GenePop-Analysis.Rmd](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.Rmd); 
