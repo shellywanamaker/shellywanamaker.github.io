@@ -3,7 +3,7 @@ layout: post
 author: NF-GenePop Analysis
 ---
 
-#### Tried to do the html to .md trick for this notebook, but it did not function. No biggie, since there are no pretty plots in this notebook. Original notebooks: [R markdown version, NF-GenePop-Analysis.Rmd](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.Rmd); 
+### Tried to do the html to .md trick for this notebook, but it did not function. No biggie, since there are no pretty plots in this notebook. Original notebooks: [R markdown version, NF-GenePop-Analysis.Rmd](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.Rmd); 
 [HTML version, NF-GenePop-Analysis.html](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.html)
 
 ```{r setup, include=FALSE}
@@ -11,18 +11,18 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_knit$set(root.dir ="~/Documents/Roberts Lab/O.lurida_genetics")
 ```
 
-#### In this notebook I will use the GenePop R program to analyze the 2016/2017 Fidalgo Bay (NF) Ostrea lurida microsatellite data; the results from each analysis are housed in a series of .txt files. 
+### In this notebook I will use the GenePop R program to analyze the 2016/2017 Fidalgo Bay (NF) Ostrea lurida microsatellite data; the results from each analysis are housed in a series of .txt files. 
 
 Prior to importing the data, prepared the 2016/2017 NF data in Excel and exported into GenePop format; resulting file is available on [2018-01-22-Preparing-for-Genepop.md](https://github.com/laurahspencer/O.lurida_genetics/blob/master/Notebooks/2018-01-22-Preparing-for-Genepop.md)
 
-#### First, install GenePop program; 
+### First, install GenePop program; 
 
 ```{r}
 # install.packages("genepop")
 knitr::opts_chunk$set(library(genepop))
 ```
 
-#### Pull basic information on allele and genotype frequencies per locus and per sample 
+### Pull basic information on allele and genotype frequencies per locus and per sample 
 ```{r}
 basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Basic-Info.txt", verbose=T)
 ```
@@ -50,7 +50,7 @@ basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyse
 | Observed Heterozygotes | 91          | 67      | 95      | 90      | 92      | 89      | 
 
 
-#### Assess whether loci are in Hardy-Weinberg Equilibrium
+### Assess whether loci are in Hardy-Weinberg Equilibrium
 ```{r}
 test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputFile = "Analyses/NF-HWE.txt", enumeration = FALSE, dememorization = 10000, batches = 500, iterations = 2000, verbose = interactive())
 ```
@@ -101,7 +101,7 @@ test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputF
      Df   :    24.0000
      Prob :    0.3853
 
-#### Assess whether any loci are linked 
+### Assess whether any loci are linked 
 ```{r}
 test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-LD.txt", dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
 ```
@@ -164,7 +164,7 @@ test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses
     Olur15        & Olur19        >63.7695394    <0.000000 <------ 15 & 19 linked
 
 
-#### Assess for null alleles 
+### Assess for null alleles 
 ```{r}
 nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-null.txt", nullAlleleMethod = "B96", CIcoverage = 0.95, verbose = TRUE)
 ```
@@ -206,7 +206,9 @@ nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/N
     =================================================
 
 
-#### Exact conditional contingency-table test or genotypic differentiation. Assesses the distribution of diploid genotypes in the various populations. The null hypothesis tested is Ho: "genotypes are drawn from the same distribution in all populations"
+### Exact conditional contingency-table test or genotypic differentiation. 
+Assesses the distribution of diploid genotypes in the various populations. The null hypothesis tested is Ho: "genotypes are drawn from the same distribution in all populations"
+
 ```{r}
 test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Diff.txt", genic=FALSE, pairs=TRUE, dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
     ```
@@ -282,7 +284,7 @@ Fst(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-
     pop      1       
     2      0.0008 
 
-#### Generate stats on allelic diversity. Interpretation TBD. 
+### Generate stats on allelic diversity. Interpretation TBD. 
 ```{r}
 genedivFis(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", sizes=FALSE, outputFile = "Analyses/NF-DivFis.txt", dataType = "Diploid", verbose=interactive())
 ```
