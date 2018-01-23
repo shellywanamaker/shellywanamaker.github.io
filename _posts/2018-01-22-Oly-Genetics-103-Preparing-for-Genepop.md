@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oly Genetics 102, preparing microsat data for analysis in GenePop
+title: Oly Genetics 103, preparing microsat data for analysis in GenePop
 ---
 
 New day, new genetics analysis work flow. This time I'm going to use GenePop, a standard program that (apparently) does everything I need it to do! 
