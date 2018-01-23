@@ -3,13 +3,8 @@ layout: post
 title: Oly Genetics 104, NF GenePop Analysis
 ---
 
-### Tried to do the html to .md trick for this notebook, but it did not function. No biggie, since there are no pretty plots in this notebook. Original notebooks: [R markdown version, NF-GenePop-Analysis.Rmd](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.Rmd); 
+Tried to do the html to .md trick for this notebook, but it did not function. No biggie, since there are no pretty plots in this notebook. Original notebooks: [R markdown version, NF-GenePop-Analysis.Rmd](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.Rmd); 
 [HTML version, NF-GenePop-Analysis.html](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Notebooks/NF-GenePop-Analysis.html)
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir ="~/Documents/Roberts Lab/O.lurida_genetics")
-```
 
 ### In this notebook I will use the GenePop R program to analyze the 2016/2017 Fidalgo Bay (NF) Ostrea lurida microsatellite data; the results from each analysis are housed in a series of .txt files. 
 
@@ -17,15 +12,12 @@ Prior to importing the data, prepared the 2016/2017 NF data in Excel and exporte
 
 ### First, install GenePop program; 
 
-```{r}
-# install.packages("genepop")
-knitr::opts_chunk$set(library(genepop))
-```
+        install.packages("genepop")
+        library(genepop)
 
 ### Pull basic information on allele and genotype frequencies per locus and per sample 
-```{r}
-basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Basic-Info.txt", verbose=T)
-```
+        basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Basic-Info.txt", verbose=T)
+        
 #### Resulting file: ["NF-Basic-Info.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Basic-Info.txt)
 #### Hetero- and homozygosity info pasted here: 
 
@@ -51,9 +43,9 @@ basic_info(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyse
 
 
 ### Assess whether loci are in Hardy-Weinberg Equilibrium
-```{r}
-test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputFile = "Analyses/NF-HWE.txt", enumeration = FALSE, dememorization = 10000, batches = 500, iterations = 2000, verbose = interactive())
-```
+
+        test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputFile = "Analyses/NF-HWE.txt", enumeration = FALSE, dememorization = 10000, batches = 500, iterations = 2000, verbose = interactive())
+
 
 #### Resulting file: ["NF-HWE.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-HWE.txt)
 #### All P-values across loci in each population are >>0.05, do not reject the null hypothesis that all loci are in HWE. 
@@ -102,9 +94,7 @@ test_HW(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", which="Proba", outputF
      Prob :    0.3853
 
 ### Assess whether any loci are linked 
-```{r}
-test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-LD.txt", dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
-```
+        test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-LD.txt", dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
 
 #### Resulting file: ["NF-LD.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-LD.txt)
 #### Interesting, results from this Linkage Disequilibrium test indicate that there are, in fact, linked loci:
@@ -165,9 +155,7 @@ test_LD(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses
 
 
 ### Assess for null alleles 
-```{r}
-nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-null.txt", nullAlleleMethod = "B96", CIcoverage = 0.95, verbose = TRUE)
-```
+        nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-null.txt", nullAlleleMethod = "B96", CIcoverage = 0.95, verbose = TRUE)
 
 #### Resulting file: ["NF-null.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-null.txt)
 #### Null allele frequences low; will compare with results from MicroChecker to confirm. 
@@ -209,9 +197,7 @@ nulls(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/N
 ### Exact conditional contingency-table test or genotypic differentiation. 
 Assesses the distribution of diploid genotypes in the various populations. The null hypothesis tested is Ho: "genotypes are drawn from the same distribution in all populations"
 
-```{r}
-test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Diff.txt", genic=FALSE, pairs=TRUE, dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
-```
+        test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Diff.txt", genic=FALSE, pairs=TRUE, dememorization = 10000, batches = 100, iterations = 1000, verbose = TRUE)
 
 #### Resulting file: ["NF-Diff.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Diff.txt)
 #### Results indicate that genotypes are drawn from the same distribution, as P>>.01 for all loci. 
@@ -234,9 +220,7 @@ test_diff(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analys
     NFW-2017      & NFH-2016      18.39076  12   0.104331
 
 #### Calculate Fst for each population, which is a measure of genetic structure (developed by Sewall Wright, 1969, 1978), and is related to statistical analysis of variance  (ANOVA). FST is the proportion of the total genetic variance contained in a subpopulation (the S subscript) relative to the total genetic variance (the T subscript). Values can range from 0 to 1. High FST implies a considerable degree of differentiation among populations. 
-```{r}
-Fst(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Fst.txt", sizes=F, pairs=TRUE, dataType="Diploid", verbose = TRUE)
-```
+        Fst(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-Fst.txt", sizes=F, pairs=TRUE, dataType="Diploid", verbose = TRUE)
 
 #### Resulting file: ["NF-Fst.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-Fst.txt)
 #### Values are very close to zero, which indicates that there is little genetic differentiation among wild and hatchery populations.
@@ -285,13 +269,6 @@ Fst(inputFile = "Data/Oly2016NFH+2017NFW_Merged.txt", outputFile = "Analyses/NF-
     2      0.0008 
 
 ### Generate stats on allelic diversity. Interpretation TBD. 
-```{r}
-genedivFis(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", sizes=FALSE, outputFile = "Analyses/NF-DivFis.txt", dataType = "Diploid", verbose=interactive())
-```
+        genedivFis(inputFile="Data/Oly2016NFH+2017NFW_Merged.txt", sizes=FALSE, outputFile = "Analyses/NF-DivFis.txt", dataType = "Diploid", verbose=interactive())
 
 #### Resulting file: ["NF-DivFis.txt"](https://raw.githubusercontent.com/laurahspencer/O.lurida_genetics/master/Analyses/NF-DivFis.txt)
-
-
-```{r}
-sessionInfo()
-```
