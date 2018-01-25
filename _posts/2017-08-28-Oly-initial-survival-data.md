@@ -20,3 +20,7 @@ Treatment groups are color coded as well as identified on the x-axis, where:
 ![South South Static Survival Chart](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-08-28_SN-static-Survival-chart.png?raw=true)
 
 ![South South F2 (K) Survival Chart](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Images/2017-08-28_K-Survival-chart.png?raw=true)
+
+![image](https://user-images.githubusercontent.com/17264765/35371899-b7ded634-014b-11e8-9d61-db745b358805.png)
+
+![image](https://user-images.githubusercontent.com/17264765/35371825-5ad99424-014b-11e8-9e68-78b8083ece2c.png)
