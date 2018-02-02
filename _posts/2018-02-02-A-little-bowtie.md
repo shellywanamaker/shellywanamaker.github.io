@@ -1,7 +1,7 @@
 
 Running some alignments for Charlie.
 
-He provide a lot of files (1228 individual PEs) and wanted them aligned to the Chinook genome.
+He provided a lot of files (1228 individual PEs) and wanted them aligned to the Chinook genome.
 
 Here is the code - file: 0202_1300.sh 
 
