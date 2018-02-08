@@ -14,7 +14,7 @@ Breakdown of oysterseed sample number and the four files associated with them:
 | 29C     | 9/14/15 | 8       | Oysterseed 14     | 13, 15, 16             | 8                    |
 
 All are control seeds
-Files are from Rhonda's owl folder: http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/
+Files are from Rhonda's [owl folder](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/).
 Some samples had to be re-done, which is why there are four February files
 
 
