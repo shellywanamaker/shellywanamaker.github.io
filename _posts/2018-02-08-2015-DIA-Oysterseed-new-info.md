@@ -5,12 +5,13 @@ I learned some crucial things today that have changed the way I understand and h
 - FOUR samples were run, and four files are associated with each file
 
 Breakdown of oysterseed sample number and the four files associated with them:
-| Temp.  |  Date   |   Silo    |     Sample No.   |   File No. from Dec.   |   File No. from Feb. |
-| ------ | ------- | --------- | ---------------- | ---------------------- | -------------------- |
-| 23C    | 9/11/15 |   9       |   Oysterseed 1   |    1, 3, 4             |  5                   |
-| 29C    | 9/11/15 |   8       |   Oysterseed 2   |    5, 7, 8             |  6                   |
-| 23C    | 9/14/15 |   9       |   Oysterseed 13  |    9, 11, 12           |  7                   |
-| 29C    | 9/14/15 |   8       |   Oysterseed 14  |    13, 15, 16          |  8                   |
+
+| Temp.   |  Date   |   Silo  |     Sample No.    |   File No. from Dec.   |   File No. from Feb. |
+|  :---:  |  :---:  |  :---:  |       :---:       | ---------------------- | -------------------- |
+| 23C     | 9/11/15 | 9       | Oysterseed 1      | 1, 3, 4                | 5                    |
+| 29C     | 9/11/15 | 8       | Oysterseed 2      | 5, 7, 8                | 6                    |
+| 23C     | 9/14/15 | 9       | Oysterseed 13     | 9, 11, 12              | 7                    |
+| 29C     | 9/14/15 | 8       | Oysterseed 14     | 13, 15, 16             | 8                    |
 
 All are control seeds
 Files are from Rhonda's owl folder: http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/
