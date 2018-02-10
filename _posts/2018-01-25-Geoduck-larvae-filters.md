@@ -12,6 +12,6 @@ Specifically dates
 Conical #4 and #8 at pH 8.2       
 Conical #6 and #9 at pH 7.1
 
-These 16 filters would are in a separate bag inside the -80 freezer box:    
+These 16 filters are in a separate bag inside the -80 freezer box:    
 
 ![radck](http://eagle.fish.washington.edu/cnidarian/skitch/-80_Inventory_Map_-_Google_Sheets_202F9CB8.png)
