@@ -12,7 +12,7 @@ The coding as as follows:
   - 6L: 6degC, low pH  
   - 6A: 6degC, ambient pH  
   - 10L: 10degC, low pH  
-  - 10L: 10degC, ambient pH  
+  - 10A: 10degC, ambient pH  
 
 My observations:  
   1. The group that spawned the most number of larvae (normalized per oyster) consistently had the poorest larval survival across all populations.      
