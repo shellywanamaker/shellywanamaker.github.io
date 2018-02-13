@@ -20,7 +20,7 @@ Chi-squared results:     X-squared = 16.444, df = 4, **p-value = 0.002478**
 
 ![Oly-Gonad-Contingency-Table-Stage](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Stage.png?raw=true)
 
-#### Stages are significantly different between treatments; take a look at this correlation plot, where blue and red bubbles signify fewer and more than expected, respetively: 
+#### Stages are significantly different between treatments; take a look at this correlation plot, where blue and red bubbles signify more and fewer gonads at each stage than expected, respetively: 
 
 ![Oly-stage-correlation-plot](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-stage-correlation-plot.png?raw=true)
 
