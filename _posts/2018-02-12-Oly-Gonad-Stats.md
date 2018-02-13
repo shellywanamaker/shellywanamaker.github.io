@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oly gonad statistics
+title: Oly gonad statistics, 6-degree temperature only
 ---
 
 In a [previous post](https://laurahspencer.github.io/LabNotebook/Oly-Histology-Pie-Charts/) I generated pie charts of the 2017 Oly gonad stage and sex. Here, I run some quick stats on the gonad stage and sex data to confirm that my visually determined differences in maturation between **6degC low pH vs. 6degC ambient pH** is, indeed, statistically different.  I performed these analyses in R in my [Histology-Pie-Charts.R script](https://raw.githubusercontent.com/laurahspencer/O.lurida_Stress/master/Analyses/Histology-Pie-Charts.R). 
