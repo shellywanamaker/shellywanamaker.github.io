@@ -2,6 +2,8 @@ Tommorrow I will be trying out RNA isolation on 2 extra Tanner crab hemolymph sa
 Try protocol with 2 samples: 465 and 468
 Both samples are yellow (from third sampling day) and are from crabs that are infected, immature, and held at ambient temperatures throughout the experiment. 
 
+Protocol is from [RNA isolation protocol](https://github.com/RobertsLab/resources/blob/master/protocols/rna_isolation_rnazol_rt.md)
+
 Gathering materials/preparing reagents
 
 (1) Prepare 75% Ethanol made with 0.1% DEPC-treated H20
