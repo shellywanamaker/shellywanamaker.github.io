@@ -13,10 +13,8 @@ I created contingency tables to analyze differences in Sex and Stage, then ran c
 A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data instead of a chi-squared test:
 ![Oly-Gonad-Contingency-Table-Sex](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Sex.png?raw=true)
 
-### Contingency Table - All populations, by Stage 
+### Contingency Table - All populations, by Stage; Stages are significantly different between treatments, and indicate that low pH treatment resulted in more early-stage gonad.
 ![Oly-Gonad-Contingency-Table-Stage](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Stage.png?raw=true)
-
-#### Stages are significantly different between treatments, and ndicate that low pH treatment resulted in more early-stage gonad.
 
 ## Let's dial down into each poplulation. Bear with me here, there are a ton of contingency tables and stats results. Note I ran Fisher's test for all these due to sample size: 
 
