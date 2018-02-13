@@ -17,7 +17,7 @@ Reagents:
 - **2-propanol —> will need __?__ total for 2 samples**
 - 75% ethanol, etc. made above
 - 0.1% DEPC-treated H20
-- Ice —> **WET ICE OK?**
+- Ice —> wet ice ok for short-term storage
 
 PPE:
 Gloves, safety glasses, lab coat, fume hood
@@ -38,7 +38,7 @@ PROCEDURE
 6. Incubate at room temperature (RT) for 15mins.
 7. Centrifuge 12,000g for 15mins @ RT.
 8. Transfer 750uL of supernatant (do not disturb pellet) to sterile 1.7mL snap-cap tube. (Discard remaining liquid in RNAzol RT Hazardous Waste container in fume hood. Leave old tube open in fume hood over night and then discard in regular trash.)
-9. Add 1 volume of isopropanol. **WHAT DOES THIS MEAN**
+9. Add 1 volume of isopropanol. This means that you add the volume of isopropanol that is equivalent to total sample volume. 
 10. Vortex 5s.
 11. Incubate @ RT for 15mins.
 12. Centrifuge 12,000g for 10mins @ RT.
