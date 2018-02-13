@@ -1,3 +1,5 @@
-Today I chose some crab samples for RNA extraction. [I made a chart](http://owl.fish.washington.edu/scaphapoda/grace/Crab-samples-for-RNA-extraction.png) with the tube numbers for the samples. I picked tube numbers that belonged to the same crabs but on the different sample days. This wasn't possible across all three sample days because of the splitting of the crabs into three different temperatures after the first sampling day. All crabs are immature males. The groups of numbers in the yellow boxes represent the 14 pooled samples. Due to a massive die-off in the warm temperature treatment groups, we unfortunately only have two infected and one uninfected sample per the final two sample days. As a result, the uninfected samples will not be "pooled". 
+Today I chose some crab samples for RNA extraction. [I made a chart](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Samples-for-RNA-isolation.png) with the tube numbers for the samples. All crabs are immature males. Due to a massive die-off in the warm temperature treatment groups, we unfortunately only have two infected and one uninfected sample per the final two sample days. As a result, the uninfected samples will not be "pooled". 
 
-![](http://owl.fish.washington.edu/scaphapoda/grace/Crab-samples-for-RNA-extraction.png)
+There will be 14 pooled samples, and they are represented by the groupings in blue. 
+
+![](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Samples-for-RNA-isolation.png)
