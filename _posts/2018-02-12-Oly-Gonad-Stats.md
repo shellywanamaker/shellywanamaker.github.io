@@ -5,7 +5,7 @@ title: Oly gonad statistics
 
 In a [previous post](https://laurahspencer.github.io/LabNotebook/Oly-Histology-Pie-Charts/) I generated pie charts of the 2017 Oly gonad stage and sex. Here, I run some quick stats on the gonad stage and sex data to confirm that my visually determined differences in maturation between **6degC low pH vs. 6degC ambient pH** is, indeed, statistically different.  I performed these analyses in R in my [Histology-Pie-Charts.R script](https://raw.githubusercontent.com/laurahspencer/O.lurida_Stress/master/Analyses/Histology-Pie-Charts.R). 
 
-I created contingency tables to analyze differences in Sex and Stage, then ran chi-squared tests on each. 
+I created contingency tables to analyze differences in Sex and Stage, then ran chi-squared or Fisher's exact tests, depending on sample size (small n = Fisher's). 
 
 ### Contingency Table - All populations, by Sex  
 A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data instead of a chi-squared test:
