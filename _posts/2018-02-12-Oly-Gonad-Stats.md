@@ -10,7 +10,7 @@ Here, I run some quick stats on the gonad stage and sex data to confirm that my 
 I created contingency tables to analyze differences in Sex and Stage, then ran chi-squared tests on each. 
 
 ### Contingency Table - All populations, by Sex  
-A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data as well:  p-value = 0.2942
+A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data instead of a chi-squared test:  p-value = 0.2942
 ![Oly-Gonad-Contingency-Table-Sex](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Sex.png?raw=true)
 
 ### Contingency Table - All populations, by Stage 
@@ -19,9 +19,9 @@ A warning was printed along with these results... "Warning message: In chisq.tes
 #### Stages are significantly different between treatments; take a look at this correlation plot, where blue and red bubbles signify more and fewer gonads at each stage than expected, respetively. This indicates that low pH treatment resulted in more early-stage gonad.
 ![Oly-stage-correlation-plot](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-stage-correlation-plot.png?raw=true)
 
-## Let's dial down into each poplulation. Bear with me here, there are a ton of contingency tables and stats results: 
+## Let's dial down into each poplulation. Bear with me here, there are a ton of contingency tables and stats results. Note I ran Fisher's test for all these due to sample size: 
 
-### Tables, by Sex: 
+### Tables, by SEX 
 ![SN](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/SN-Gonad-Contingency-Table-Sex.png?raw=true) 
 ![K](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/K-Gonad-Contingency-Table-Sex.png?raw=true)
 ![HL](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/HL-Gonad-Contingency-Table-Sex.png?raw=true)
