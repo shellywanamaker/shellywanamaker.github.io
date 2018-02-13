@@ -10,7 +10,7 @@ Here, I run some quick stats on the gonad stage and sex data to confirm that my 
 I created contingency tables to analyze differences in Sex and Stage, then ran chi-squared tests on each. 
 
 ### Contingency Table - All populations, by Sex  
-A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data instead of a chi-squared test:  p-value = 0.2942
+A warning was printed along with these results... "Warning message: In chisq.test(CT.Sex) : Chi-squared approximation may be incorrect".  So, I ran a Fisher's Exact Test for Count Data instead of a chi-squared test:
 ![Oly-Gonad-Contingency-Table-Sex](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Sex.png?raw=true)
 
 ### Contingency Table - All populations, by Stage 
