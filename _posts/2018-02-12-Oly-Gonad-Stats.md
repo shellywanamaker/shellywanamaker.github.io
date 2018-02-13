@@ -16,8 +16,7 @@ A warning was printed along with these results... "Warning message: In chisq.tes
 ### Contingency Table - All populations, by Stage 
 ![Oly-Gonad-Contingency-Table-Stage](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-Gonad-Contingency-Table-Stage.png?raw=true)
 
-#### Stages are significantly different between treatments; take a look at this correlation plot, where blue and red bubbles signify more and fewer gonads at each stage than expected, respetively. This indicates that low pH treatment resulted in more early-stage gonad.
-![Oly-stage-correlation-plot](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Analyses/Oly-stage-correlation-plot.png?raw=true)
+#### Stages are significantly different between treatments, and ndicate that low pH treatment resulted in more early-stage gonad.
 
 ## Let's dial down into each poplulation. Bear with me here, there are a ton of contingency tables and stats results. Note I ran Fisher's test for all these due to sample size: 
 
