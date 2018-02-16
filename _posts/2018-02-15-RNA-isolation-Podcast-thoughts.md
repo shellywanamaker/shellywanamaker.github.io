@@ -24,7 +24,7 @@ With that being said, I am really excited about the possibilities and learning m
 
 ### DIA protocol
 
-Tomorrow, after I FINALLY isolate some RNA if we do indeed have RNAzol, I will start the DIA protocl over with ALL the 2015 oysterseed data and get that going again. 
+I started the process of the [DIA analysis](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md) for the 2015 oyster seed data. I am converting all the [.raw files (16 total) from owl](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/) to .mzML. It will take a while and I just started this at 5:30pm, so I'll continue with the process tomorrow once the files are all converted. 
 
 ### Productivity and grad. school notes
 
