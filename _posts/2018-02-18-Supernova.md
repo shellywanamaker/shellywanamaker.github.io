@@ -22,6 +22,12 @@ For assistance, upload this file to 10x Genomics by running:
 
 supernova upload <your_email> Geoduck/Geoduck.mri.tgz
 ```
+tldr:    
+The length-weighted mean molecule length is 16652.62 bases   ...   
+If the predicted value is > 0, the molecule length estimation was successful.     
+However, ideally, we would expect a larger value.     
+Standard methods starting from blood can yield 100 kb or larger DNA
+
 
 The job script ...
 
@@ -53,4 +59,5 @@ source /gscratch/srlab/programs/scripts/paths.sh
 --sample=Geoduck-1,Geoduck-2
 ```
 
-
+I will send the mri file to support but also try to restart assembly with all data.
+Will also follow up exploring the assemblies we have and how to make fasta...
