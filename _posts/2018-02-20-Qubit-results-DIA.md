@@ -19,4 +19,5 @@ I think the only way to tell whether there was RNA or not would be to do it agai
 
 The .blib file from the original attempt at analyzing the 2015 Oysterseed data used all the files, so I am ready to get into Skyline again! I will continue tomorrow starting from [Step 4](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4-add-files-to-skyline). 
 
+---
 This evening, I'm working on my proposal for FISH 521, due this week. 
