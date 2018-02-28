@@ -9,4 +9,4 @@ After emailing with Emma, I will calculate the error rate with the assistance of
 
 ### RNA Isolation 
 
-Tomorrow I will isolate the RNA for the crab samples and will hopefully do it correctly. If it doesn't go well, the samples were done in triplicate, so I have a lot of extra tubes to work with if something goes wrong! 
+Tomorrow I will isolate the RNA for the crab samples and will hopefully do it correctly. If it doesn't go well, there are plenty of extra samples to choose from. The final sampling day (yellow-cap) were done in triplicate! The first and second had one sample/crab. 
