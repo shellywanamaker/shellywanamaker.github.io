@@ -5,8 +5,7 @@ Today I moved forward with the 2015 oysterseed DIA analysis. I followed the [DIA
 
 This allowed for the data to be combined in tabs per sample. There were four oysterseed samples, and four RAW files per sample. 
 
-
-According to a GitHub issue [#186](https://github.com/RobertsLab/resources/issues/186) question I had for Emma, I will continue with analyses, and after I select peptides to focus on, I will go back and check peaks and calculate error rate. 
+After emailing with Emma, I will calculate the error rate with the assistance of a [Skyline tutorial](https://skyline.ms/_webdav/home/software/Skyline/%40files/tutorials/MS1Filtering-2_5.pdf) and then will continue with analysis. After analyses and peaks are chosen, I will go back and check peaks on the peptides we want to look at. 
 
 ### RNA Isolation 
 
