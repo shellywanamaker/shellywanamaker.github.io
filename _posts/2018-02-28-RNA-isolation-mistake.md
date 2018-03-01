@@ -8,4 +8,13 @@ I processed the first batch of 8, however at the last step of centrifuging in th
 
 Regardless, I asked Sam what this means in terms of the potential success of the RNA isolation and he said that it could potentially be bad. The RNA needs to be spun at a certain speed in order to come out of solution, so if I was spinning them too slow, it could have been unsuccessful. 
 
-However, I am going to run the Qubit on like three or four of the samples to see if anything came out. If not, then I'll have to pick 8 new samples to re-do it with and be EXTREMELY aware of the zeros on the centrifuge! Once this mistake was made, I will never not check the zeros at least three times. 
+I ran Qubit on samples 56 (infected, first sampling day) and 176 (uninfected, first sampling day). The sample amount that I used was 10µL (last time i did Qubit on the test samples, I did 5µL of sample). 
+
+The [results](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/QubitData_2018-02-28_18-01-13.csv) are as follows:
+- tube 56: 0.896 ng/µL
+- tube 176: Out of range
+![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit-results-20180228.png)
+
+
+I can pick new samples and re-do it. I will post a GitHub issue to see what the others think. 
+
