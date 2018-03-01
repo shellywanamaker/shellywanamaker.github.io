@@ -18,7 +18,17 @@ To accomplish this, I shucked the oyster, removed the gill tissue as usual by gr
 ![img_3718](https://user-images.githubusercontent.com/17264765/36820599-81a9e0f4-1ca3-11e8-90e7-3872713e7d5d.JPG)
 
 ### Final Mud Bay sampling, retrieved HOBO loggers
-As usual, I collected 10 oysters from Mud Bay during low tide (today, ~8:30pm), and took back to the hatchery for sampling.  Tonight I also retrieved the 2 HOBO data loggers.  One HOBO was installed at a shallow depth, accessible around ~2', close to where I harvested oysters throughout the winter (labeled "Mud Bay Shallow").  The other was installed at a low tidal elevation near the main channel, away from my sampling site (labeled "Mud Bay Deep").  
+As usual, I collected 10 oysters from Mud Bay during low tide (today, ~8:30pm), and took back to the hatchery for sampling.  Tonight I also retrieved the 2 HOBO data loggers.  One HOBO was installed at a shallow depth, accessible around ~2', close to where I harvested oysters throughout the winter (labeled ["Mud Bay Shallow"](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/data/2018-02-12-MudBay-Shallow-temp.hobo) & ["Mud Bay Shallow - redeployment](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/data/2018-02-28-MudBay-Shallow-temp-redeployment.hobo)).  The other was installed at a low tidal elevation near the main channel, away from my sampling site (labeled ["Mud Bay Deep"](https://github.com/laurahspencer/O.lurida_Temperature/blob/master/data/2018-02-28_MudBay-Deep-temp.hobo)).  
+
+### Screen-shot of the Mud Bay "Deep" data 
+![image](https://user-images.githubusercontent.com/17264765/36821123-49836f26-1ca6-11e8-8ebb-9406a693941d.png)
+
+### Screen-shot of the Mud Bay "Shallow" data 
+It's in 2 plots, as I deployed twice over concern of battery/space. Note the different date ranges along the x-axes 
+
+![image](https://user-images.githubusercontent.com/17264765/36821171-7c7a8d06-1ca6-11e8-920f-913e32df3bad.png)
+![image](https://user-images.githubusercontent.com/17264765/36821183-86af09dc-1ca6-11e8-8262-4c6e8ec07791.png)
+
 
 ### Moved animals to spawning buckets
 Decided on 4 spawning buckets/treatment. This results in ~45-50 animals per spawning bucket and I was able to simply split the 4 bags in each treatment rep. This makes it easy to keep track of replicates from the treatment to the spawning stage. For example, in treatment A1 there were 4 backs (#1, 15, 5, 15). These were split into 2 spawning buckets (#1 + 16, #5 + 15). 
