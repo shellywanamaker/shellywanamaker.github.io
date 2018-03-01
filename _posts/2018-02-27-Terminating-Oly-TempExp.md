@@ -12,7 +12,7 @@ To accomplish this, I shucked the oyster, removed the gill tissue as usual by gr
 ![img_3715](https://user-images.githubusercontent.com/17264765/36820598-8196f16a-1ca3-11e8-9418-2e3c5aaae429.JPG)
 
 ### Video of the "incision"
-[![Video of the incision](https://user-images.githubusercontent.com/17264765/36821027-ceee2bc0-1ca5-11e8-8207-49464e521094.png)]((https://youtu.be/IKtlOcHD4Kk) "The Incision")
+[![Video of the incision](https://user-images.githubusercontent.com/17264765/36821027-ceee2bc0-1ca5-11e8-8207-49464e521094.png)](https://youtu.be/IKtlOcHD4Kk "The Incision")
 
 ### Post-cut.  
 ![img_3718](https://user-images.githubusercontent.com/17264765/36820599-81a9e0f4-1ca3-11e8-90e7-3872713e7d5d.JPG)
