@@ -16,5 +16,5 @@ The [results](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit
 ![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit-results-20180228.png)
 
 
-I can pick new samples and re-do it. I will post a GitHub issue to see what the others think. 
+I can pick new samples and re-do it. I created a [GitHub issue](https://github.com/RobertsLab/resources/issues/189) to see what the others think. 
 
