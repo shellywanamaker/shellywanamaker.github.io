@@ -6,12 +6,15 @@ title: Terminating 3-month Oly temp/food treatment
 It's been 3~ months since Olys went into their temperature / feeding treatments. I've been collecting gonad samples for histology every 2-3 weeks. Today I did a 6th sampling from treatments and "wild" (aka directly from Mud Bay) and moved animals into their spawning buckets.  Details ... 
 
 ### Sampled gonad tissue for 2 things today:  1) histology  and 2) lipid & glycogen content
-To accomplish this, I shucked the oyster, removed the gill tissue as usual by grabbing with gripped tweeers and tearing back the tissue (usually removes cleaniy, without removing any gonad). Then, I used dissecting scissors to bisect the whole visceral mass into two sections.  The cut was made perpendicular to and midway along the anterior/posterior axis, as shown below.  The anterior section was fixed for histology, and the posterior placed into a labeled 2mL tube for glycogen/lipid analysis.  Oysters were sampled in batches of 5 (from each replicate), and immediately walked to the -80 in Rick's building to freeze. The posterior section was selected for lipid/glycogen analysis, as it was free of gill or palp tissue (not always the case in the anterior section). Mantle tissue on dorsal/ventral planes of visceral mass was not intentionally removed. Frozen gonad samples were labeled with their designated histology sample number (from 241-290; there are no frozen gonad tissue samples #1-239).  
+To accomplish this, I shucked the oyster, removed the gill tissue as usual by grabbing with gripped tweeers and tearing back the tissue (usually removes cleaniy, without removing any gonad). Then, I used dissecting scissors to bisect the whole visceral mass into two sections.  The cut was made perpendicular to and midway along the anterior/posterior axis, as shown below.  The anterior section was fixed for histology, and the posterior pulled from from the adductor, then placed into a labeled 2mL tube for glycogen/lipid analysis.  Oysters were sampled in batches of 5 (from each replicate), and immediately walked to the -80 in Rick's building to freeze. The posterior section was selected for lipid/glycogen analysis, as it was free of gill or palp tissue (not always the case in the anterior section). Mantle tissue on dorsal/ventral planes of visceral mass was not intentionally removed. Frozen gonad samples were labeled with their designated histology sample number (from 241-290; there are no frozen gonad tissue samples #1-239).  
 
-Bottom prong of tweezer indicating where transverse cut will be made: 
+### Bottom prong of tweezer indicating where transverse cut will be made: 
 ![img_3715](https://user-images.githubusercontent.com/17264765/36820598-8196f16a-1ca3-11e8-9418-2e3c5aaae429.JPG)
 
-Post-cut.  
+### Video of the "incision"
+[![Video of the incision](https://user-images.githubusercontent.com/17264765/36821027-ceee2bc0-1ca5-11e8-8207-49464e521094.png)]((https://youtu.be/IKtlOcHD4Kk) "The Incision")
+
+### Post-cut.  
 ![img_3718](https://user-images.githubusercontent.com/17264765/36820599-81a9e0f4-1ca3-11e8-90e7-3872713e7d5d.JPG)
 
 ### Final Mud Bay sampling, retrieved HOBO loggers
