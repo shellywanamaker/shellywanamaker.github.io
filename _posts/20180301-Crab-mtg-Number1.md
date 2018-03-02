@@ -1,4 +1,4 @@
-Today we had our first crab project meeting. Our plan is to meet the first Thursday of the month (Of course subject to change if need be).
+Today we had our first crab project meeting. Our plan is to meet the first Thursday of the month (subject to change if need be).
 
 ### RNA isolation
 We focused on sample picking for RNA isolation. My previous samples that I chose didn't take into account the changing temperature. By that I mean that the crabs in pools 1 and 2 are all crabs that ended up in the cold water treatment. The other three treatment days had crabs in cold, warm, and ambient treatment, as shown by the different columns in the below picture.
