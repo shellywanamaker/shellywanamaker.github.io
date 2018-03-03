@@ -20,11 +20,11 @@ He also recommended that before any editing happens, you make sure all the indiv
 He suggested looking into having a mic filter to avoid any issues with "P" sounds, and others. 
 
 He provided a list of resources that have free sounds/ effects:
-https://freesound.org
-http://incompetech.com/music/
-https://www.bensound.com
-http://www.pacdv.com/sounds/
-http://soundbible.com
+- https://freesound.org
+- http://incompetech.com/music/
+- https://www.bensound.com
+- http://www.pacdv.com/sounds/
+- http://soundbible.com
 
 He says he exports things as WAV rather than MP3... I didn't get a chance to ask what the difference is between the two, but perhaps google will enlighten me. 
 
