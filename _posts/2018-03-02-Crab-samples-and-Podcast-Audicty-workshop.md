@@ -1,6 +1,6 @@
 ### Crab sample organization  
 
-Today I am still working through organizing the crab sample data to follow individual crabs throughout the project. This will be used to help decide the pooling of samples after RNA is extracted.
+Today I am still working through organizing the crab sample data to follow individual crabs throughout the project. This will be used to help decide the pooling of samples after RNA is extracted. I have uploaded a mostly-organized spreadsheet to my Owl folder: [here](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/20180301-following-crab-samples.xlsx)
 
 ### Podcast Audacity Workshop
 
