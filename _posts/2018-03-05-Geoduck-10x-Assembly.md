@@ -79,6 +79,11 @@ Pipestance completed successfully!
 Saving pipestance info to Geoduck/Geoduck.mri.tgz
 ```
 
+Geoduck/Geoduck.mri.tgz available       
+at      
+http://owl.fish.washington.edu/halfshell/bu-mox/analyses/0305/0220_Geoduck.mri.tgz
+
+
 Report
 
 ```
