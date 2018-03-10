@@ -8,4 +8,15 @@ I looked at the DIA analysis of the 2015 oysterseed. I have no idea what I'm loo
 I am going to pick samples such that I'm following individuals throughout the entire project and within treatment groups. I'll begin next week and will keep track of what I'm doing. 
 
 ### Crab data sheet
-I am re-organizing the crab data sheet that Pam sent me such that it will be machine readable for future analyses. 
+I [re-organized the data sheet](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/20180309-crab-hemo-sample-data.xlsx) such that it is machine-readabe. Per Steven's suggestion, I made a unique ID for each sample following this pattern:
+
+FRP#_Tube#_SampleDay#
+
+Example:
+6116_76_9
+
+6116 is the unique crab ID number (there are three samples with 6116_ at the start, because this data includes only crabs that survived the project, and thus have three samples.
+
+76 is the tube number that the hemolymph sample is in.
+
+9 is the sample day number. 
