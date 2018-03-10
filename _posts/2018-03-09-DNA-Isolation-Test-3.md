@@ -14,7 +14,7 @@ Used E.Z.N.A. Mollusc DNA Kit. Followed kit instructions, then quantified using 
   * We have 8 mortar/pestle sets in our lab.  Can't do more than 8 samples / day.   * Incubated with proteinase K for 2 hours  
   * The "one volume" used for steps 7 & 10 was 450uL (eyeballed vol. of supernatant pulled off in step 6, and matched that).   
   * I did not do optional step to equilibrate columns (via NaOH)    
-  * In step 27, added 2 rinses of 100uL Elution Buffer, for total volume of 200umL  
+  * In step 27, for the 2 rinses I used 100uL Elution Buffer, for total volume of 200umL in each sample  
   * Samples are stored in the -20 in FTR 209, on door.  
 
 For larvae, they were all at the bottom of the tube. I inverted the tube and tapped vigorously to get as much onto the mortar as possible; also used autoclaved toothpicks to try to get more out.  Probably shouldn't do this next time - find another small item to scrape tissue out of tube.  Curious if I can add ethanol or something to get the larvae into solution, then pour into mortar?  Will ask the lab.  
