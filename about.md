@@ -17,6 +17,7 @@ Oceanography, Chemical, 3.52
 
 ### Honors & Awards
 [Australia–Americas PhD Research Internship Program](https://www.science.org.au/opportunities/travel/grants-and-exchange/2018-australia-americas-phd-research-internship-program) April 2018, Australia Academy of Science   
+[College of the Environment Student Travel Award](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/), November 2017, University of Washington  
 [Hall Conservation Genetics Research Award](https://environment.uw.edu/news/2017/06/2017-hall-conservation-genetics-research-award-winners-announced/) March 2017, University of Washington College of the Environment  
 [Libbie H. Hyman Memorial Scholarship](http://sicb.org/grants/hyman/) (_Declined_) March 2017, The Society for Integrative and Comparative Biology, Division of Invertebrate Zoology  
 [Melbourne R. Carriker Student Research Grant](http://www.shellfish.org/the-melbourne-r--carriker-student-research-grant) March 2017, National Shellfish Association  
