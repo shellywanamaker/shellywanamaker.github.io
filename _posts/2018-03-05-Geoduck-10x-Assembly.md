@@ -245,3 +245,7 @@ Then reran with `--minsize=10000`
 All fasta outputs can be accessed
 at
 http://owl.fish.washington.edu/halfshell/bu-mox/analyses/0305/    
+
+---
+
+fu: Assembly out available:http://owl.fish.washington.edu/halfshell/working-directory/18-03-05/
