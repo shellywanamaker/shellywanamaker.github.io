@@ -96,4 +96,6 @@ find /gscratch/srlab/sr320/data/olurida-bs/*gz \
 		
 		
 ## Ol-pbjelly.fa
+
+The WGBS samples ran, taking about 4 hours per sample with averages in the table above. There was a slight increase in mapped reads (~2%) but I do not see it worth it for the data end point and time. The MBDBS samples take over 12 hours per sample. I killed the job before 1 completed.
 	
