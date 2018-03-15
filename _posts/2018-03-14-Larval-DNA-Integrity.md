@@ -19,7 +19,7 @@ Steps:
   
 The software displays data in real-time with fluoresence on y-axis, and time on the x-axis.  Smaller DNA fragments "elute" faster, and likewise longer fragments take longer. Each sample well also has small (50bp) and large (17,000) standards/markers. We were hoping my DNA fragments would be long/as intact as possible. Here are some screen-shots of each fluoresence/time plot, along with the software's calculated bp/concentrations: 
 
-### Screenshot of all plots; my samples are labeled Sample 1 through Sample 8. Samples 9-12 are just DI water. Samples 1-7 look somewhat consistent, but Sample 8 looks very weird. Note different y-axis range.   
+### Screenshot of all plots; my samples are labeled Sample 1 through Sample 8. Samples 9-12 are just DI water. Samples 1-7 look somewhat consistent, but Sample 8 looks very weird. Note different y-axis range. It looks like the long bp internal standard may have been erroneously high?  
 ![image](https://user-images.githubusercontent.com/17264765/37440775-81b47870-27bb-11e8-859b-23f2838709a6.png)
 
 ### Screenshots of the bp/concentration break-down: 
