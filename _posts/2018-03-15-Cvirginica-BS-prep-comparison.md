@@ -2,7 +2,7 @@ Here are data corresponding to different types of library preparation.
 
 ![samples](../images/RRBS_QIA.png)
 
-``
+```
 10_32_S32_L001_R1_001.fastq.gz 29M
 11_37_S37_L001_R1_001.fastq.gz 35M
 12_38_S38_L001_R1_001.fastq.gz 43M
