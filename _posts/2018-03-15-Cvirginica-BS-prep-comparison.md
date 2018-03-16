@@ -21,6 +21,7 @@ Here are data corresponding to different types of library preparation.
 5_35_S35_L001_R1_001.fastq.gz 1.1M
 6_36_S36_L001_R1_001.fastq.gz 1.6M
 7_29_S29_L001_R1_001.fastq.gz 30M
+8_30_S30_L001_R1_001.fastq.gz 32M
 9_31_S31_L001_R1_001.fastq.gz 30M
 ```
 
