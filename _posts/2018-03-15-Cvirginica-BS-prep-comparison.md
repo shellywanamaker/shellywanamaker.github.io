@@ -2,6 +2,32 @@ Here are data corresponding to different types of library preparation.
 
 ![samples](../images/RRBS_QIA.png)
 
+=======
+
+```
+10_32_S32_L001_R1_001.fastq.gz 29M
+11_37_S37_L001_R1_001.fastq.gz 35M
+12_38_S38_L001_R1_001.fastq.gz 43M
+13_33_S33_L001_R1_001.fastq.gz 32M
+14_34_S34_L001_R1_001.fastq.gz 34M
+15_39_S39_L001_R1_001.fastq.gz 33M
+16_40_S40_L001_R1_001.fastq.gz 38M
+17_9_S9_L001_R1_001.fastq.gz 20M
+18_10_S10_L001_R1_001.fastq.gz 26M
+19_7_S7_L001_R1_001.fastq.gz 18M
+1_25_S25_L001_R1_001.fastq.gz 25M
+20_8_S8_L001_R1_001.fastq.gz 16M
+2_26_S26_L001_R1_001.fastq.gz 8.7M
+3_27_S27_L001_R1_001.fastq.gz 12M
+4_28_S28_L001_R1_001.fastq.gz 14M
+5_35_S35_L001_R1_001.fastq.gz 1.1M
+6_36_S36_L001_R1_001.fastq.gz 1.6M
+7_29_S29_L001_R1_001.fastq.gz 30M
+8_30_S30_L001_R1_001.fastq.gz 32M
+9_31_S31_L001_R1_001.fastq.gz 30M
+```
+
+
 
 In terms of number of mapped reads.      
 (Seems a bit low)
