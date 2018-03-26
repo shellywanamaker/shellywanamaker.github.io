@@ -1,49 +1,49 @@
 Here are data corresponding to different types of library preparation.
 
-![samples](/Users/sr320/Documents/GitHub/sr320.github.io/images/RRBS_QIA.png)
+![samples](../images/RRBS_QIA.png)
 
 
 In terms of number of mapped reads.      
 (Seems a bit low)
 
 ```
-10_32_S32_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/10_32_S32_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       81447 (14%)
-11_37_S37_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/11_37_S37_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       67733 (9.7%)
-12_38_S38_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/12_38_S38_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       79251 (9.2%)
-13_33_S33_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/13_33_S33_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       107092 (17%)
-14_34_S34_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/14_34_S34_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       129237 (19%)
-15_39_S39_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/15_39_S39_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       70160 (10%)
-16_40_S40_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/16_40_S40_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       87678 (11%)
-17_9_S9_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/17_9_S9_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       26451 (6.5%)
-18_10_S10_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/18_10_S10_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       70674 (13%)
-19_7_S7_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/19_7_S7_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       42329 (11%)
-1_25_S25_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/1_25_S25_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       32748 (6.7%)
-20_8_S8_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/20_8_S8_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       52351 (17%)
-2_26_S26_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/2_26_S26_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       6805 (4%)
-3_27_S27_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/3_27_S27_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       2185 (0.94%)
-4_28_S28_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/4_28_S28_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       9393 (3.4%)
-5_35_S35_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/5_35_S35_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       1244 (5.7%)
-6_36_S36_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/6_36_S36_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       1860 (5.9%)
-7_29_S29_L001-bsmap_out_Cv3.sam	
+Output file: /Volumes/Serine/wd/18-03-14/7_29_S29_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       112769 (18%)
-9_31_S31_L001-bsmap_out_Cv3.sam
+Output file: /Volumes/Serine/wd/18-03-14/9_31_S31_L001-bsmap_out_Cv3.sam	 (format: SAM)
 pairs:       101817 (17%)
 ```
 
