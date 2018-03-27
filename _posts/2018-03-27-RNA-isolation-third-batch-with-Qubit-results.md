@@ -15,3 +15,8 @@ Here is Sam's notebook that I should have looked at wayyyy before starting this 
 [link](http://onsnetwork.org/kubu4/category/tanner-crab-rnaseq/)
 
 #### I see that Sam mixed the 2-propanol with the supernatant by inversion rather than vortex. I think I will start doing this instead, because the vortex is so powerful that the propanol often ends up leaking a little, and smearing the tube labels. 
+
+### Qubit results
+
+Used 5µL of sample from tubes 65 and 498. 65 was out of range, 498 was 1.8ng/µL.
+![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit/Qubit-third-batch.png)
