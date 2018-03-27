@@ -1,3 +1,5 @@
+## Updated RNA isolation protocol for crab hemolymph to be used starting tomorrow. Link: [here](https://github.com/grace-ac/project-crab/blob/master/protocols/RNA-isolation.md)
+
 ### RNA Isolation
 
 I had previously thought that RNAzol was a dye that binded to RNA... I double-checked with Sam, because I realized I never really asked, and after centrifuging, the RNAzol (blue) is often at the top of the tube, but sometimes it's in the middle or towards the bottom and I wasn't sure if I should be aiming for the blue when removing the supernatant for further processing. He said the RNAzol is actually salts and other stuff that helps RNA become isolated. So, when taking out the supernatant, it's ok if I get some blue, but I should aim for the clear liquid, while avoiding the bottom, becasue that's where the junk gets pelleted down to.
