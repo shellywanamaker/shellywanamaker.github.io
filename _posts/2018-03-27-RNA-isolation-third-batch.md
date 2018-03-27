@@ -13,3 +13,5 @@ Secondly, when adding 750µL of 2-propanol, I accidentally tipped tube #38 (firs
 
 Here is Sam's notebook that I should have looked at wayyyy before starting this process. I had forgotten that he did this on two crab samples a while back.
 [link](http://onsnetwork.org/kubu4/category/tanner-crab-rnaseq/)
+
+#### I see that Sam mixed the 2-propanol with the supernatant by inversion rather than vortex. I think I will start doing this instead, because the vortex is so powerful that the propanol often ends up leaking a little, and smearing the tube labels. 
