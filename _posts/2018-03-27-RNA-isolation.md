@@ -5,7 +5,7 @@ title: Oly gonad & larvae RNA isolation
 
 ### Gonad RNA isolation: 
 
-Gonad samples were fixed in PAXgene tissue fixative/stabilizer in April, 2017.  Sam previously extracted RNA from 12 samples, 6 of which were from the South Sound F1 groups. Today, I extracted the remaining South Sound gonad samples, using the same kit - [PAXgene fixed tissue RNA kit](https://github.com/laurahspencer/O.lurida_Stress/blob/master/References/PAXgene-Tissue-RNA-Kit-Handbok.pdf), following the instructions for for tissue in histology blocks.  I followed the kit procedure, with the following alterations:  
+Olympia oyster gonad samples were fixed in PAXgene tissue fixative/stabilizer in April, 2017, directly after removing them from pH treatments (~7.2, ~7.8 for 8wks; prior to the pH treatments animals had been in temperature treatments, 6C & 10C for 8wks).  Sam previously extracted RNA from 12 of my gonad samples, 6 of which were from the South Sound F1 groups. Today, I extracted (most of) the remaining South Sound gonad samples, using the same kit - [PAXgene fixed tissue RNA kit](https://github.com/laurahspencer/O.lurida_Stress/blob/master/References/PAXgene-Tissue-RNA-Kit-Handbok.pdf), following the instructions for for tissue in histology blocks.  I followed the kit procedure, with the following alterations:  
   * To homogenize: Added 1 spoonful of glass beads (autoclaved) to each sample, and vortexed for ~45 minutes on the vortexer speed 9 with the foam tube holder attachment.  At minute ~25, moved samples from the inside ring to the outside ring.  
   * Max centrifuge speed for steps 4, 7 & 12 = 13rpm
   * Max centrifuge speed for steps 22-24 = 15rpm 
