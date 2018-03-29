@@ -15,7 +15,7 @@ Gonad samples were fixed in PAXgene tissue fixative/stabilizer in April, 2017.  
 
 Quantified RNA using the [Qubit RNA assay](https://github.com/laurahspencer/O.lurida_Stress/blob/master/References/Qubit_RNA_HS_Assay_UG.pdf) with Qubit 3.0 Fluorometer.  Used 2.0ul of each sample for quantification.  Approximate RNA (ng) is calculated using concentration (ng/ul) in 46ul. 
 
-RNA Sample   # | Sample # | pH | Tissue Type | Sample date | Extraction Date | RNA   Concentration (ng/ul) | Approximate RNA (in ~46ul) | Notes
+RNA Sample   # | Sample # | pH | Tissue Type | Sample date | Extraction Date | RNA   Concentration (ng/ul) | Approximate ng RNA (in ~46ul) | Notes
 -- | -- | -- | -- | -- | -- | -- | -- | --
 1 | SN-6-16 | Low | Fixed Gonad | 4/8/17 | 3/27/18 | 17.5 | 805 |  
 2 | SN-6-17 | Low | Fixed Gonad | 4/8/17 | 3/27/18 | 84 | 3864 |  
