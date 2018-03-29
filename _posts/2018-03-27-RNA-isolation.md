@@ -48,6 +48,6 @@ x | SN-6-31 | Ambient | Fixed Gonad | 4/8/17 |   |   |   | Did not fully extr
 29 | SN-10-29 | Ambient | Fixed Gonad | 4/8/17 | 3/27/18 | 69 | 3174 |  
   | SN-10-30 | Ambient | Fixed Gonad | 4/8/17 |   |   |   | Did not fully extract   (ran out of columns)
   | SN-10-31 | Ambient | Fixed Gonad | 4/8/17 | 7/?/2017 |   |   | Did not do - already   sent to Katherine
-32 | SN-10-32 | Ambient | Fixed Gonad | 4/8/17 | 3/27/18 | Out of range | #VALUE! |  
+32 | SN-10-32 | Ambient | Fixed Gonad | 4/8/17 | 3/27/18 | Out of range - too high | #VALUE! |  
 33 | SN-10-33 | Ambient | Fixed Gonad | 4/8/17 | 3/27/18 | 47.6 | 2189.6 |  
 
