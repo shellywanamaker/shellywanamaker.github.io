@@ -3,7 +3,7 @@ layout: post
 title: April 3, 2018: RNA Isolation continued
 date: '2018-04-03'
 categories: bairdi
-tags: RNAisolation, Tannercrab, hemolymph, crabproject
+tags: RNAisolation, Tannercrab, hemolymph, crabproject, Qubit
 ---
 
 ### RNA Isolation
