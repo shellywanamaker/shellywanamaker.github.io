@@ -19,7 +19,7 @@ tags: crabproject, RNAisolation, Qubit, goals, Podcast
     - Come out with an episode each week
     
 - Data
-  - Organize into master spreadsheet - or at least start the process
+  - Organize into master spreadsheet - or at least start the process (morph data; qubit; EVERYTHING)
   - Add Qubit results to the spreadsheet containing the subset of samples that I'm working with to isolate RNA
   
     
