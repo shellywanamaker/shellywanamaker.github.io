@@ -15,8 +15,8 @@ tags: crabproject, RNAisolation, Qubit, goals, Podcast
   - Edit the three recordings I have that are about:
     - RNA isolation
     - Crab mtg #2
-    - Pam answering some of my specifc questions and explaining more background --> include this with the intro episode recording (Ep 1) which explains the background of the issue and how the project is/was set up
-    - Come out with an episode each week
+    - Background info on the project (Ep. 1)
+  - Come out with an episode each week
     
 - Data
   - Organize into master spreadsheet - or at least start the process (morph data; qubit; EVERYTHING)
