@@ -1,0 +1,28 @@
+---
+title: April Goals
+date: '2018-04-05'
+categories: bairdi, goals
+tags: crabproject, RNAisolation, Qubit, goals, Podcast
+---
+
+### April Goals
+
+- RNA Isolation
+  - Isolate RNA from all crabs within the subset I selected (2 more sets of 9 to go)
+  - Run Qubit on ALL of the isolated RNA samples from the subset I selected
+  
+- Podcast
+  - Edit the three recordings I have that are about:
+    - RNA isolation
+    - Crab mtg #2
+    - Pam answering some of my specifc questions and explaining more background --> include this with the intro episode recording (Ep 1) which explains the background of the issue and how the project is/was set up
+    - Come out with an episode each week
+    
+- Data
+  - Organize into master spreadsheet - or at least start the process
+  - Add Qubit results to the spreadsheet containing the subset of samples that I'm working with to isolate RNA
+  
+    
+ 
+    
+     
