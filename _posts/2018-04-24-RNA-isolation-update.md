@@ -13,6 +13,8 @@ Today I did the last set of 9 (I mistakenly thought I did this a few weeks ago, 
 
 I am now trying to organize my data sheets so that I can have a more streamlined and readable format for my data. I have run the Qubit on all the samples I have isolated so far.
 
+This is my OWL notebook folder with ALL of my Qubit data sheets: [here](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit/). It's awful and a mess. 
+
 Once I have things organized and a clear idea of which sets had Qubit readings of "Out of Range", I'll go back and pick new samples to replace those until I have a good subset that ALL have Qubit readings of at LEAST 20ng/uL with a total volume of 50uL.
 
 ### This week:
