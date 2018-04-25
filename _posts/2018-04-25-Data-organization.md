@@ -29,3 +29,7 @@ So what this all did for me, was get the Qubit RNA concentration data from the Q
 I did sample 469 on the Qubit TWICE, instead of doing 496... so I will Qubit 496 real quick, and then have all of my samples in the subset with Qubit results.
 
 Then, I will organize the spreadsheet and then pick new samples to replace the ones that have Qubit results of "0" (Out of range). 
+
+### Replacement samples for RNA isolation (10 crabs; 30 samples; 4 batches)
+Pam will be able to watch how it's done tomorrow. 
+![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/replacement-samples-for-rna-iso.png)
