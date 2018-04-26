@@ -32,4 +32,6 @@ Then, I will organize the spreadsheet and then pick new samples to replace the o
 
 ### Replacement samples for RNA isolation (10 crabs; 30 samples; 4 batches)
 Pam will be able to watch how it's done tomorrow.    
+
+These were chosen to replace the samples that had an "Out of range" ("0") Qubit reading. Because the crabs have three samples each, I had to pick three new samples for each sample that read "Out of range". 
 ![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/replacement-samples-for-rna-iso.png)
