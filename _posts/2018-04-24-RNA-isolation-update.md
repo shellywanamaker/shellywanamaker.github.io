@@ -17,6 +17,10 @@ This is my OWL notebook folder with ALL of my Qubit data sheets: [here](http://o
 
 Once I have things organized and a clear idea of which sets had Qubit readings of "Out of Range", I'll go back and pick new samples to replace those until I have a good subset that ALL have Qubit readings of at LEAST 20ng/uL with a total volume of 50uL.
 
+### Qubit "working solution" ratio
+For one of my Qubit batches, I accidentally did a little more than a 1:200 ratio of the Qubit reagent and buffer for the "working solution". It ended up being 0.00549725 ratio instead of 0.005. Sam said that this isn't a huge issue because I just ended up putting a little more dye into the mix. The bad thing would have been if the tube volume in the Qubit tubes was more than 200µL, because the whole reading is based on the 200µL final volume. Luckily, that has not happened! But for note-keeping, the image below is of the tube Qubit results for which the "working solution" ratio was a little higher than 1:200 reagent and buffer:
+![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit/wrong-ratio-qubit.png)
+
 ### This week:
 
 - **Organize data sheets** and pick new samples to replace the "Out of range" sample sets
