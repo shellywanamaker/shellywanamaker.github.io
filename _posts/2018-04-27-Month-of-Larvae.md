@@ -4,7 +4,7 @@ title: Oly temp experiment: 29 days of larvae
 ---
 
 ## Larval production 
-Larval production data are in! It's been 1 month of collecting and counting larvae released from four broodstock treatments, held for 3 months at the following, then induced to spawn under common conditions - 18C, food at libitum. 
+Larval production data are in! It's been 1 month of collecting and counting larvae released from four broodstock treatments, held for 3 months at the following, then induced to spawn under common conditions - 18C, food ad libitum. 
   * Low food, low temp (~7C)  
   * Low food, high temp (~10C)  
   * High food, low temp (~7C)  
