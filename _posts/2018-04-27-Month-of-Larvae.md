@@ -60,7 +60,9 @@ To assess larval viability, I am rearing 12 families per broodstock treatment, 3
 ![img_4296](https://user-images.githubusercontent.com/17264765/39393799-696dd3fc-4a7e-11e8-914e-abdeddfc1832.JPG)
 
 ## Water Changes 
-Daily water changes are performed for the first 3 weeks for larval rearing mini-silo. Water changes include: collect 1L each diatom (CM) and flagellate (609) from the algae carboys (usually void of ciliates), dilute with 6-8L FSW and count subsamples to determine algae concentration.  Then, mix 30 gallons FSW + algae mix (determined via the below equation) for a 100,000 cells/mL medium. Fill tripours with 800mL mix, and transfer silos to new medium.  At 3 weeks, water changes move to every other day. At week 6 I will move larvae into nylon mesh patches made from 450uM screen. 
+Daily water changes are performed for the first 3 weeks for larval rearing mini-silo. Water changes include: collect 1L each diatom (CM) and flagellate (609) from the algae carboys (to ensure algae is void of ciliates), dilute with 6-8L FSW and count subsamples to determine algae concentration.  Then, mix 30 gallons FSW + algae mix (determined via the below equation) for a 100,000 cells/mL medium. Fill tripours with 800mL mix, and transfer silos to new medium.  At 3 weeks, water changes move to every other day. At week 6 I will move larvae into nylon mesh patches made from 450uM screen. 
+
+Volume Algae = (100,000 cells/mL) * (30 gal) / (algae concentration - 100,000 cells/mL) 
 
 ## Metrics    
   * Broodstock gonad sex & stage over time from November 30 -> March 23rd. 8 sampling dates for treatment groups, and 7 dates for Olys collected directly from Mud Bay on same day  
