@@ -3,6 +3,8 @@ layout: post
 title: Oly temp experiment, 29 days of larvae
 ---
 
+![img-4076](https://user-images.githubusercontent.com/17264765/39394202-ef215370-4a83-11e8-8d2e-4a660b2e6102.JPG)
+
 ## Larval production 
 Larval production data are in! It's been 1 month of collecting and counting larvae released from four broodstock treatments, held for 3 months at the following, then induced to spawn under common conditions - 18C, food ad libitum. 
   * Low food, low temp (~7C)  
