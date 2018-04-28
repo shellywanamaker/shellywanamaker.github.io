@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oly temp experiment: 29 days of larvae
+title: Oly temp experiment, 29 days of larvae
 ---
 
 ## Larval production 
