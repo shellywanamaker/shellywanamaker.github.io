@@ -167,10 +167,90 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 --path_to_bowtie /gscratch/srlab/programs/bowtie2-2.1.0 \
 -p 28 \
 -multicore 4 \
+-u 10000 \
 /gscratch/srlab/sr320/data/hi-c \
 -1 /gscratch/srlab/sr320/data/0504/{}_R1_001.fastq.gz \
 -2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
 ```
+
+This took 7 hours on Mox. Mapping efficiency a little less that 20%. 
+Will modify min score. `--score_min L,0,-0.9`
+
+```
+#SBATCH --workdir=/gscratch/srlab/sr320/analyses/0512
+
+source /gscratch/srlab/programs/scripts/paths.sh
+
+find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
+| xargs basename -s _R1_001.fastq.gz | xargs -I{} /gscratch/srlab/programs/Bismark-0.19.0/bismark \
+--path_to_bowtie /gscratch/srlab/programs/bowtie2-2.1.0 \
+--score_min L,0,-0.9 \
+-p 28 \
+-u 10000 \
+-multicore 4 \
+/gscratch/srlab/sr320/data/hi-c \
+-1 /gscratch/srlab/sr320/data/0504/{}_R1_001.fastq.gz \
+-2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
+```
+
+Mapping efficiency increased
+
+```
+Mapping efficiency:	59.6% 
+Mapping efficiency:	58.5% 
+Mapping efficiency:	57.9% 
+Mapping efficiency:	58.2% 
+Mapping efficiency:	57.6% 
+Mapping efficiency:	59.2% 
+Mapping efficiency:	59.3% 
+Mapping efficiency:	58.7% 
+Mapping efficiency:	54.2% 
+Mapping efficiency:	56.8% 
+Mapping efficiency:	54.6% 
+Mapping efficiency:	56.0% 
+Mapping efficiency:	57.5% 
+Mapping efficiency:	43.4% 
+Mapping efficiency:	50.4% 
+Mapping efficiency:	42.0% 
+Mapping efficiency:	48.4% 
+Mapping efficiency:	51.4% 
+Mapping efficiency:	42.3% 
+Mapping efficiency:	41.7% 
+Mapping efficiency:	41.4% 
+Mapping efficiency:	55.6% 
+Mapping efficiency:	51.9% 
+Mapping efficiency:	46.1% 
+Mapping efficiency:	42.5% 
+Mapping efficiency:	52.9% 
+Mapping efficiency:	49.2% 
+Mapping efficiency:	53.2% 
+Mapping efficiency:	53.8% 
+Mapping efficiency:	49.8% 
+Mapping efficiency:	48.3% 
+Mapping efficiency:	47.3% 
+Mapping efficiency:	39.0% 
+Mapping efficiency:	37.8% 
+Mapping efficiency:	55.0% 
+Mapping efficiency:	41.7% 
+Mapping efficiency:	42.4% 
+Mapping efficiency:	26.1% 
+Mapping efficiency:	27.4% 
+Mapping efficiency:	31.5% 
+Mapping efficiency:	49.3% 
+Mapping efficiency:	46.8% 
+Mapping efficiency:	42.6% 
+Mapping efficiency:	45.0% 
+Mapping efficiency:	32.5% 
+Mapping efficiency:	52.8% 
+Mapping efficiency:	43.6% 
+Mapping efficiency:	47.3% 
+Mapping efficiency:	40.4% 
+Mapping efficiency:	45.9% 
+Mapping efficiency:	50.1% 
+Mapping efficiency:	39.4% 
+Mapping efficiency:	17.3% 
+```
+
 
 
 
