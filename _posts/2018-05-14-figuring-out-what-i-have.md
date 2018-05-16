@@ -28,7 +28,7 @@ A second column is "pos_neg_no_quant" and has "POS" for infected, and "NEG" for 
 
 A third column is "pos_neg" and has "pos" for infected, and "neg" for uninfected and "0" as a placeholder for empty cells.
 
-I can't really figure out based on Pam's email responses to my questions what the difference between POS and pos and NEG and neg are... I'll show Sam what she sent me and maybe we can figure it out together on Wednesday.
+On the "Notes" tab of [qPCR_Qubit_results_to_Grace_050818.xlsx](https://github.com/RobertsLab/project-crab/blob/master/data/qPCR_Qubit_results_to_Grace_050818.xlsx) from Pam, it is explained that the POS and NEG are for the samples that do not have acceptable standard deviations, and thus no quantification, but are very clearly POS or NEG for _Hemaatodinium sp._ infection. The "pos" and "neg" are for those that have a sample Cq mean that exceeds the lowest concentration standard mean Cq (neg) or not (pos).
 
 But, by the end of this week for sure, I will have a visual of all the good samples that I have within the different categories of treatments (infected, uninfected: cold, amb, and warm) and at all three sample dates so that I will know whether I need to isolate more samples, or if we can start preparing more seriously for sending them for sequencing. 
 
