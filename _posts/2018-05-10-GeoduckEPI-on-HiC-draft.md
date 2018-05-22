@@ -251,6 +251,63 @@ Mapping efficiency:	39.4%
 Mapping efficiency:	17.3% 
 ```
 
+---
+
+Then went full fun
+
+```
+#SBATCH --workdir=/gscratch/srlab/sr320/analyses/0513
+
+source /gscratch/srlab/programs/scripts/paths.sh
+
+find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
+| xargs basename -s _R1_001.fastq.gz | xargs -I{} /gscratch/srlab/programs/Bismark-0.19.0/bismark \
+--path_to_bowtie /gscratch/srlab/programs/bowtie2-2.1.0 \
+--score_min L,0,-0.9 \
+-p 28 \
+-multicore 4 \
+/gscratch/srlab/sr320/data/hi-c \
+-1 /gscratch/srlab/sr320/data/0504/{}_R1_001.fastq.gz \
+-2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
+````
+
+It seemed to end
+
+```
+[sr320@mox1 0513]$ cat *.txt | grep "Mapping"
+Mapping efficiency:	60.1% 
+Mapping efficiency:	58.5% 
+Mapping efficiency:	57.9% 
+Mapping efficiency:	58.4% 
+Mapping efficiency:	57.5% 
+Mapping efficiency:	59.8% 
+Mapping efficiency:	59.7% 
+Mapping efficiency:	58.9% 
+```
+
+Now running with 30k version of genome
+
+```
+#SBATCH --workdir=/gscratch/srlab/sr320/analyses/0515
+
+source /gscratch/srlab/programs/scripts/paths.sh
+
+find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
+| xargs basename -s _R1_001.fastq.gz | xargs -I{} /gscratch/srlab/programs/Bismark-0.19.0/bismark \
+--path_to_bowtie /gscratch/srlab/programs/bowtie2-2.1.0 \
+--score_min L,0,-0.9 \
+-p 28 \
+-multicore 4 \
+/gscratch/srlab/sr320/data/hi-c_30k \
+-1 /gscratch/srlab/sr320/data/0504/{}_R1_001.fastq.gz \
+-2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
+```
+
+at 05-22-18 it had run `6-21:11:47` with about 33 complete. 
+
+
+
+
 
 
 
