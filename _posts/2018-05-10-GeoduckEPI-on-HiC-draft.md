@@ -305,6 +305,32 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 
 at 05-22-18 it had run `6-21:11:47` with about 33 complete. 
 
+---
+UPDATE: 05-25-18- completed. So about 10 days. 
+
+output:       
+ http://gannet.fish.washington.edu/seashell/bu-mox/analyses/0515/
+
+--- 
+Next step
+
+```
+#SBATCH --workdir=/gscratch/srlab/sr320/analyses/0525
+
+source /gscratch/srlab/programs/scripts/paths.sh
+
+
+/gscratch/srlab/programs/Bismark-0.19.0/deduplicate_bismark \
+--bam -p \
+/gscratch/srlab/sr320/analyses/0515/*.bam
+
+
+
+find /gscratch/srlab/sr320/analyses/0525/*deduplicated.bam \
+| xargs basename -s _R1_001_bismark_bt2_pe.deduplicated.bam | xargs -I{} /gscratch/srlab/programs/samtools-1.4/samtools \
+sort -@ 28 {}_R1_001_bismark_bt2_pe.deduplicated.bam \
+-o /gscratch/srlab/sr320/analyses/0525/{}_dedup.sorted.bam
+```
 
 
 
