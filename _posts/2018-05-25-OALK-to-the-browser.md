@@ -1,7 +1,7 @@
 
 
 Working in Rmd, here is getting some DMLs into IGV format.
-
+TLDR - https://raw.githubusercontent.com/sr320/nb-2018/master/C_virginica/R/0510/analyses/dml05251200.bed
 
 
 <html xmlns="http://www.w3.org/1999/xhtml">
