@@ -1,3 +1,10 @@
+---
+layout: post
+title: February Goals
+date: '2018-02-05'
+categories: MonthlyGoals
+---
+
 I would have made this post on the actual first day of February, but I have been sick - the neverending cold. 
 Anyway, for this short month I have some goals I'd like to achieve:
 
