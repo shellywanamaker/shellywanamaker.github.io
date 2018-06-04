@@ -9,6 +9,8 @@ Ran a short term acute low pH stress trial on a subset of my Fidalgo Bay and Oys
 
 The acute OA exposure was 7.0 pH, with control at pH 8.16. I selected 2 Oly subpopulations from my 2017 seed:  Fidalgo Bay (NF), and my South Sound (SN, from Oyster Bay) oysters from the 2017 mini-silo experiment.  NF was selected because they showed a phenotypic difference (lower survival) associated with parental low pH exposure.  SS was selected because they did not; the mini-silo animals from the SS population were selected because they likely have the least degree of genetic difference within treatments, as they were pulled from a single larval release date. 
 
+Sample key and water quality data are currently housed in this [Acute-OA-Trial.xlsx Excel file](https://github.com/laurahspencer/O.lurida_Stress/blob/master/Data/Acute-OA-Trial.xlsx)  
+
 ## Schedule of events 
 
 Picked up oysters from Manchester, 8 groups in total, and transferred to Point Whitney hatchery:  
