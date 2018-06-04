@@ -32,3 +32,6 @@ Day 26
 (10) Cold, uninfected      
 (11) Ambient, infected      
 (12) Cold, infected       
+
+The Day 12 and 26 pools were easy to pick.    
+The Day 9 pools are based on the Avg_startq_day01 column. The uninfected samples were selected based on the lowest starting quantity, and happened to be crabs that ended up in the three different temperature treatments. The same was done with the infected Day 9 samples, except that I selected based on the highest starting quantity. 
