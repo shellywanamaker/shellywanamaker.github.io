@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Acute OA Exposure on 2017 Oly seed
+tags: Oly Acute OA Exposure 
 ---
 
 ## June 1st, 2018
