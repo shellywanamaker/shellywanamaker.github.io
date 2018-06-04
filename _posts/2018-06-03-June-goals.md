@@ -2,7 +2,7 @@
 layout: post
 title: June Goals
 date: '2018-06-03'
-category: Goals
+category: MonthlyGoals
 tags: Crabproject, DIA, Oysterseed, goals
 ---
 
