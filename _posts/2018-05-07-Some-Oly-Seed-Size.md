@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Where are they now? 
+tags: Oly 2017 Stress Offspring
+category: Oly 2017 Experiment 
 --- 
 
 ### 9 months later ... where are they now?
