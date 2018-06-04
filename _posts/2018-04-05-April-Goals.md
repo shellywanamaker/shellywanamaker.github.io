@@ -3,9 +3,10 @@ title: April Goals
 date: '2018-04-05'
 categories: [MonthlyGoals, bairdi]
 tags: crabproject, RNAisolation, Qubit, goals, Podcast
+
 ---
 
-### April Goals
+
 
 - RNA Isolation
   - Isolate RNA from all crabs within the subset I selected (2 more sets of 9 to go)
