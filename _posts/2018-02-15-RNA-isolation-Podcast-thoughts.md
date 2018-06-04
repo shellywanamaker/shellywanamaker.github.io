@@ -1,3 +1,14 @@
+---
+layout: post
+title: RNA isolation, Podcast thoughts, and DIA protocol
+date: '2018-02-15'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolation, Podcast, DIA
+---
+
+Updates on RNA isolation; Podcast thoughts and subject matter thoughts; restarting the DIA analysis with the correct files. 
+
+
 ### RNA isolation
 I am either blind or we don't have it, but I could not find RNAzol RT. I found all the other reagents needed, but not the RNAzol. I thought I saw it, but it was DNAzol. So the RNA isolation has to wait until either someone proves me wrong and finds it, or we order more.
 
