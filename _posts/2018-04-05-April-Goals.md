@@ -1,8 +1,7 @@
 ---
 title: April Goals
 date: '2018-04-05'
-categories: bairdi
-categories: MonthlyGoals
+categories: [MonthlyGoals, bairdi]
 tags: crabproject, RNAisolation, Qubit, goals, Podcast
 ---
 
