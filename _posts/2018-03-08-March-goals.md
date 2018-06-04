@@ -1,4 +1,11 @@
-## March Goals
+---
+layout: post
+title: March Goals
+date: '2018-03-08'
+categories: MonthlyGoals
+---
+My goals for this month are to continue my current work. I also look back on how I did in February. 
+
 - Isolate crab hemolymph RNA
 - Weekly Podcasts
 - DIA on 2015 Oysterseed experiment (make some headway on this)
