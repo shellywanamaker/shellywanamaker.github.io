@@ -1,3 +1,14 @@
+---
+layout: post
+title: Weekly wrap-up and goals for next week
+date: '2018-02-23'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolation, DIA
+---
+
+Revisiting what I did last week and my goals for next week: DIA, podcast, RNA isolation.
+
+
 This week I determined if I isolated RNA (detectable in one, not in the other).
 
 I also worked on and finished my proposal for my FISH 521 Proposal writing class. This proved to be an incredibly helpful way to become more familiar with my project.
