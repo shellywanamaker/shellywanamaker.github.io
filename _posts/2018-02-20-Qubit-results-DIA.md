@@ -1,3 +1,14 @@
+---
+layout: post
+title: Running Qubit for the first time, and continuing DIA analysis
+date: '2018-02-20'
+categories: [bairdi, 2015Oysterseed]
+tags: Qubit, DIA
+---
+
+Today I tested out Qubit for the first time as well as moving on to step 4 in the DIA protocol.
+
+
 ## Qubit
 
 I followed the protocol for Qubit to see if the two samples I processed on Friday contain any RNA.
