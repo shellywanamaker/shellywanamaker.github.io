@@ -109,4 +109,6 @@ http://owl.fish.washington.edu/halfshell/bu-serine-wd/18-05-10/
 [raw](https://raw.githubusercontent.com/sr320/sr320.github.io/master/_posts/2018-05-22-OAKLy-doekly.md)
 
 
-
+---
+<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>{%endif%}{% endfor %}</ul>
+{% endfor %}
