@@ -1,3 +1,10 @@
+---
+layout: post
+title: Crab Meeting #1 Notes
+date: '2018-03-01'
+categories: bairdi
+tags: RNAisolation
+---
 Today we had our first crab project meeting. Our plan is to meet the first Thursday of the month (subject to change if need be).
 
 ### RNA isolation
