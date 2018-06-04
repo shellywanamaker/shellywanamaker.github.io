@@ -1,3 +1,13 @@
+---
+layout: post
+title: Podcast thoughts and Crab hemoolymph samples
+date: '2018-01-26'
+categories: bairdi
+---
+
+Initial info on making a Podcast from Audacity workshop at UW and Crab Hemolymph samples next steps - testing out the RNA isolation protocol.
+
+
 ## Podcast
 
 I stopped by the [UW Student Technology Loan Program](https://stlp.uw.edu/#/equipment) in the basement of Kane Hall. I asked for recommendations on equipment for creating and publishing a podcast. I was recommended three different kind of audio recorders and have rented all three so that we can do trial runs to determine what we'd like to purchase. The three are 
