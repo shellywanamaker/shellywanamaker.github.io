@@ -1,3 +1,10 @@
+---
+layout: post
+title: RNA isolation 
+date: '2018-02-28'
+categories: bairdi
+tags: RNAisolation
+---
 Today I began the process of isolating RNA from the "official" crab hemolymph samples, although they can change if I mess things up, because there are many extra samples. 
 
 There are going to be 56 total samples (which will be pooled into 14), so I separated them into 7 groups of 8.
