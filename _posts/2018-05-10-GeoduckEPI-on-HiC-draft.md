@@ -1,3 +1,11 @@
+---
+layout: post
+title: Geoduck-EPI on Hi-C Draft
+date: '2018-05-10'
+category: Geoduck
+tags: bismark
+---
+
 As a better assembly is coming online for the Geoduck, we have started to look at Bismark mapping of prior samples.
 
 For a refresh there are 50 samples (or 53)
@@ -22,26 +30,26 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 About 17 completed
 
 ```
-0505/EPI-103_S27_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.6% 
-0505/EPI-104_S28_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.8% 
-0505/EPI-111_S29_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.6% 
-0505/EPI-113_S30_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.8% 
-0505/EPI-119_S31_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.9% 
-0505/EPI-120_S32_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	29.2% 
-0505/EPI-127_S33_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	29.3% 
-0505/EPI-128_S34_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.9% 
-0505/EPI-135_S35_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	25.4% 
-0505/EPI-135WG_S42_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	26.8% 
-0505/EPI-136_S36_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	25.1% 
-0505/EPI-143_S37_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.4% 
-0505/EPI-145_S38_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.3% 
-0505/EPI-41_S38_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	19.5% 
-0505/EPI-42_S39_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	22.2% 
-0505/EPI-43_S40_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	17.5% 
-0505/EPI-44_S41_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	7.9% 
+0505/EPI-103_S27_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.6%
+0505/EPI-104_S28_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.8%
+0505/EPI-111_S29_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.6%
+0505/EPI-113_S30_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.8%
+0505/EPI-119_S31_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.9%
+0505/EPI-120_S32_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	29.2%
+0505/EPI-127_S33_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	29.3%
+0505/EPI-128_S34_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.9%
+0505/EPI-135_S35_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	25.4%
+0505/EPI-135WG_S42_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	26.8%
+0505/EPI-136_S36_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	25.1%
+0505/EPI-143_S37_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	27.4%
+0505/EPI-145_S38_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	28.3%
+0505/EPI-41_S38_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	19.5%
+0505/EPI-42_S39_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	22.2%
+0505/EPI-43_S40_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	17.5%
+0505/EPI-44_S41_L005_R1_001_bismark_bt2_PE_report.txt:Mapping efficiency:	7.9%
 ```
 
-Not clear if this was a system error or not, thus running a `-u 10000` to see if I can get all samples processed. 
+Not clear if this was a system error or not, thus running a `-u 10000` to see if I can get all samples processed.
 
 
 ---
@@ -173,7 +181,7 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 -2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
 ```
 
-This took 7 hours on Mox. Mapping efficiency a little less that 20%. 
+This took 7 hours on Mox. Mapping efficiency a little less that 20%.
 Will modify min score. `--score_min L,0,-0.9`
 
 ```
@@ -196,59 +204,59 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 Mapping efficiency increased
 
 ```
-Mapping efficiency:	59.6% 
-Mapping efficiency:	58.5% 
-Mapping efficiency:	57.9% 
-Mapping efficiency:	58.2% 
-Mapping efficiency:	57.6% 
-Mapping efficiency:	59.2% 
-Mapping efficiency:	59.3% 
-Mapping efficiency:	58.7% 
-Mapping efficiency:	54.2% 
-Mapping efficiency:	56.8% 
-Mapping efficiency:	54.6% 
-Mapping efficiency:	56.0% 
-Mapping efficiency:	57.5% 
-Mapping efficiency:	43.4% 
-Mapping efficiency:	50.4% 
-Mapping efficiency:	42.0% 
-Mapping efficiency:	48.4% 
-Mapping efficiency:	51.4% 
-Mapping efficiency:	42.3% 
-Mapping efficiency:	41.7% 
-Mapping efficiency:	41.4% 
-Mapping efficiency:	55.6% 
-Mapping efficiency:	51.9% 
-Mapping efficiency:	46.1% 
-Mapping efficiency:	42.5% 
-Mapping efficiency:	52.9% 
-Mapping efficiency:	49.2% 
-Mapping efficiency:	53.2% 
-Mapping efficiency:	53.8% 
-Mapping efficiency:	49.8% 
-Mapping efficiency:	48.3% 
-Mapping efficiency:	47.3% 
-Mapping efficiency:	39.0% 
-Mapping efficiency:	37.8% 
-Mapping efficiency:	55.0% 
-Mapping efficiency:	41.7% 
-Mapping efficiency:	42.4% 
-Mapping efficiency:	26.1% 
-Mapping efficiency:	27.4% 
-Mapping efficiency:	31.5% 
-Mapping efficiency:	49.3% 
-Mapping efficiency:	46.8% 
-Mapping efficiency:	42.6% 
-Mapping efficiency:	45.0% 
-Mapping efficiency:	32.5% 
-Mapping efficiency:	52.8% 
-Mapping efficiency:	43.6% 
-Mapping efficiency:	47.3% 
-Mapping efficiency:	40.4% 
-Mapping efficiency:	45.9% 
-Mapping efficiency:	50.1% 
-Mapping efficiency:	39.4% 
-Mapping efficiency:	17.3% 
+Mapping efficiency:	59.6%
+Mapping efficiency:	58.5%
+Mapping efficiency:	57.9%
+Mapping efficiency:	58.2%
+Mapping efficiency:	57.6%
+Mapping efficiency:	59.2%
+Mapping efficiency:	59.3%
+Mapping efficiency:	58.7%
+Mapping efficiency:	54.2%
+Mapping efficiency:	56.8%
+Mapping efficiency:	54.6%
+Mapping efficiency:	56.0%
+Mapping efficiency:	57.5%
+Mapping efficiency:	43.4%
+Mapping efficiency:	50.4%
+Mapping efficiency:	42.0%
+Mapping efficiency:	48.4%
+Mapping efficiency:	51.4%
+Mapping efficiency:	42.3%
+Mapping efficiency:	41.7%
+Mapping efficiency:	41.4%
+Mapping efficiency:	55.6%
+Mapping efficiency:	51.9%
+Mapping efficiency:	46.1%
+Mapping efficiency:	42.5%
+Mapping efficiency:	52.9%
+Mapping efficiency:	49.2%
+Mapping efficiency:	53.2%
+Mapping efficiency:	53.8%
+Mapping efficiency:	49.8%
+Mapping efficiency:	48.3%
+Mapping efficiency:	47.3%
+Mapping efficiency:	39.0%
+Mapping efficiency:	37.8%
+Mapping efficiency:	55.0%
+Mapping efficiency:	41.7%
+Mapping efficiency:	42.4%
+Mapping efficiency:	26.1%
+Mapping efficiency:	27.4%
+Mapping efficiency:	31.5%
+Mapping efficiency:	49.3%
+Mapping efficiency:	46.8%
+Mapping efficiency:	42.6%
+Mapping efficiency:	45.0%
+Mapping efficiency:	32.5%
+Mapping efficiency:	52.8%
+Mapping efficiency:	43.6%
+Mapping efficiency:	47.3%
+Mapping efficiency:	40.4%
+Mapping efficiency:	45.9%
+Mapping efficiency:	50.1%
+Mapping efficiency:	39.4%
+Mapping efficiency:	17.3%
 ```
 
 ---
@@ -275,14 +283,14 @@ It seemed to end
 
 ```
 [sr320@mox1 0513]$ cat *.txt | grep "Mapping"
-Mapping efficiency:	60.1% 
-Mapping efficiency:	58.5% 
-Mapping efficiency:	57.9% 
-Mapping efficiency:	58.4% 
-Mapping efficiency:	57.5% 
-Mapping efficiency:	59.8% 
-Mapping efficiency:	59.7% 
-Mapping efficiency:	58.9% 
+Mapping efficiency:	60.1%
+Mapping efficiency:	58.5%
+Mapping efficiency:	57.9%
+Mapping efficiency:	58.4%
+Mapping efficiency:	57.5%
+Mapping efficiency:	59.8%
+Mapping efficiency:	59.7%
+Mapping efficiency:	58.9%
 ```
 
 Now running with 30k version of genome
@@ -303,15 +311,15 @@ find /gscratch/srlab/sr320/data/0504/EPI-*R1* \
 -2 /gscratch/srlab/sr320/data/0504/{}_R2_001.fastq.gz
 ```
 
-at 05-22-18 it had run `6-21:11:47` with about 33 complete. 
+at 05-22-18 it had run `6-21:11:47` with about 33 complete.
 
 ---
-UPDATE: 05-25-18- completed. So about 10 days. 
+UPDATE: 05-25-18- completed. So about 10 days.
 
 output:       
  http://gannet.fish.washington.edu/seashell/bu-mox/analyses/0515/
 
---- 
+---
 Next step
 
 ```
@@ -331,9 +339,3 @@ find /gscratch/srlab/sr320/analyses/0525/*deduplicated.bam \
 sort -@ 28 {}_R1_001_bismark_bt2_pe.deduplicated.bam \
 -o /gscratch/srlab/sr320/analyses/0525/{}_dedup.sorted.bam
 ```
-
-
-
-
-
-
