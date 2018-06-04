@@ -1,3 +1,14 @@
+---
+layout: post
+title: RNA isolation protocol testing and DIA analysis re-do
+date: '2018-02-16'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolaiton, DIA
+---
+
+I tested out the RNA isolation protocol for the first time today, as well as have run into some difficulty in re-doing the DIA protocol. 
+
+
 ## RNA isolation
 
 I (hopefully) successfully isolated RNA from samples 465 and 468 today! 
