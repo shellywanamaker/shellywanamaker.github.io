@@ -1,3 +1,14 @@
+---
+layout: post
+title: Finished Determining Error Rate for DIA
+date: '2018-01-17'
+category: 2015Oysterseed
+tags: DIA
+---
+
+Finished determining error rate for the DIA analysis and sent my results to Emma. Also, include some background info on the 2015 Oysterseed project. 
+
+
 Today I FINALLY finished error-checking peaks in Skyline.
 
 I sent my error-rates spreadsheet off to Emma. Hopefully it all looks good so that I can move on to the next steps.
