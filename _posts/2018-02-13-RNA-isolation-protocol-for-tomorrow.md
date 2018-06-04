@@ -1,3 +1,10 @@
+---
+layout: post
+title: RNA isolation protocol and plan for tomorrow
+date: '2018-02-13'
+categories: bairdi
+tags: RNAisolation
+---
 Tommorrow I will be trying out RNA isolation on 2 extra Tanner crab hemolymph samples.
 Try protocol with 2 samples: 465 and 468
 Both samples are yellow (from third sampling day) and are from crabs that are infected, immature, and held at ambient temperatures throughout the experiment. 
