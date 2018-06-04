@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Acute OA Exposure on 2017 Oly seed
-tags: Oly Acute OA Exposure 
+tags: Oly Acute OA Exposure transgenerational
 category: Oly 2018 Acute OA Experiment 
 ---
 
