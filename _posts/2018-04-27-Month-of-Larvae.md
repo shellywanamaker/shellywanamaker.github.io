@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Oly temp experiment, 29 days of larvae
+tags: Oly temperature exposure transgenerational 
+category: Oly 2018 Temperature Experiment
 ---
 
 ![img-4076](https://user-images.githubusercontent.com/17264765/39394202-ef215370-4a83-11e8-8d2e-4a660b2e6102.JPG)
