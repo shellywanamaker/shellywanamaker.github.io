@@ -2,6 +2,7 @@
 layout: post
 title: Acute OA Exposure on 2017 Oly seed
 tags: Oly Acute OA Exposure 
+category: Oly 2018 Acute OA Experiment 
 ---
 
 ## June 1st, 2018
