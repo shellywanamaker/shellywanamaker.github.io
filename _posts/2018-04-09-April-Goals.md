@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Whoa, April Goals
+category: goals
 ---
 
 Things have gotten away from me the past few weeks due to my Manchester experiment & planning for AU. Here is my to-do list, hoping this will help me re-group: 
