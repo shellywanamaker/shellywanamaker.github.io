@@ -1,3 +1,14 @@
+---
+layout: post
+title: 2015 Oysterseed DIA meeting notes
+date: '2018-02-08'
+categories: 2015Oysterseed
+tags: DIA
+---
+
+Notes from a meeting on DIA analysis and the 2015 oysterseed project with Emma, Steven, and Kaitlyn. 
+
+
 Steven, Kaitlyn, and I met with Emma today to discuss proteomics. I'm doing DIA with 2015 oysterseed data (from the [2015 project](https://github.com/RobertsLab/project-pacific.oyster-larvae/wiki/2015-Oyster-Seed-experiment-23C-vs.-29C)) and Kaitlyn is doing DDA with 2016 oyster data.
 
 [DIA protocol](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md)
