@@ -106,7 +106,7 @@ http://owl.fish.washington.edu/halfshell/bu-serine-wd/18-05-10/
 
 ---
 [quick-edit](https://github.com/sr320/sr320.github.io/edit/master/_posts/2018-05-22-OAKLy-doekly.md)       
-[raw](
+[raw](https://raw.githubusercontent.com/sr320/sr320.github.io/master/_posts/2018-05-22-OAKLy-doekly.md)
 
 
 
