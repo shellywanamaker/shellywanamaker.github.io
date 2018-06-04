@@ -3,10 +3,10 @@ layout: post
 title: June Goals
 date: '2018-06-03'
 category: MonthlyGoals
+category: NewCat
 tags: Crabproject, DIA, Oysterseed, goals
----
 
-## June Goals
+---
 
 2015 Oysterseed 
 - DIA error rates and move forward
