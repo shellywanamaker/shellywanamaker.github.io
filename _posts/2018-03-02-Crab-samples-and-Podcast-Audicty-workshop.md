@@ -1,3 +1,13 @@
+---
+layout: post
+title: Crab sample organization and Podcast Audacity Workshop notes
+date: '2018-03-02'
+categories: bairdi
+tags: Podcast
+---
+Today I worked on organization the hemolymph crab data and went to a workshop hosted by UW IT to learn about Audacity for Podcasts. 
+
+
 ### Crab sample organization  
 
 Today I am still working through organizing the crab sample data to follow individual crabs throughout the project. This will be used to help decide the pooling of samples after RNA is extracted. I have uploaded a mostly-organized spreadsheet to my Owl folder: [here](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/20180301-following-crab-samples.xlsx)
