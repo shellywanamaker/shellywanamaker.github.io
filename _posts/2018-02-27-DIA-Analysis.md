@@ -1,3 +1,14 @@
+---
+layout: post
+title: Moving forward with DIA and plan for RNA isolation
+date: '2018-02-27'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolation, DIA
+---
+
+Moving foward in DIA (confusion in determining error rate, so I'm stuck); plans for tomorrow and RNA isolation.
+
+
 ### DIA Analysis
 
 Today I moved forward with the 2015 oysterseed DIA analysis. I followed the [DIA Analysis Protocol](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md) and for [Step 4f](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4f-import-dia-data-into-skyline) I followed the instructions from Skyline's tutorial:
