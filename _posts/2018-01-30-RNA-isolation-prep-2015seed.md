@@ -1,3 +1,14 @@
+---
+layout: post
+title: RNA isolation prep and 2015 oysterseed DIA update
+date: '2018-01-30'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolation, DIA
+---
+
+I prep for RNA isolation and understanding the protocol, and continue with the 2015 Oysterseed DIA.
+
+
 ## RNA Isolation prep
 
 I will test out the [RNA isolation protocol](https://github.com/RobertsLab/resources/blob/master/protocols/rna_isolation_rnazol_rt.md) on some of the extra crab hemolymph samples we have stored in the -80. Since we are using hemolymph and not tissue, we will not need to use a mortar and pestle. Instead, I found this information regarding liquid samples:
