@@ -1,3 +1,14 @@
+---
+layout: post
+title: Determining error rate for DIA 2015 Oysterseed
+date: '2018-01-16'
+category: 2015Oysterseed
+tags: DIA
+---
+
+Update on error rate peak picking - confusion as to how to categorize correct and incorrect picks by Skyline. Includes tips from Laura. 
+
+
 I moved computers from Swan to Woodpecker. In order to be able to continue a project on a different computer, you need to File > Share > Complete. It becomes a .zip file. Upload to OWL. Open zip on new computer, and all the libraries and everything is included.
 
 I continued spot-checking the peaks. 
