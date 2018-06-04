@@ -6,11 +6,10 @@ category: OAKL
 tags: bismark, R, DML
 ---
 
-
-
-
 Full running of the OAKL samples.
 
+
+[quick-edit](https://github.com/sr320/sr320.github.io/edit/master/_posts/2018-05-22-OAKLy-doekly.md)
 
 
 First there was [this](https://github.com/sr320/nb-2018/blob/master/C_virginica/17-OAKL-fullpipe-mk.ipynb) where the alignment code was:
