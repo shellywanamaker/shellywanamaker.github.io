@@ -15,7 +15,7 @@ Steven, Kaitlyn, and I met with Emma today to discuss proteomics. I'm doing DIA 
 
 I learned some crucial things today that have changed the way I understand and how I will continue with this analysis.
 - The numbers on the .raw files next to "oysterseed" are the file numbers, NOT the sample numbers
-- FOUR samples were run, and four files are associated with each file
+- FOUR samples were run, and four files are associated with each sample
 
 Breakdown of oysterseed sample number and the four files associated with them:
 
