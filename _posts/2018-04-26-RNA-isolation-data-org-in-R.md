@@ -1,10 +1,11 @@
 ---
 layout: post
-title: April 26, 2018, RNA isolation and Data org
+title: RNA isolation and Data org
 date: '2018-04-26'
 category: bairdi
 tags: RNAisolation, organization
 ---
+More RNA isolation to replace those that had "out of range" RNA qubit results. Ended up contaminating them all, so unusable. Starting my journey of using R for data organization. 
 
 ### RNA Isolation
 
