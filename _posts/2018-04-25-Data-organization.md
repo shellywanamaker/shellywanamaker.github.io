@@ -1,10 +1,11 @@
 ---
 layout: post
-title: April 25, 2018, Data Organization
+title: Data Organization- info from Pam in excel
 date: '2018-04-25'
 category: bairdi
 tags: DataOrganization
 ---
+Today Pam showed me what she does in excel to move info from one spreadsheet into another based on a shared column. Plan for picking crabs to replace those that had "Out of range" qubit results (either no RNA in sample I pulled out; no hemolymph sampled in first place; or so little that it's below limit of detection. 
 
 ### Index - Match
 
