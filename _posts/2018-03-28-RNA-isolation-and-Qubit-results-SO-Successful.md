@@ -1,3 +1,13 @@
+---
+layout: post
+title: RNA iso with new protocol
+date: '2018-03-28'
+categories: bairdi
+tags: RNAisolation
+---
+Today I use the updated version of the RNA isolation protocol and find that it is so much better and isolating RNA than the generalized protocol. This one is based on what Sam did with extra samples from Sam in the fall of 2017. It adds some extra mixing and centrifuging steps that appear to be the key. Good results. 
+
+
 ### RNA Isolation
 
 Today I tested out the revised RNA isolation protocol (link: [here](https://github.com/grace-ac/project-crab/blob/master/protocols/RNA-isolation.md)). It adds a lot more centrifuging steps, which I think really helped.
