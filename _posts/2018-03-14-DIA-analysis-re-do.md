@@ -1,3 +1,12 @@
+---
+layout: post
+title: Re-do DIA, thinking about error rate determination
+date: '2018-03-14'
+categories: 2015Oysterseed
+tags: DIA
+---
+I re-do the DIA analysis from step one. I'm still unsure how to do error rate determination. The protocol is not clear on how to do this.
+
 I re-did the DIA analysis from the beginning. This time I only used settings used by Emma in her Skyline document that she sent me. 
 
 I think I must have done something better this time around, because a lot of the chromatograms are looking much better. Now I will do the error rate calculation and finally get into the data analysis after that. 
