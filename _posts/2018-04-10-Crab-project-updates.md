@@ -1,9 +1,10 @@
 ---
 layout: post
-title: April 10, 2018 Crab Project Updates
+title: Crab Project Updates
 categories: bairdi
-tags: RNAisolation, DecaPod, Qubit, updates, Pub-a-thon2018
+tags: RNAisolation, DecaPod, Qubit, updates, 
 ---
+Updates on RNA isolation and Qubit progress and DecaPod progress and plan. Finally post S1E1 on project background!
 
 ### Qubit and RNA isolation
 I ran Qubit yesterday on 14 tubes that I had previously isolated RNA from. The results are:
