@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June 3, 2018 Samples for Sequencing
+title: Samples for Sequencing
 date: '2018-06-03'
 category: bairdi
 tags: Sequencing
