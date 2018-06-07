@@ -1,3 +1,13 @@
+---
+layout: post
+title: Updates on RNA iso; podcast; DIA
+date: '2018-03-12'
+categories: [bairdi, 2016Oysterseed]
+tags: RNAisolation, DecaPod; DIA
+---
+
+Updates on RNA isolation sample picking; DecaPod; and DIA analysis progress.
+
 ### RNA Isolation Sample picking
 
 I picked some samples for RNA Isolation. I will begin tomorrow! Here is the link to the spreadsheet with the selected samples: [here](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/samples-for-RNA-isolation.xlsx)
