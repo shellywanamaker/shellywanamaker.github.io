@@ -1,10 +1,11 @@
 ---
 layout: post
-title: April 6, 2018 Qubit results and DecaPod episodes
+title: Qubit results and DecaPod episodes
 date: '2018-04-06'
 category: bairdi
 tags: crabproject, Qubit, DecaPod
 ---
+Result from Qubit of RNA isolation samples and new episode of DecaPod published! Episode on RNA isolation - S1E4.
 
 ### Qubit
 I did Qubit on 14 more samples today. I ran out of the RNA HS Reagent, so Pam will have to order more.
