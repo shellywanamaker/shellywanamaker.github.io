@@ -1,10 +1,11 @@
 ---
 layout: post
-title: April 5, 2018, Crab Project Updates
+title: Crab Project Updates
 date: '2018-04-05'
 categories: bairdi
-tags: crabproject, updates
+tags: Crabproject, updates
 ---
+Updates on RNA isolation progress, DecaPod progress, and Data management plan.
 
 ### RNA isolation
 I'll continue isolating the RNA from the subset of samples that I selected from crabs that survived the experiment.
