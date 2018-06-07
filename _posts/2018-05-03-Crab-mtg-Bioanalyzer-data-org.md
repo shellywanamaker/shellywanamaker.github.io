@@ -1,10 +1,11 @@
 ---
 layout: post
-title: May 3, 2018, Crab Meeting and Bioanalyzer
+title: Crab Meeting and Bioanalyzer
 date: '2018-05-03'
 category: bairdi
 tags: CrabMeeting, Bioanalyzer
 ---
+Today we had Crab meeting #3 and I tried out the bioanalyzer. 
 
 ### Crab Mtg #3
 
