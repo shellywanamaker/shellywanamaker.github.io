@@ -1,10 +1,11 @@
 ---
 layout: post
-title: April 29, 2018, RNA Isolation and DecaPod S1E6
+title: RNA Isolation and DecaPod S1E6
 date: '2018-04-29'
 category: bairdi
 tags: RNAisolation, Crabproject, DecaPod, Qubit
 ---
+RNA isolation over weekend to replace those that had "out of range". Edited and published S1E6 of DecaPod.
 
 ### RNA Isolations
 This weekend I did two sets of 9 isolations. I had to do these along with a few more sets in order to get a subset of samples that ALL have quantifiable RNA via the Qubit.
