@@ -1,10 +1,11 @@
 ---
 layout: post
-title: May 14, 2018, R and figuring out qPCR and DNA Qubit data
+title: R and figuring out qPCR and DNA Qubit data
 date: '2018-05-14'
 category: bairdi
 tags: Rscript
 ---
+Trying out a join in R to figure out what I have in terms of isolated RNA samples. 
 
 ### Data organization
 
