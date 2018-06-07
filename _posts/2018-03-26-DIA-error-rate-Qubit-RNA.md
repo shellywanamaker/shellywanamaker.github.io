@@ -1,3 +1,14 @@
+---
+layout: post
+title: Trying to understand error rate in Skyline and Running Qubit 
+date: '2018-03-26'
+categories: [bairdi, 2015Oysterseed]
+tags: DIA, RNAisolation, Qubit
+---
+
+Today I finish the error rate determination in Skyline and hope that I did it right so that I can move on with the DIA analysis. I also run Qubit to quanitify the RNA in my samples I extracted from. 
+
+
 ### DIA error rate
 
 I went through 100 randomly selected peptides to determine Skyline's error rate. 
