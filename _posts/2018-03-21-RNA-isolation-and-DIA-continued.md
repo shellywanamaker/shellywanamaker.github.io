@@ -1,3 +1,13 @@
+---
+layout: post
+title: Isolating RNA and trying to check Skyline error rates
+date: '2018-03-21'
+categories: [bairdi, 2015Oysterseed]
+tags: RNAisolation, DIA
+---
+I isolate RNA from another batch of 9 samples (3 crabs) and I try to understand what I'm doing in terms of determining peak-picking error rate.
+
+
 ### RNA Isolation
 
 I isolated RNA from 9 more samples:
