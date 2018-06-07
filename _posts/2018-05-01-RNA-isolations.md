@@ -1,10 +1,11 @@
 ---
 layout: post
-title: May 1, 2018, RNA Isolations continued
+title: RNA Isolations continued
 date: '2018-05-01'
 category: bairdi
 tags: RNAisolation, Crabproject, Qubit
 ---
+More RNA isolations and plan for data sheet organization for the week. Plan to try out Bioanalyzer. 
 
 ### RNA Isolations
 _First set_   
