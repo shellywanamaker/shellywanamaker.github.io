@@ -1,9 +1,11 @@
 ---
-title: April 4, 2018, RNA Isolation, continued
+layout: post
+title: RNA Isolation, continued, and plan for tomorrow
 date: '2018-04-04'
 categories: bairdi
 tags: RNAisolation, Tannercrab, hemolymph, crabproject, Qubit
 ---
+More RNA isolation - successful! Plan for tomorrow - Crab mtg #2 and work on DecaPod with Pam.
 
 Today I isolated RNA from the below samples:
 ![img](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/04042018-rna-samples.png)
