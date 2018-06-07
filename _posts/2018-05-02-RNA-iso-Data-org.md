@@ -1,10 +1,11 @@
 ---
 layout: post
-title: May 2, 2018, RNA Isolation and Data organization using R
+title: RNA Isolation and Data organization using R
 date: '2018-05-02'
 category: bairdi
 tags: RNAisolation, Qubit, organization
 ---
+Isolated MORE RNA, Yaamini helps me with organization in R. Plan for tomorrow. 
 
 ### RNA Isolation
 
