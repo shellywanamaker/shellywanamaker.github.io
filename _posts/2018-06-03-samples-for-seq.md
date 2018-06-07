@@ -5,6 +5,7 @@ date: '2018-06-03'
 category: bairdi
 tags: Sequencing
 ---
+Today I picked samples for sending off to get sequenced. Obviously I have to get this checked with everyone... and I'm guessing they'd rather see it in a spreadhseet form and not color-coded as I do now... have to figure out how to do this. 
 
 ## Sample selection
 
