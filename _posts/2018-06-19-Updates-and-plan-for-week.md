@@ -16,6 +16,8 @@ Here's link to GitHub issue: [here](https://github.com/RobertsLab/resources/issu
 My epiphany notes from today:    
 ![](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180619-notes.png)
 
+![img](../notebook-images/20180619-notes.png)
+
 
 ### Practicing with Trinity
 
