@@ -2,7 +2,7 @@
 layout: post
 title: Updates on RNA iso; podcast; DIA
 date: '2018-03-12'
-categories: [bairdi, 2016Oysterseed]
+categories: [bairdi, 2015Oysterseed]
 tags: RNAisolation, DecaPod; DIA
 ---
 
