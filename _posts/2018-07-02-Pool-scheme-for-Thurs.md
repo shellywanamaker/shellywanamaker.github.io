@@ -24,19 +24,19 @@ After these pools are sequenced and some targets are ID'ed, we can go in and do 
 Below are the details on how I am going to do the pools (very much subject to change as I get input from others):     
 
 ## Library #1 - Uninfected    
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-L1_uninfected.png)
+![img](../notebook-images/20180702-L1_uninfected.png)
 
 ## Library #2 - Infected     
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-L2_infected.png)
+![img](../notebook-images/20180702-L2_infected.png)
 
 ## MasterPool Library    
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-masterpool.png)
+![img](../notebook-images/20180702-masterpool.png)
 
 ### New Pool Plan in the big spreadsheet:  
 Pink: Library 1   
 Blue: Library 2   
 Green: MasterPool     
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-New-pool-plan.png)
+![img](../notebook-images/20180702-New-pool-plan.png)
 
 ## Next Steps
 If this all looks good, then we can move on to using the Speed Vac and then send them to get sequenced. 
