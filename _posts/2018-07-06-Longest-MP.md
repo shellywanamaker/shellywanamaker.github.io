@@ -1,11 +1,9 @@
-
-
-
 ---
 layout: post
 title: Longest Geoduck Mate-Pair Libraries
 date: '2018-07-06'
 ---
+
 
 In an effort to improve an assembly here is a compilation of MP libraries with longest insert sizes. Specifically this would be an insert size of 8-10kb
 
