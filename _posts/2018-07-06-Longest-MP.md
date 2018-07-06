@@ -15,7 +15,7 @@ We have sequence data from NovaSeq and HiSeq. The Index is `AD015`.
 ![pic](http://eagle.fish.washington.edu/cnidarian/skitch/Geoduck_Novaseq_Files_%E2%80%93_quarter-shell_%E2%80%93_Staging_for_my_Lab_Notebook_1F6C4E8E.png)
 
 
-From Novaseq
+From Novaseq (2 lanes)
 ```
 http://owl.fish.washington.edu/halfshell/working-directory/17-09-01/NR015_AD015_S6_L001_R1_001.fastq.gz
 http://owl.fish.washington.edu/halfshell/working-directory/17-09-01/NR015_AD015_S6_L001_R2_001.fastq.gz
