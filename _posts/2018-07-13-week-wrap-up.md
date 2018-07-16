@@ -15,17 +15,17 @@ Pools 1 and 2 were made by thawing all the tubes on ice. Vortex each tube 5s. Pi
 
 The third pool, "MasterPool" as it is preliminarily called, was made by calculating how many ul of sample should be put into the pool such that each sample contributed 200ng of RNA to the pool. The pool was created in the same way as pools 1 and 2, except there were different volumes from each of the ten samples.
 
-Pool #1               
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-L1_uninfected.png)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180713-pool1.jpg)
+Pool #1              
+![img](../notebook-images/20180702-L1_uninfected.png)
+![img](../notebook-images/20180713-pool1.jpg)
 
 Pool #2         
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180702-L2_infected.png)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180713-Pool2.jpg)
+![img](../notebook-images/20180702-L2_infected.png)
+![img](../notebook-images/20180713-Pool2.jpg)
 
 MasterPool
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180713-masterpool.png)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180713-MasterPool.jpg)
+![img](../notebook-images/20180713-masterpool.png)
+![img](../notebook-images/20180713-MasterPool.jpg)
 You may notice that the tube numbers are different from my post from July 2nd. That is because on that day, I accidentally grabbed the tube numbers from the RNAday12 columne instead of the RNAday26. Pam brought this to my attention and I revised and reviewed numerous times. Also, I rounded the pipette volumes to the nearest 0.1 ul. 
 
 ### ULTIMATE master crab spreadsheet
