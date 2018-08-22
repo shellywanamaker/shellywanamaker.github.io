@@ -57,6 +57,7 @@ If you want to play around with some data…
 
 - Geoduck Genome : [Genomic Resources · RobertsLab/resources Wiki · GitHub](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#panopea-generosa)
 - Lots of RRBS data (prefix `EPI` : [Index of /nightingales/P_generosa](http://owl.fish.washington.edu/nightingales/P_generosa/) ;[sample description · hputnam/project_juvenile_geoduck_OA · GitHub](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Setup_Notes/Sample_List.csv)
+- [manuscript draft](https://www.authorea.com/users/73479/articles/117835-environmental-memory-through-dynamic-dna-methylation-provides-acclimatization-of-geoduck-clams-to-ocean-acidification/_show_article) .   
 - Eastern Oyster Genome: [Genomic Resources · RobertsLab/resources Wiki · GitHub](https://github.com/RobertsLab/resources/wiki/Genomic-Resources#crassostrea-virginica)
 - Simple Oyster BS Comparison Data
 	- `http://owl.fish.washington.edu/halfshell/bu-serine-wd/18-04-10/oil/20150414_trimmed_2112_lane1_HB2_Oil_25000ppm_ATCACG.fastq.gz`
