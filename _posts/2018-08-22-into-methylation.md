@@ -21,7 +21,7 @@ Some good primary papers include
 - Gavery MR and Roberts SB. (2013) Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc PeerJ 1:e215. doi:[10.7717/peerj.215](https://peerj.com/articles/215/)
 
 
-There are few other relevant products
+There are a few other relevant products
 
 - Gavery M, Delrow J, Basom R, Roberts S (2015) Influence of 17α-ethinylestradiol on DNA methylation in oysters. [GitHub](https://github.com/sr320/paper-Oyster-EE2/blob/master/README.md)
 - Olson CE, Roberts SB (2015) Indication of family-specific DNA methylation patterns in developing oysters. *bioRxiv (preprint)*.  doi: https://doi.org/10.1101/012831
@@ -29,12 +29,12 @@ There are few other relevant products
 
 If you are looking for an older deep dive.
 
-- NSF Award:[DNA methylation as a mechanism to increase adaptive potential in invertebrates](https://figshare.com/articles/DNA_methylation_as_a_mechanism_to_increase_adaptive_potential_in_invertebrates/97107/1)
+- NSF Award: [DNA methylation as a mechanism to increase adaptive potential in invertebrates](https://figshare.com/articles/DNA_methylation_as_a_mechanism_to_increase_adaptive_potential_in_invertebrates/97107/1)
 
 ## Computational Approaches
-Jumping into into our Onboarding repo: [Computing · RobertsLab/onboarding Wiki · GitHub](https://github.com/RobertsLab/onboarding/wiki/Computing) is a good place to start.
+Jumping into our Onboarding repo: [Computing · RobertsLab/onboarding Wiki · GitHub](https://github.com/RobertsLab/onboarding/wiki/Computing) is a good place to start.
 
-Some examples of how we work can be  seen here [9 Ways to Make Papers a Little More Open and Reproducible – Roberts Lab](https://faculty.washington.edu/sr320/?p=11381)
+Some examples of how we work can be seen here [9 Ways to Make Papers a Little More Open and Reproducible – Roberts Lab](https://faculty.washington.edu/sr320/?p=11381)
 
 And a recent review
 Roberts and Gavery (2018) [OPPORTUNITIES IN FUNCTIONAL GENOMICS: A PRIMER ON LAB AND COMPUTATIONAL ASPECTS](http://eagle.fish.washington.edu/whale/pub/jsr37309_1r8rd0.pdf) . Journal of Shellfish Research, Vol. 37, No. 3, 1–8, 2018. DOI: 10.2983/035.037.0300
