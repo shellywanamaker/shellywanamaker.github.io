@@ -32,9 +32,9 @@ The gDNA and MSP libraries had methylation calls (no filters) at about 7% wherea
 
 None of this is too surprising. What is of most interest is for any given loci (CpG), what is the coverage and where are the loci. As for coverage given 100k reads...
 
-Library  |  3x   |  10x
+**Library**  |  **3x**   |  **10x**
 ---------|--------|-------
-01-gDNA	|	 742 | 17
+01-gDNA	|	 742 	| 17
 07-msp | 5153 | 227
 08-msp | 3943 | 169
 09-MBD | 	1170 | 10
