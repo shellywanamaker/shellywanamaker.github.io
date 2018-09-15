@@ -49,3 +49,14 @@ Library  |  3x   |  10x
 18-gDNA | 68 | 0
 19-gDNA | 98 | 0
 20-MBD | 813 | 8
+
+# IGV
+
+![igv](../images/igv-2.png)
+
+You can play with yourself with loading this session:
+```
+https://raw.githubusercontent.com/sr320/nb-2018/master/C_virginica/igv/Qiagen-0915-igv_session.xml
+```
+
+There a few more questions that could be tackled. Post in the comments if something comes to mind.
