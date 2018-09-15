@@ -59,4 +59,8 @@ You can play with yourself with loading this session:
 https://raw.githubusercontent.com/sr320/nb-2018/master/C_virginica/igv/Qiagen-0915-igv_session.xml
 ```
 
+![igvmov](../images/igv-mov.gif)
+
+
+
 There a few more questions that could be tackled. Post in the comments if something comes to mind.
