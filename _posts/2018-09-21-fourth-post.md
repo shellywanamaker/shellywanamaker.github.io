@@ -9,7 +9,7 @@ title: Fri. Sept 21, 2018
 2. Continue brainstorming ideas for october experiment  
 3. Complete [Bismark analysis](https://github.com/shellytrigg/C_virginica/blob/master/2018-09-18.ipynb)  
 	
-	### generated [Bismark report](zr2096_1_s1_R1_bismark_bt2_PE_report.html) after analysis comlpeted  
+	### generated [Bismark report](https://github.com/shellytrigg/C_virginica/blob/master/zr2096_1_s1_R1_bismark_bt2_PE_report.html) after analysis comlpeted  
 		
 4. Update on protein stuff from Kaitlyn @kaitlynrm   
 
