@@ -12,4 +12,4 @@ coming soon
 
 ### Contact me
 
-[satrigg@uw.edu](mailto:satrigg@uw.edu)
+[strigg@uw.edu](mailto:satrigg@uw.edu)
