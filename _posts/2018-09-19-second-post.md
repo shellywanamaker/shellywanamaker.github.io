@@ -5,7 +5,7 @@ title: Wed. Sept 19, 2018
 
 
 ### Progress on first Bismark analysis:  
--Found a way to do my analysis/write files to the server but keep my Jupyter notebook in my github desktop folder [see Jupyter notebook](https://github.com/shellytrigg/C_virginica/blob/master/2018-09-18.ipynb)  
+-Found a way to do my analysis/write files to the server but keep my Jupyter notebook in my github desktop folder [see Jupyter notebook](https://github.com/shellytrigg/C_virginica/blob/master/BismarkAlignmentParametersComparison.ipynb)  
 -still working on code for generating Bismark summary files  
 
     

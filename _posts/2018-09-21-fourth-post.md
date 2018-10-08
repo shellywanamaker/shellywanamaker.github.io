@@ -7,7 +7,7 @@ title: Fri. Sept 21, 2018
 ## My goals for today  
 1. Review geoduck literature and grant  
 2. Continue brainstorming ideas for october experiment  
-3. Complete [Bismark analysis](https://github.com/shellytrigg/C_virginica/blob/master/2018-09-18.ipynb)  
+3. Complete [Bismark analysis](https://github.com/shellytrigg/C_virginica/blob/master/BismarkAlignmentParametersComparison.ipynb)  
 	
 	### generated [Bismark report](http://gannet.fish.washington.edu/metacarcinus/Cvirginica/Bismark_attempt1/zr2096_1_s1_R1_bismark_bt2_PE_report.html) after analysis comlpeted  
 		
