@@ -9,6 +9,9 @@ title: Tues. Sept 25, 2018
 * Farewell lunch at noon  
 	- done  
 * Get everyone's thoughts on water chemistry data table for crab metabolomics paper  
-	- done  
+	- done 
+
+
+	 
 ----
 ****
