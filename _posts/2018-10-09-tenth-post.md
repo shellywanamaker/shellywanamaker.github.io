@@ -12,7 +12,9 @@ title: Tues. Oct 9, 2018
 	- then I [saved a csv file](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ACSAr_temp_loadings.csv) with the protein names and PC1 loadings values  
 	- [I made two plots of the PC1 loadings values in excel](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ACSAr_temp_loadings.xlsx) (this could have been done in R):  
 		- 1) ordered from highest to zero 
+		![](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/data_PC1_positive0.05_selects.png)
 		- 2) ordered from lowest to zero
+		!()[https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/data_PC1_positive0.05_selects.png]
 		* the reason for this was to identify proteins that explain the most variation in PC1
 		* based on the two plots I made a high and low loadings cut-off:
 			+ loadings value >= 0.05 or loadings value <= -0.05
