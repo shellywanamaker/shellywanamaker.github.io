@@ -12,9 +12,9 @@ title: Tues. Oct 9, 2018
 	- then I [saved a csv file](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ACSAr_temp_loadings.csv) with the protein names and PC1 loadings values  
 	- [I made two plots of the PC1 loadings values in excel](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ACSAr_temp_loadings.xlsx) (this could have been done in R):  
 		- 1) ordered from highest to zero  
-		![ASCA_PC1_positiveLoadings](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ASCA_PC1_positiveLoadings.png)   
+		![ASCA_PC1_positiveLoadings](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ASCA_PC1_positiveLoadings.png "ASCA_PC1_positiveLoadings")   
 		- 2) ordered from lowest to zero   
-		![ASCA_PC1_negativeLoadings](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ASCA_PC1_negativeLoadings.png)  
+		![ASCA_PC1_negativeLoadings](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/ASCA_PC1_negativeLoadings.png "ASCA_PC1_negativeLoadings")  
 		* the reason for this was to identify proteins that explain the most variation in PC1  
 		* based on the two plots I made a high and low loadings cut-off:  
 			+ loadings value >= 0.05 or loadings value <= -0.05  
@@ -25,13 +25,13 @@ title: Tues. Oct 9, 2018
 		- mean-centering  
 		- ran ASCA  
 			-model performance is worse than before and not different from random  
-			![ASCA model validation for temperature](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCA_modelValidationTemperature.png)   
-			![ASCA model validation for time and the interaction of temp and time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCA_modelValidationTimeAndInteraction.png)  
-			![ASCA outlier x leaverage plot for temperature](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Temperature.png)  
-			![ASCA outlier x leaverage plot for time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Time.png)  
-			![ASCA outlier x leaverage plot for temperature x time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Interaction.png)  
+			![ASCA model validation for temperature](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCA_modelValidationTemperature.png "ASCA model validation for temperature")   
+			![ASCA model validation for time and the interaction of temp and time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCA_modelValidationTimeAndInteraction.png "ASCA model validation for time and the interaction of temp and time")  
+			![ASCA outlier x leaverage plot for temperature](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Temperature.png "ASCA outlier x leaverage plot for temperature")  
+			![ASCA outlier x leaverage plot for time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Time.png "ASCA outlier x leaverage plot for time")  
+			![ASCA outlier x leaverage plot for temperature x time](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_ASCAoutlierLevPlot_Interaction.png "ASCA outlier x leaverage plot for temperature x time")  
 		- ran heatmap function to get a better idea of the behavior of the protiens  
-			![heatmap of protein abundance over time in the two temperatures (euclidean distance and ward clustering)](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_heatmap_temperature.png)  
+			![heatmap of protein abundance over time in the two temperatures (euclidean distance and ward clustering)](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/Oct9_metaboA_imgs/data_PC1_0.05_selects_heatmap_temperature.png "heatmap of protein abundance over time in the two temperatures (euclidean distance and ward clustering)")  
 			+ i'm not sure what to think of the proteins that don't show any abundance except in two samples (ACT.527m15, LOCI100497129, and TXND3.2.4m2). Should these really be included in the analysis?  
 
 * conclusions:  
