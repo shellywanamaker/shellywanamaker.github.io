@@ -14,7 +14,7 @@ title: Tues. Oct 9, 2018
 		- 1) ordered from highest to zero 
 		![](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/data_PC1_positive0.05_selects.png)
 		- 2) ordered from lowest to zero  
-		!()[https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/data_PC1_positive0.05_selects.png]
+		![](https://github.com/shellytrigg/OysterSeedProject/blob/master/analysis/ASCA/ASCA_shellytest/data_PC1_positive0.05_selects.png)
 		* the reason for this was to identify proteins that explain the most variation in PC1
 		* based on the two plots I made a high and low loadings cut-off:
 			+ loadings value >= 0.05 or loadings value <= -0.05
