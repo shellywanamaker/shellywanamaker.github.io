@@ -23,7 +23,7 @@ I am a West Coast transplant, originally from Boston, MA. After completing my B.
 
 ### Contact
 | | |
-|:--------------------:|:--------------------|
-| **Email:** | [strigg@uw.edu](mailto:strigg@uw.edu) |
-| **Office:**| School of Aquatic and Fishery Sciences, FTR 234 |
-| **Mailing address:** | School of Aquatic and Fishery Sciences, University of Washington, 1122 NE Boat Street, Room 116, Seattle, WA 98105 |
+:--------------------:|:--------------------
+ **Email:** | [strigg@uw.edu](mailto:strigg@uw.edu) 
+ **Office:**| School of Aquatic and Fishery Sciences, FTR 234 
+ **Mailing address:** | School of Aquatic and Fishery Sciences, University of Washington, 1122 NE Boat Street, Room 116, Seattle, WA 98105 
