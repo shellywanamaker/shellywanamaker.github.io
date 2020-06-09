@@ -10,7 +10,7 @@ title: Outreach
 
 ## Eductional media development
 
-#### NOAA and National Marine Sanctuaries
+### NOAA and National Marine Sanctuaries
 
 - **Video short (2019):**  [Dungeness crabs in changing waters](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true) 
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/dCrab_Fullvid.jpg)](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true)
@@ -25,7 +25,7 @@ This communication toolkit is designed for educators and communicators to use to
 What is ocean acidification? And how could it affect the future of Dungeness crab, one of our favorite seafoods? Join us as we walk through a new national marine sanctuaries educational toolkit to equip you for teaching others about what ocean acidification could mean for the Dungeness crab, how this is currently being investigated, and resources to get more involved. This is a webinar I presented describing the contents of the toolkit and how they can be used. 
 
 
-#### Salk Institute for Biological Studies
+### Salk Institute for Biological Studies
 - **Video lab tour (2016):**  [Meet Salk Plant Biology 2016](https://youtu.be/9HdoPcgRO4w)  
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/Sequence%202%20cover%201.jpg)](https://youtu.be/9HdoPcgRO4w)
 This is an introduction to and virtual tour of the Plant Biology research happening at the Salk Institute for Biological Studies in La Jolla, CA given by PhD student Shelly Trigg (Ecker Lab). It was produced by Aaron Howard (Video Communications) with help from Dona Mapston (Education Outreach Director) at the Salk Institute. It was shown to visiting community college students in conjunction with a plant biology seminar given by Dr. Carl Procko (Chory Lab) in Fall 2016.
