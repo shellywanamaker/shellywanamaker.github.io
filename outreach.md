@@ -62,7 +62,7 @@ I presented a geoduck demonstration together with the Roberts Lab showcasing dif
 	This is an annual 1-day career panel event that I co-led through AWIS San Diego. For more info, check out [my article](https://drive.google.com/open?id=1xkkrzvT-9xwbTIWbci15C9d3HP8sXlpi) published in the [AWIS newsletter](https://www.awissd.org/images/newsletter/Jan_Feb_2015.pdf)
 
 - **Greater San Diego Science and Engineering Festival**  
-	This is a poster I designed for our Oobleck demonstration for Expo day
+	This is a poster I designed for AWIS outreach's Oobleck demonstration for Expo day 2014-15
 	<iframe src="https://drive.google.com/file/d/1JCIuqk8q_Qesb5ctfT1q4J-8cNaD9RbJ/preview" width="640" height="480"></iframe>
 
 ## SciArt
