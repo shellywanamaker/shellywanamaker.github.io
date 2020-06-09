@@ -1,18 +1,126 @@
 ---
-layout: default
+layout: page
+title: Shelly Trigg
+subtitle: Systems Biologist and Data Scientist
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<meta property="og:image" content="{{ post.thumbnail }}">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
+<h1> My Interests </h1>
+
+<p>I am interested in understanding how species respond to human-influenced environmental change and incorporating this knowledge into present day policies and education. I study a variety of animals and questions, all unified by the use of genomics technologies and bioinformatics tools to allow for better resolution of response mechanisms. My research includes trying to determine what environmental factors lead to stronger responses, how ... and ...  <br>
+
+I am a proponent for open science and use an open access online lab notebook as well as GitHub to publicly share my research and support reproducibility.
+
+I am currently a postdoctoral researcher with Dr. Steven Roberts at the University of Washington. 
+
+</p>
+
+<h1> Current Research </h1>
+
+<p>Pacific oyster development under altered temperature<br>
+&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>Pacific geoduck development under altered pH<br>
+&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>Sea lice-challenged Atlantic salmon under altered temperature and salinity<br>
+&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>Pteropod under altered dissolved oxygen and pH<br>
+&nbsp;&nbsp;&nbsp;
+</p>
+
+<h1> Lab Notebook Posts </h1>
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+    <h2 class="post-title">{{ post.title }}</h2>
+
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+      {{ post.subtitle }}
+    </h3>
+    {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: site.date_format }}
+    </p>
+
+    <div class="post-entry-container">
+      {% if post.image %}
+      <div class="post-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}">
+        </a>
       </div>
+      {% endif %}
+      <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+      </div>
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
+   </article>
   {% endfor %}
 </div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+
+<h1> Contact </h1>
+
+<p>Email:<br>
+&nbsp;&nbsp;&nbsp;<a href="mailto:strigg@uw.edu">strigg [at] uw [dot] edu</a>
+</p>
+
+<p>
+Office:<br>
+&nbsp;&nbsp;&nbsp;University of Washington<br>
+&nbsp;&nbsp;&nbsp;School of Aquatic and Fishery Sciences<br>
+&nbsp;&nbsp;&nbsp;1122 NE Boat Street, FTR 234 <br>
+&nbsp;&nbsp;&nbsp;Seattle, WA 98105, USA <br>
+</p>
+
+<p>
+Mail Address:<br>
+&nbsp;&nbsp;&nbsp;Shelly Trigg<br>
+&nbsp;&nbsp;&nbsp;University of Washington<br>
+&nbsp;&nbsp;&nbsp;1122 NE Boat Street Room 116 <br>
+&nbsp;&nbsp;&nbsp;Seattle, WA 98105, USA <br>
+</p>
