@@ -3,33 +3,38 @@ layout: page
 title: Outreach
 ---
 
+## Contents
+- [Eductional media development](#eductational-media-development)
+- [Events](#events)
+- [SciArt](#sciart)
 
 ## Eductional media development
 
-### NOAA and National Marine Sanctuaries
+#### NOAA and National Marine Sanctuaries
 
-- [**Ocean Acidification Communication Toolkit: Dungeness Crab Case Study**](https://sanctuaries.noaa.gov/education/crab-toolkit.html) (2018, Educational Toolkit):
-[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/Screen%20Shot%202020-02-12%20at%203.23.04%20PM.png)](https://sanctuaries.noaa.gov/education/crab-toolkit.html)
-This communication toolkit is designed for educators and communicators to use to teach others about the impact of ocean acidification on Dungeness crab. The toolkit includes fact sheet, infographic, PowerPoint slideshow with script, reference list, resource list, public domain video B-roll, and public domain images. I developed this toolkit in collaboration with the NOAA Northwest Fisheries Science Center, West Coast National Marine Sanctuaries outreach team, and Freelance Photographer (and my husband) [Austin Trigg](https://austintrigg.com/noaa-washington-fish-and-wildlife).
-
-- [**Be a Claw Abiding Citizen: Learn how Ocean Acidification could Affect Dungeness Crab**](https://sanctuaries.noaa.gov/education/teachers/be-a-claw-abiding-citizen.html) (2018, webinar):  
-[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/NMS_Webinar20181017.jpg)](https://sanctuaries.noaa.gov/education/teachers/be-a-claw-abiding-citizen.html)
-What is ocean acidification? And how could it affect the future of Dungeness crab, one of our favorite seafoods? Join us as we walk through a new national marine sanctuaries educational toolkit to equip you for teaching others about what ocean acidification could mean for the Dungeness crab, how this is currently being investigated, and resources to get more involved. This is a webinar I presented describing the contents of the toolkit and how they can be used. 
-
-- [**Dungeness crabs in changing waters**](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true) (2019, video):  
+- **Video short (2019):**  [Dungeness crabs in changing waters](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true) 
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/dCrab_Fullvid.jpg)](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true)
 Research suggests that Dungeness crabs are sensitive to the increasing acidity of our oceans. This research will help answer the question of how ocean acidification affects Dungeness crab and will inform strategies to sustain this robust fishery. I helped curate and advise the production of this video. 
 
-### Salk Institute for Biological Studies
-- [**Meet Salk Plant Biology 2016**](https://youtu.be/9HdoPcgRO4w) (2016, video):  
+- **Educational Toolkit (2018):**  [Ocean Acidification Communication Toolkit: Dungeness Crab Case Study](https://sanctuaries.noaa.gov/education/crab-toolkit.html)
+[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/Screen%20Shot%202020-02-12%20at%203.23.04%20PM.png)](https://sanctuaries.noaa.gov/education/crab-toolkit.html)
+This communication toolkit is designed for educators and communicators to use to teach others about the impact of ocean acidification on Dungeness crab. The toolkit includes fact sheet, infographic, PowerPoint slideshow with script, reference list, resource list, public domain video B-roll, and public domain images. I developed this toolkit in collaboration with the NOAA Northwest Fisheries Science Center, West Coast National Marine Sanctuaries outreach team, and Freelance Photographer (and my husband) [Austin Trigg](https://austintrigg.com/noaa-washington-fish-and-wildlife).
+
+- **Webinar (2018):**  [Be a Claw Abiding Citizen: Learn how Ocean Acidification could Affect Dungeness Crab](https://sanctuaries.noaa.gov/education/teachers/be-a-claw-abiding-citizen.html) 
+[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/NMS_Webinar20181017.jpg)](https://sanctuaries.noaa.gov/education/teachers/be-a-claw-abiding-citizen.html)
+What is ocean acidification? And how could it affect the future of Dungeness crab, one of our favorite seafoods? Join us as we walk through a new national marine sanctuaries educational toolkit to equip you for teaching others about what ocean acidification could mean for the Dungeness crab, how this is currently being investigated, and resources to get more involved. This is a webinar I presented describing the contents of the toolkit and how they can be used. 
+
+
+#### Salk Institute for Biological Studies
+- **Video lab tour (2016):**  [Meet Salk Plant Biology 2016](https://youtu.be/9HdoPcgRO4w)  
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/Sequence%202%20cover%201.jpg)](https://youtu.be/9HdoPcgRO4w)
 This is an introduction to and virtual tour of the Plant Biology research happening at the Salk Institute for Biological Studies in La Jolla, CA given by PhD student Shelly Trigg (Ecker Lab). It was produced by Aaron Howard (Video Communications) with help from Dona Mapston (Education Outreach Director) at the Salk Institute. It was shown to visiting community college students in conjunction with a plant biology seminar given by Dr. Carl Procko (Chory Lab) in Fall 2016.
 
-- [**New Frontiers in Science Education Project**](https://www.youtube.com/watch?v=Lb6xvHVhpwQ&feature=youtu.be) (2016, video):  
+- **Video curriculum (2016):**  [New Frontiers in Science Education Project](https://www.youtube.com/watch?v=Lb6xvHVhpwQ&feature=youtu.be) 
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/AAAS_newFrontiers.jpg)](https://www.youtube.com/watch?v=Lb6xvHVhpwQ&feature=youtu.be)
 This video was developed by the Salk Education Outreach team as part of the New Frontiers in Science Education project funded by AAAS. It features Dr. Amy Rommel on her brain cancer research journey at the Salk Institute assisted by two high school students. Because this style of video is meant to provide exposure to real present-day research while building critical thinking skills, there are pausing points throughout the video to discuss topics in a classroom setting. I was on the advisory committee for this video alongside the Salk Education Outreach directors, Salk research scientists, and regional high school teachers. 
 
-## Outreach events
+## Events
 
 ### 2019 SAFS Open House
 [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/SAFS_OpenHouse2019.jpg)](https://www.ocean.washington.edu/story/Exploring_Our_Watery_World_at_UWs_Aquatic_Science_Open_House)
@@ -50,8 +55,9 @@ I presented a geoduck demonstration together with the Roberts Lab showcasing dif
 
 - [**Undergraduate Career Panel**](https://www.awissd.org/index.php/outreach-program) 
 
-	|![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/DSC02603.JPG) | ![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/group-AWIS%20panel-DSC02607-1.JPG)|  
+	|| |  
 	|:--------------------:|:--------------------:|
+	|![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/DSC02603.JPG) | ![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/group-AWIS%20panel-DSC02607-1.JPG)| 
 	
 	This is an annual 1-day career panel event that I co-led through AWIS San Diego. For more info, check out [my article](https://drive.google.com/open?id=1xkkrzvT-9xwbTIWbci15C9d3HP8sXlpi) published in the [AWIS newsletter](https://www.awissd.org/images/newsletter/Jan_Feb_2015.pdf)
 
@@ -61,10 +67,12 @@ I presented a geoduck demonstration together with the Roberts Lab showcasing dif
 
 ## SciArt
 
-These graphics were created in collaboration with [Austin Trigg]() and Lisa Servilio and Jamie Simon (The Salk Institute for Biological Studies) and eventually made it on the cover of Nature Methods for the August 2017 issue.
+These graphics were created in collaboration with [Austin Trigg](https://austintrigg.com/), Lisa Servilio and Jamie Simon (The Salk Institute for Biological Studies). They eventually made it on the cover of Nature Methods for the August 2017 issue!
 
-|[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover.jpg)](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover.jpg) | [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover%20green.jpg)](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover%20green.jpg)|
+|||
 |:--------------------:|:--------------------:|
+|[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover.jpg)](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover.jpg) | [![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover%20green.jpg)](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/CrY2H-seq_cover%20green.jpg)|
 
-[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/nature-methods-coveraugust-2017.jpg)]() 
+[![](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/nature-methods-coveraugust-2017.jpg)](https://raw.githubusercontent.com/shellytrigg/beautiful-jekyll/master/img/nature-methods-coveraugust-2017.jpg) 
+
 A massively multiplexed yeast two-hybrid method, CrY2H-seq, enables deep coverage mapping of the Arabidopsis interactome. Cover prepared by Erin Dewalt, based on design and artwork by Shelly Trigg, Lisa Servilio, and Jamie Simon of The Salk Institute for Biological Studies, and Austin Trigg of Austin Trigg Photography
