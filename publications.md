@@ -10,7 +10,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 **SA Trigg**, G Nunez-Acuna, V Valenzuela-Munoz, D Valenzuela-Miranda, C Gallardo-Escárate, and SB Roberts. (2020) Epigenomic and transcriptomic relationships in Atlantic salmon infested with sea lice under a changing environment. (_In preparation_).
 
 **SA Trigg**. (2020) Environmental influence on the Atlantic salmon epigenome during sea lice infestation. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.10882775.v1](https://doi.org/10.6084/m9.figshare.10882775.v1)
-	**SA Trigg**, KM Mitchell, R Elliott, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. (_In preparation_).
+	**SA Trigg**, KM Mitchell, R Elliott Thompson, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. bioRxiv 2020.06.05.137059; [https://doi.org/10.1101/2020.06.05.137059](https://doi.org/10.1101/2020.06.05.137059)
 
 **SA Trigg**. (2020) A protein inventory reveals mechanisms of temperature impact on oyster development. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.11839359.v1](https://doi.org/10.6084/m9.figshare.11839359.v1)
 HM Putnam, **SA Trigg**, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2020) Environmental memory through dynamic DNA methylation provides acclimatization of geoduck clams to ocean acidification. (_In preparation_).
