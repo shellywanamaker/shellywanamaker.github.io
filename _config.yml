@@ -90,10 +90,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: striggosaurus
 #  facebook: true
-  linkedin: true
-  github: true
+  linkedin: shelly-trigg-ph-d-670b6121
+  github: shellytrigg
 
 
 # How to display the link to the website in the footer
