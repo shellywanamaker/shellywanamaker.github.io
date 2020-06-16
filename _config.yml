@@ -166,6 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/notebook/page:num/"
 
 kramdown:
   input: GFM
