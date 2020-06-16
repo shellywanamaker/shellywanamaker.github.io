@@ -72,11 +72,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: false
-  email: true
+  email: "strigg@uw.edu"
 # facebook: false
-  github: true
-  twitter: true
-  linkedin: true
+  github: shellytrigg
+  twitter: striggosaurus
+  linkedin: shelly-trigg-ph-d-670b6121
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
