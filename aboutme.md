@@ -5,7 +5,7 @@ subtitle: Postdoctoral Researcher, University of Washington
 ---
 
 ### Profiles
-- [CV](https://htmlpreview.github.io/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTriggJul2020CV.html)
+- [CV](https://github.com/shellytrigg/shellytrigg.github.io/raw/master/docs/ShellyTriggJul2020CV.pdf)
 - [UW Data Science Fellow profile](https://escience.washington.edu/people/shelly-trigg/)
 - [ORCID](https://orcid.org/0000-0001-6904-4149)
 - [LinkedIn](https://www.linkedin.com/in/shelly-trigg-ph-d-670b6121)
