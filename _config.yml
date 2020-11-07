@@ -20,7 +20,7 @@ description: Professional website and lab notebook
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "/img/ShellyTriggJul2020CV.pdf"
+  CV: "/CV/ShellyTriggJul2020CV.pdf"
   About: "aboutme"
   Lab Notebook: "notebook"
   Publications: "publications"
