@@ -29,7 +29,7 @@ HM Putnam, **SA Trigg**, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetze
 
 ## 2019 **SA Trigg**, P McElhany, M Maher, D Perez, DS Busch, and KM Nichols. (2019) Uncovering mechanisms of global ocean change effects on Dungeness crab (Cancer magister) through metabolomics analysis. _Scientific Reports_. [https://doi.org/10.1101/574798](https://doi.org/10.1101/574798).
 
-**SA Trigg**. (2019) Temperature-influenced protein network differences in the Pacific Oyster (_Crossostrea gigas_) during larval development. Cold Spring Harbor Network Biology Conference. _figshare_. Poster. https://doi.org/10.6084/m9.figshare.7853573.v1 
+**SA Trigg**. (2019) Temperature-influenced protein network differences in the Pacific Oyster (_Crossostrea gigas_) during larval development. Cold Spring Harbor Network Biology Conference. _figshare_. Poster. [https://doi.org/10.6084/m9.figshare.7853573.v1](https://doi.org/10.6084/m9.figshare.7853573.v1) 
 
 ## 2018
 **SA Trigg**. (2018) High-resolution molecular networks from novel'omics' approaches elucidate survival strategies in organsisms from land to sea. _UC San Diego_. ProQuest ID: Trigg_ucsd_0033D_17575. Merritt ID: ark:/13030/m5t77f99. [https://escholarship.org/uc/item/0491n31k](https://escholarship.org/uc/item/0491n31k)
