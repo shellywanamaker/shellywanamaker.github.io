@@ -5,20 +5,31 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=LVDTddwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Shelly_Trigg) and [ORCID](https://orcid.org/0000-0001-6904-4149).
 
-## 2020
+## 2021
+**SA Trigg***, YR Venkataraman\*, MR Gavery, SB Roberts, D Bhattacharya, A Downey-Wall, JM Eirin-Lopez, KM Johnson, KE Lotterhos, JR Puritz, and HM Putnam. (2021) Invertebrate methylomes provide insight intomechanisms of environmental tolerance and reveal methodological biases. bioRxiv preprint.[https://doi.org/10.1101/2021.03.29.437539](https://doi.org/10.1101/2021.03.29.437539).
+
+**SA Trigg**. (2021) Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation. The Society for Integrative and Comparative Biology (SICB)
+2021 Virtual Annual Meeting. Presentation. [https://github.com/shellytrigg/talk-SICB2021](https://github.com/shellytrigg/talk-SICB2021)
 
 **SA Trigg**, G Nunez-Acuna, V Valenzuela-Munoz, D Valenzuela-Miranda, C Gallardo-Escárate, and SB Roberts. (2020) Epigenomic and transcriptomic relationships in Atlantic salmon infested with sea lice under a changing environment. (_In preparation_).
 
+HM Putnam, **SA Trigg**, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2020) Environmental memory through dynamic DNA methylation provides acclimatization of geoduck clams to ocean acidification. (_In preparation_).
+
+**SA Trigg**, DS Busch, P McElhany, M Maher, D Perez, C O’Brien, and KM Nichols. (2020) Searching for signs of resilience in over-wintering juvenile pteropods to ocean acidification and deoxygenation. [https://doi.org/10.6084/m9.figshare.12440192.v1](https://doi.org/10.6084/m9.figshare.12440192.v1). (_In preparation_).
+
+## 2020
+
 **SA Trigg**. (2020) Environmental influence on the Atlantic salmon epigenome during sea lice infestation. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.10882775.v1](https://doi.org/10.6084/m9.figshare.10882775.v1).
-	**SA Trigg**, KM Mitchell, R Elliott Thompson, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. _BMC Genomics_. (_In review_). bioRxiv [https://doi.org/10.1101/2020.06.05.137059](https://doi.org/10.1101/2020.06.05.137059). 
+	**SA Trigg**, KM Mitchell, R Elliott Thompson, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. _BMC Genomics_. 
 
 **SA Trigg**. (2020) A protein inventory reveals mechanisms of temperature impact on oyster development. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.11839359.v1](https://doi.org/10.6084/m9.figshare.11839359.v1).
-HM Putnam, **SA Trigg**, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2020) Environmental memory through dynamic DNA methylation provides acclimatization of geoduck clams to ocean acidification. (_In preparation_).
 
-**SA Trigg**. (2020) Influence of ocean acidification on DNA methylation patterns in geoduck. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.11839356.v1](https://doi.org/10.6084/m9.figshare.11839356.v1).**SA Trigg**, DS Busch, P McElhany, M Maher, D Perez, C O’Brien, and KM Nichols. (2020) Searching for signs of resilience in over-wintering juvenile pteropods to ocean acidification and deoxygenation. [https://doi.org/10.6084/m9.figshare.12440192.v1](https://doi.org/10.6084/m9.figshare.12440192.v1). (_In preparation_).BC Willige, M Zander, A Phan, RM Garza, **SA Trigg**, Y He, JR Nery, H Chen, JR Ecker, and J Chory. (2020) PHYTOCHROME INTERACTING FACTORs trigger environmentally responsive chromatin dynamics. _Nature Genetics_. (_In review_). bioRxiv [https://doi.org/10.1101/826842](https://doi.org/10.1101/826842).
+**SA Trigg**. (2020) Influence of ocean acidification on DNA methylation patterns in geoduck. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.11839356.v1](https://doi.org/10.6084/m9.figshare.11839356.v1).BC Willige, M Zander, A Phan, RM Garza, **SA Trigg**, Y He, JR Nery, H Chen, JR Ecker, and J Chory. (2020) PHYTOCHROME INTERACTING FACTORs trigger environmentally responsive chromatin dynamics. _Nature Genetics_. (_In review_). bioRxiv [https://doi.org/10.1101/826842](https://doi.org/10.1101/826842).
 ET Montaño, [32 others], **SA Trigg**, K Pogliano, and J Pogliano. (2020) Isolation and Characterization of Streptomyces Bacteriophages and the Biosynthetic Arsenals of their Associated Hosts. _PLoS One_. (_In review_). bioRxiv [https://doi.org/10.1101/2020.06.22.164533](https://doi.org/10.1101/2020.06.22.164533)
 
 ## 2019 **SA Trigg**, P McElhany, M Maher, D Perez, DS Busch, and KM Nichols. (2019) Uncovering mechanisms of global ocean change effects on Dungeness crab (Cancer magister) through metabolomics analysis. _Scientific Reports_. [https://doi.org/10.1101/574798](https://doi.org/10.1101/574798).
+
+**SA Trigg**. (2019) Temperature-influenced protein network differences in the Pacific Oyster (_Crossostrea gigas_) during larval development. Cold Spring Harbor Network Biology Conference. _figshare_. Poster. https://doi.org/10.6084/m9.figshare.7853573.v1 
 
 ## 2018
 **SA Trigg**. (2018) High-resolution molecular networks from novel'omics' approaches elucidate survival strategies in organsisms from land to sea. _UC San Diego_. ProQuest ID: Trigg_ucsd_0033D_17575. Merritt ID: ark:/13030/m5t77f99. [https://escholarship.org/uc/item/0491n31k](https://escholarship.org/uc/item/0491n31k)
