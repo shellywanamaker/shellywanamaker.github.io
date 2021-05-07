@@ -49,13 +49,16 @@ In March of 2021, I started my current position as a Research Scientist at [Glou
 
 <img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/climb.png" width="100" height="130" ALIGN = "middle" border="10" style="border-color: white"/>
 
-<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/worf_hike.png" width="100" height="130" ALIGN = "right" border="10" style="border-color: white"/>
+<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/worf_hike.png" width="100" height="130" ALIGN = "left" border="10" style="border-color: white"/>
+
+<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/Surf.jpg" width="180" height="130" ALIGN = "middle" border="10" style="border-color: white"/>
 
 <img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/worf_camp.png" width="100" height="130" ALIGN = "left" border="10" style="border-color: white"/>
 
-<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/Surf.jpg" width="168" height="111" ALIGN = "middle" border="10" style="border-color: white"/>
+<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/snowboard.png" width="118" height="130" ALIGN = "middle" border="10" style="border-color: white"/> <br>
 
-<img src="https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/snowboard.png" width="96" height="108" ALIGN = "right" border="10" style="border-color: white"/>
+<br>
+
 
 ### Contact
  **Email:** [shelly.trigg@gmgi.org](mailto:shelly.trigg@gmgi.org)  
