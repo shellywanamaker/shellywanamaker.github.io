@@ -6,7 +6,7 @@ title: Publications
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=LVDTddwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Shelly_Trigg) and [ORCID](https://orcid.org/0000-0001-6904-4149).
 
 ## 2021
-**SA Trigg***, YR Venkataraman\*, MR Gavery, SB Roberts, D Bhattacharya, A Downey-Wall, JM Eirin-Lopez, KM Johnson, KE Lotterhos, JR Puritz, and HM Putnam. (2021) Invertebrate methylomes provide insight intomechanisms of environmental tolerance and reveal methodological biases. bioRxiv preprint.[https://doi.org/10.1101/2021.03.29.437539](https://doi.org/10.1101/2021.03.29.437539).
+**SA Trigg***, YR Venkataraman\*, MR Gavery, SB Roberts, D Bhattacharya, A Downey-Wall, JM Eirin-Lopez, KM Johnson, KE Lotterhos, JR Puritz, and HM Putnam. (2021) Invertebrate methylomes provide insight intomechanisms of environmental tolerance and reveal methodological biases. _Mol Ecol Resources_ (_In review_) bioRxiv.[https://doi.org/10.1101/2021.03.29.437539](https://doi.org/10.1101/2021.03.29.437539).
 
 **SA Trigg**. (2021) Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation. The Society for Integrative and Comparative Biology (SICB)
 2021 Virtual Annual Meeting. Presentation. [https://github.com/shellytrigg/talk-SICB2021](https://github.com/shellytrigg/talk-SICB2021)
@@ -20,7 +20,7 @@ HM Putnam, **SA Trigg**, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetze
 ## 2020
 
 **SA Trigg**. (2020) Environmental influence on the Atlantic salmon epigenome during sea lice infestation. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.10882775.v1](https://doi.org/10.6084/m9.figshare.10882775.v1).
-	**SA Trigg**, KM Mitchell, R Elliott Thompson, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. _BMC Genomics_. 
+	**SA Trigg**, KM Mitchell, R Elliott Thompson, B Eudeline, B Vadopalas, EB Timmins-Schiffman, SB Roberts. (2020) Temporal proteomic profiling reveals critical developmental processes and temperature-influenced differences in a bivalve mollusc. _BMC Genomics_. [https://doi.org/10.1186/s12864-020-07127-3](https://doi.org/10.1186/s12864-020-07127-3).
 
 **SA Trigg**. (2020) A protein inventory reveals mechanisms of temperature impact on oyster development. _figshare_. Presentation. [https://doi.org/10.6084/m9.figshare.11839359.v1](https://doi.org/10.6084/m9.figshare.11839359.v1).
 
