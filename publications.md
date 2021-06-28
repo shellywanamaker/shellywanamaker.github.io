@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 ## 2021
 **SA Trigg***, YR Venkataraman\*, MR Gavery, SB Roberts, D Bhattacharya, A Downey-Wall, JM Eirin-Lopez, KM Johnson, KE Lotterhos, JR Puritz, and HM Putnam. (2021) Invertebrate methylomes provide insight intomechanisms of environmental tolerance and reveal methodological biases. _Mol Ecol Resources_ (_In review_) bioRxiv.[https://doi.org/10.1101/2021.03.29.437539](https://doi.org/10.1101/2021.03.29.437539).
 
+**SA Trigg**. (2021) Diversity in animal response to environmental chnage. Data Science Coast to Coast 2021 seminar series. Academic Data Science Alliance. [Presentation](https://youtu.be/En2cCNCd6q4). [https://github.com/shellytrigg/talk-Coast2Coast2021](https://github.com/shellytrigg/talk-Coast2Coast2021)  
+
 **SA Trigg**. (2021) Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation. The Society for Integrative and Comparative Biology (SICB)
 2021 Virtual Annual Meeting. Presentation. [https://github.com/shellytrigg/talk-SICB2021](https://github.com/shellytrigg/talk-SICB2021)
 

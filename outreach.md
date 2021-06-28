@@ -10,6 +10,24 @@ title: Outreach
 
 ## Eductional media development
 
+### UW School of Aquatic and Fishery Sciences
+- **Website Design Workshop:** [Increase your visibility: Crafting professional
+websites using GitHub](https://github.com/OARS-SAFS/Website-Design)  
+[Workshop Recording](https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.mp4)  
+[![](https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/2020_SAFSGSS_Website_wksp.png)](https://raw.githubusercontent.com/shellytrigg/shellytrigg.github.io/master/img/2020_SAFSGSS_Website_wksp.png)  
+Organizers: Shelly Trigg, Yaamini Venkataraman,
+Sam White  
+Graduate Student Symposium November 2020  
+This hands-on workshop introduces methods for
+crafting professional websites using the GitHub
+platform. These products are great ways to publicly
+showcase and share your research with potential
+employers and the community at large. The aim is
+for participants to leave with resources, tools, and a
+starter website that they can continue customizing
+into the future. It’s time to give yourself the online
+presence you and your work deserve!
+
 ### NOAA and National Marine Sanctuaries
 
 - **Video short (2019):**  [Dungeness crabs in changing waters](https://videos.fisheries.noaa.gov/detail/videos/west-coast-region/video/6029222940001/dungeness-crabs-in-changing-waters:-research-on-ocean-acidification?autoStart=true) 
