@@ -10,7 +10,7 @@ subtitle: Research Scientist, Gloucester Marine Genomics Institute
 - [Gloucester Marine Genomics Institute](https://gmgi.org/about/team/research-team/shelly-trigg-phd/)
 - [GitHub](https://github.com/shellywanamaker)
 - [ResearchGate](https://www.researchgate.net/profile/Shelly-Trigg-2)
-- [Google Scholar](https://scholar.google.com/citations?user=LVDTddwAAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=j2jUUqMAAAAJ&hl=en)
 
 
 
