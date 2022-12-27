@@ -7,7 +7,7 @@ title: Friday. Sept 28, 2018
 * work on Bismark alignment comparison  
 	+ how does Bismark compare to Methylpy?  
 		+ reference papers:  
-		+ [jupyter notebook](https://github.com/shellytrigg/C_virginica/blob/master/MethylPy_comparison.ipynb)  
+		+ [jupyter notebook](https://github.com/shellywanamaker/C_virginica/blob/master/MethylPy_comparison.ipynb)  
 		+ install methylpy  
 		+ try bowtie vs. minimap  
 		+ make genomes  

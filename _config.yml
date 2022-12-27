@@ -62,7 +62,7 @@ footer-link-col: "#404040"
 author:
   name: Shelly A. Trigg
   email: "strigg@uw.edu"
-  github: shellytrigg
+  github: shellywanamaker
   twitter: striggosaurus
   linkedin: shelly-trigg-ph-d-670b6121
   og_image: "/img/Shelly-Headshot.jpg"
@@ -75,7 +75,7 @@ social-network-links:
 # rss: false
   email: "strigg@uw.edu"
 # facebook: false
-  github: shellytrigg
+  github: shellywanamaker
   twitter: striggosaurus
   linkedin: shelly-trigg-ph-d-670b6121
 #  xing: yourname
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "shellytrigg.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "shellywanamaker.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
