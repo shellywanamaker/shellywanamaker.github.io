@@ -27,7 +27,7 @@ BC Willige, M Zander, CY Yoo, A Phan, RM Garza, **SA Wanamaker**, Y He, JR Nery,
 X Yang, [15 others], **SA Wanamaker**, [20 others], and M Vidal. (2016) Widespread expansion of protein interaction capabilities by alternative splicing. _Cell_. 164(4):805-817. [https://doi.org/10.1016/j.cell.2016.01.029](https://doi.org/10.1016/j.cell.2016.01.029).T Rolland, [53 others], **SA Wanamaker**, [14 others], and M Vidal. (2014) A proteome-scale map of the human interactome network. _Cell_. 159(5):1212-1226. [https://doi.org/10.1016/j.cell.2014.10.050](https://doi.org/10.1016/j.cell.2014.10.050).R Corominas, [8 others], **SA Wanamaker**, [18 others], M Vidal, and LM Iakoucheva. (2014) Protein interaction network of alternatively spliced isoforms from brain links genetic risk factors for autism. _Nat commun_. 5:3650. [https://doi.org/10.1038/ncomms4650](https://doi.org/10.1038/ncomms4650).
 O Rozenblatt-Rosen, [36 others], **S Wanamaker**, [13 others], and M Vidal. (2012) Interpreting cancer genomes using systematic host network perturbations by tumour virus proteins. _Nature_. 487(7408):491-495. [https://doi.org/10.1038/nature11288](https://doi.org/10.1038/nature11288).
 
-###Select Presentations
+### Select Presentations
 
 **SA Wanamaker**. (2021) Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation. The Society for Integrative and Comparative Biology (SICB) 2021 Virtual Annual Meeting. [https://github.com/shellywanamaker/talk-SICB2021](https://github.com/shellywanamaker/talk-SICB2021)
 
