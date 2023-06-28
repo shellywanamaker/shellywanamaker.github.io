@@ -7,8 +7,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 SR Major, MJ Harke, R Cruz-Flores, AK Dhar, AG Bodnar, and **SA Wanamaker**. (2023) Rapid detection of DNA and RNA shrimp viruses using CRISPR-based diagnostics. _Applied and Environmental Microbiology_. [https://doi.org/10.1128/aem.02151-22](https://doi.org/10.1128/aem.02151-22).
 
-HM Putnam*, **SA Wanamaker\***, [SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2023) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in an important marine bivalve.  _Proceedings of the Royal Society B_. In
-review. Preprint: [https://doi.org/10.1101/2022.06.24.497506](https://doi.org/10.1101/2022.06.24.497506). * indicates co-first authorship.
+HM Putnam*, **SA Wanamaker\***, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2023) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in an important marine bivalve.  _Proceedings of the Royal Society B_. _In
+review_. Preprint: [https://doi.org/10.1101/2022.06.24.497506](https://doi.org/10.1101/2022.06.24.497506). * indicates co-first authorship.
 
 SJ Gurr, **SA Wanamaker**, B Vadopalas, SB Roberts, and HM Putnam. (2022) Acclimatory gene expression of primed clams enhances robustness to elevated pCO2. _Molecular Ecology_. [https://doi.org/10.1111/mec.16644](https://doi.org/10.1111/mec.16644).
 
