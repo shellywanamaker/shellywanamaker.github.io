@@ -5,10 +5,19 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=LVDTddwAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Shelly_Trigg) and [ORCID](https://orcid.org/0000-0001-6904-4149).
 
-SR Major, MJ Harke, R Cruz-Flores, AK Dhar, AG Bodnar, and **SA Wanamaker**. (2023) Rapid detection of DNA and RNA shrimp viruses using CRISPR-based diagnostics. _Applied and Environmental Microbiology_. [https://doi.org/10.1128/aem.02151-22](https://doi.org/10.1128/aem.02151-22).
+**Press Releases and Media Coverage**
 
-HM Putnam*, **SA Wanamaker\***, SJ White, LH Spencer, B Vadopalas, A Natarajan, J Hetzel, E Jaeger, J Soohoo, C Gallardo-Escárate, FW Goetz, and SB Roberts. (2023) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in an important marine bivalve.  _Proceedings of the Royal Society B_. _In
-review_. Preprint: [https://doi.org/10.1101/2022.06.24.497506](https://doi.org/10.1101/2022.06.24.497506). * indicates co-first authorship.
+- Nov 2023. Responsible Seafood Advocate, [Minutes, not days: Partnership takes aim at rapid tests for shrimp diseases](https://www.globalseafood.org/advocate/minutes-not-days-partnership-takes-aim-at-rapid-tests-for-shrimp-diseases/)
+- Feb 2019. The Scientist, [Mapping the cellular social network of proteins](https://www.the-scientist.com/mapping-the-cellular-social-network-of-proteins-65385)
+- Jun 2017. AAAS EurekAlert, [New method to rapidly map the 'social networks' of proteins](https://www.eurekalert.org/news-releases/718259)
+
+YR Venkataraman, AS Huffmyer, SJ White, A Downey-Wall, J Ashey, DM Becker, Z Bengtsson, HM Putnam, E Strand, JA Rodríguez-Casariego, **SA Wanamaker**, KE Lotterhos, and SB Roberts. (2024) DNA methylation correlates with transcriptional noise in response to elevated pCO2 in the eastern oyster (Crassostrea virginica). Environmental Epigenomics. dvae018. [https://doi.org/10.1093/eep/dvae018](https://doi.org/10.1093/eep/dvae018)
+
+V Velenzuela-Munoz, **SA Wanamaker**, G Nunez-Acuna, D Valenzuela-Miranda, A Garcia, JA Valdes, SB Roberts, and C Gallardo-Escarate. (2024) Environmental influence on the Atlantic salmon transcriptome and methylome during sea lice infestations. Fish and Shellfish Immunology. [https://doi.org/10.1016/j.fsi.2024.109692](https://doi.org/10.1016/j.fsi.2024.109692)
+
+HM Putnam*, **SA Wanamaker***, [9 others], and SB Roberts. (2024) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams. Proceedings of the Royal Society B. In review. Preprint: [https://doi.org/10.1101/2022.06.24.497506](https://doi.org/10.1101/2022.06.24.497506). *Contributed equally
+
+SR Major, MJ Harke, R Cruz-Flores, AK Dhar, AG Bodnar, and **SA Wanamaker**. (2023) Rapid detection of DNA and RNA shrimp viruses using CRISPR-based diagnostics. _Applied and Environmental Microbiology_. [https://doi.org/10.1128/aem.02151-22](https://doi.org/10.1128/aem.02151-22).
 
 SJ Gurr, **SA Wanamaker**, B Vadopalas, SB Roberts, and HM Putnam. (2022) Acclimatory gene expression of primed clams enhances robustness to elevated pCO2. _Molecular Ecology_. [https://doi.org/10.1111/mec.16644](https://doi.org/10.1111/mec.16644).
 
